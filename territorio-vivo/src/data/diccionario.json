@@ -1,0 +1,7501 @@
+[
+  {
+    "id": "dic-001",
+    "nombre_oficial": "Población Santa Rosa",
+    "alias": [
+      "santa rosa",
+      "pob santa rosa",
+      "la santa rosa",
+      "sta rosa",
+      "poblacion santa rosa"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.73946,
+    "longitud": -72.57574,
+    "unidad_vecinal": "uv-16",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-002",
+    "nombre_oficial": "San José de Lanín",
+    "alias": [
+      "san jose de lanin",
+      "lanin",
+      "pob lanin",
+      "la lanin"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.72037,
+    "longitud": -72.60799,
+    "unidad_vecinal": "uv-20",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-003",
+    "nombre_oficial": "Población Amanecer",
+    "alias": [
+      "amanecer",
+      "pob amanecer",
+      "el amanecer",
+      "poblacion amanecer"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.75633,
+    "longitud": -72.62414,
+    "unidad_vecinal": "uv-05",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-004",
+    "nombre_oficial": "Población Pedro de Valdivia",
+    "alias": [
+      "pedro de valdivia",
+      "pob pedro de valdivia",
+      "la pedro",
+      "poblacion pedro de valdivia"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.72215,
+    "longitud": -72.61714,
+    "unidad_vecinal": "uv-20",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-005",
+    "nombre_oficial": "Población Las Quilas",
+    "alias": [
+      "las quilas",
+      "pob las quilas",
+      "poblacion las quilas"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74894,
+    "longitud": -72.60696,
+    "unidad_vecinal": "uv-04",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-006",
+    "nombre_oficial": "Población Pueblo Nuevo",
+    "alias": [
+      "pueblo nuevo",
+      "pob pueblo nuevo",
+      "poblacion pueblo nuevo"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.70505,
+    "longitud": -72.55619,
+    "unidad_vecinal": "uv-15",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-008",
+    "nombre_oficial": "Villa El Salar",
+    "alias": [
+      "el salar",
+      "salar",
+      "pob el salar",
+      "villa el salar"
+    ],
+    "tipo": "villa",
+    "latitud": -38.71367,
+    "longitud": -72.6279,
+    "unidad_vecinal": "uv-24",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-009",
+    "nombre_oficial": "Villa Los Alerces",
+    "alias": [
+      "los alerces",
+      "villa alerces",
+      "villa los alerces"
+    ],
+    "tipo": "villa",
+    "latitud": -38.76373,
+    "longitud": -72.6903,
+    "unidad_vecinal": "uv-27",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-011",
+    "nombre_oficial": "Villa Portal de la Frontera",
+    "alias": [
+      "portal de la frontera",
+      "el portal",
+      "villa portal",
+      "villa portal de la frontera"
+    ],
+    "tipo": "villa",
+    "latitud": -38.74805,
+    "longitud": -72.64652,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-012",
+    "nombre_oficial": "Villa Altos de Labranza",
+    "alias": [
+      "altos de labranza",
+      "los altos",
+      "villa altos",
+      "villa altos de labranza"
+    ],
+    "tipo": "villa",
+    "latitud": -38.7613,
+    "longitud": -72.77557,
+    "unidad_vecinal": "uv-30",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-013",
+    "nombre_oficial": "Villa El Bosque",
+    "alias": [
+      "el bosque",
+      "villa el bosque"
+    ],
+    "tipo": "villa",
+    "latitud": -38.7591,
+    "longitud": -72.74635,
+    "unidad_vecinal": "uv-28",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-014",
+    "nombre_oficial": "Villa La Esperanza",
+    "alias": [
+      "esperanza",
+      "villa esperanza",
+      "la esperanza",
+      "villa la esperanza"
+    ],
+    "tipo": "villa",
+    "latitud": -38.70365,
+    "longitud": -72.64652,
+    "unidad_vecinal": "uv-24",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-016",
+    "nombre_oficial": "Villa Padre Hurtado",
+    "alias": [
+      "padre hurtado",
+      "villa hurtado",
+      "villa padre hurtado"
+    ],
+    "tipo": "villa",
+    "latitud": -38.7171,
+    "longitud": -72.62882,
+    "unidad_vecinal": "uv-25",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-018",
+    "nombre_oficial": "Escuela Santa Rosa",
+    "alias": [
+      "escuela santa rosa",
+      "colegio santa rosa",
+      "la escuela de santa rosa"
+    ],
+    "tipo": "hito",
+    "latitud": -38.73485,
+    "longitud": -72.57081,
+    "unidad_vecinal": "uv-17",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-021",
+    "nombre_oficial": "Liceo Politécnico Pueblo Nuevo",
+    "alias": [
+      "liceo pueblo nuevo",
+      "liceo politecnico pueblo nuevo",
+      "el liceo"
+    ],
+    "tipo": "hito",
+    "latitud": -38.71811,
+    "longitud": -72.56497,
+    "unidad_vecinal": "uv-14",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-022",
+    "nombre_oficial": "CESFAM Santa Rosa",
+    "alias": [
+      "consultorio santa rosa",
+      "cesfam santa rosa",
+      "el consultorio"
+    ],
+    "tipo": "hito",
+    "latitud": -38.73442,
+    "longitud": -72.57214,
+    "unidad_vecinal": "uv-17",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-023",
+    "nombre_oficial": "CESFAM Amanecer",
+    "alias": [
+      "consultorio amanecer",
+      "cesfam amanecer"
+    ],
+    "tipo": "hito",
+    "latitud": -38.75647,
+    "longitud": -72.62335,
+    "unidad_vecinal": "uv-05",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-024",
+    "nombre_oficial": "CESFAM Pedro de Valdivia",
+    "alias": [
+      "consultorio pedro de valdivia",
+      "cesfam pedro de valdivia"
+    ],
+    "tipo": "hito",
+    "latitud": -38.71355,
+    "longitud": -72.62012,
+    "unidad_vecinal": "uv-24",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-030",
+    "nombre_oficial": "Feria Pinto",
+    "alias": [
+      "feria pinto",
+      "la feria"
+    ],
+    "tipo": "hito",
+    "latitud": -38.73529,
+    "longitud": -72.57983,
+    "unidad_vecinal": "uv-03",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-031",
+    "nombre_oficial": "Plaza Aníbal Pinto",
+    "alias": [
+      "plaza pinto",
+      "plaza anibal pinto",
+      "la plaza de armas"
+    ],
+    "tipo": "hito",
+    "latitud": -38.73998,
+    "longitud": -72.59006,
+    "unidad_vecinal": "uv-01",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-037",
+    "nombre_oficial": "Sector Botrolhue",
+    "alias": [
+      "botrolhue",
+      "sector botrolhue"
+    ],
+    "tipo": "sector",
+    "latitud": -38.74506,
+    "longitud": -72.68326,
+    "unidad_vecinal": "uv-27",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-041",
+    "nombre_oficial": "Escuela Boyeco",
+    "alias": [
+      "escuela boyeco",
+      "escuela de boyeco",
+      "colegio boyeco"
+    ],
+    "tipo": "hito",
+    "latitud": -38.65964,
+    "longitud": -72.71298,
+    "unidad_vecinal": "uv-34",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-042",
+    "nombre_oficial": "Escuela Botrolhue",
+    "alias": [
+      "escuela botrolhue",
+      "escuela de botrolhue"
+    ],
+    "tipo": "hito",
+    "latitud": -38.76285,
+    "longitud": -72.6905,
+    "unidad_vecinal": "uv-27",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-043",
+    "nombre_oficial": "CESFAM Labranza",
+    "alias": [
+      "cesfam labranza",
+      "consultorio labranza",
+      "consultorio de labranza"
+    ],
+    "tipo": "hito",
+    "latitud": -38.76284,
+    "longitud": -72.75325,
+    "unidad_vecinal": "uv-29",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-044",
+    "nombre_oficial": "Escuela Tromén Alto G-518",
+    "alias": [
+      "escuela tromen alto",
+      "escuela de tromen alto",
+      "escuela tromen alto g-518"
+    ],
+    "tipo": "hito",
+    "latitud": -38.69024,
+    "longitud": -72.73346,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-045",
+    "nombre_oficial": "Escuela Tromén Bajo",
+    "alias": [
+      "escuela tromen bajo",
+      "escuela de tromen bajo"
+    ],
+    "tipo": "hito",
+    "latitud": -38.68973,
+    "longitud": -72.7657,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-046",
+    "nombre_oficial": "Posta de Salud Rural Conoco",
+    "alias": [
+      "posta conoco",
+      "posta de conoco",
+      "posta rural conoco",
+      "posta de salud rural conoco"
+    ],
+    "tipo": "hito",
+    "latitud": -38.62345,
+    "longitud": -72.74159,
+    "unidad_vecinal": "uv-34",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-047",
+    "nombre_oficial": "Escuela Mollulco",
+    "alias": [
+      "escuela mollulco",
+      "escuela de mollulco"
+    ],
+    "tipo": "hito",
+    "latitud": -38.71266,
+    "longitud": -72.75527,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-048",
+    "nombre_oficial": "Posta de Salud Rural Collimallín",
+    "alias": [
+      "posta collimallin",
+      "posta de collimallin",
+      "posta rural collimallin",
+      "posta de salud rural collimallin"
+    ],
+    "tipo": "hito",
+    "latitud": -38.60605,
+    "longitud": -72.69721,
+    "unidad_vecinal": "uv-35",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-049",
+    "nombre_oficial": "Escuela Reducción Monte Verde",
+    "alias": [
+      "escuela monte verde",
+      "escuela de monte verde",
+      "escuela reduccion monte verde"
+    ],
+    "tipo": "hito",
+    "latitud": -38.6954,
+    "longitud": -72.59042,
+    "unidad_vecinal": "uv-36",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-050",
+    "nombre_oficial": "Escuela Intercultural Trañi Trañi",
+    "alias": [
+      "escuela trañi trañi",
+      "escuela de trañi trañi",
+      "escuela trani trani",
+      "escuela intercultural trañi trañi"
+    ],
+    "tipo": "hito",
+    "latitud": -38.74107,
+    "longitud": -72.71385,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-051",
+    "nombre_oficial": "Escuela Municipal Labranza",
+    "alias": [
+      "escuela labranza",
+      "escuela de labranza",
+      "escuela municipal labranza"
+    ],
+    "tipo": "hito",
+    "latitud": -38.76466,
+    "longitud": -72.75305,
+    "unidad_vecinal": "uv-30",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-052",
+    "nombre_oficial": "Plaza Heriberto Neira",
+    "alias": [
+      "plaza heriberto neira",
+      "plaza de labranza",
+      "plaza labranza"
+    ],
+    "tipo": "hito",
+    "latitud": -38.76679,
+    "longitud": -72.75333,
+    "unidad_vecinal": "uv-30",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-053",
+    "nombre_oficial": "CESFAM Villa Alegre",
+    "alias": [
+      "cesfam villa alegre",
+      "consultorio villa alegre"
+    ],
+    "tipo": "hito",
+    "latitud": -38.72653,
+    "longitud": -72.61088,
+    "unidad_vecinal": "uv-21",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-054",
+    "nombre_oficial": "Mercado Municipal de Temuco",
+    "alias": [
+      "mercado municipal",
+      "el mercado",
+      "mercado de temuco",
+      "mercado municipal de temuco"
+    ],
+    "tipo": "hito",
+    "latitud": -38.73717,
+    "longitud": -72.58775,
+    "unidad_vecinal": "uv-01",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-055",
+    "nombre_oficial": "Hospital Hernán Henríquez Aravena",
+    "alias": [
+      "hospital regional",
+      "hospital hernan henriquez",
+      "hospital hernan henriquez aravena"
+    ],
+    "tipo": "hito",
+    "latitud": -38.73616,
+    "longitud": -72.59899,
+    "unidad_vecinal": "uv-02",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-056",
+    "nombre_oficial": "Estadio Germán Becker",
+    "alias": [
+      "estadio german becker",
+      "estadio municipal"
+    ],
+    "tipo": "hito",
+    "latitud": -38.74272,
+    "longitud": -72.6197,
+    "unidad_vecinal": "uv-11",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r005",
+    "nombre_oficial": "Comunidad Juan Diego Quidel Ii",
+    "alias": [
+      "comunidad juan diego quidel ii",
+      "juan diego quidel ii"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.69558,
+    "longitud": -72.58419,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r008",
+    "nombre_oficial": "Comunidad Antonio Coliné",
+    "alias": [
+      "antonio coline",
+      "comunidad antonio coline"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.75065,
+    "longitud": -72.75434,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r009",
+    "nombre_oficial": "Comunidad Antonio Marimán",
+    "alias": [
+      "antonio mariman",
+      "comunidad antonio mariman"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.74787,
+    "longitud": -72.70846,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r012",
+    "nombre_oficial": "Comunidad Cacique Juan Cayul Renanco",
+    "alias": [
+      "cacique juan cayul renanco",
+      "comunidad cacique juan cayul renanco"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.74868,
+    "longitud": -72.76455,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r014",
+    "nombre_oficial": "Comunidad Hueche Huenulaf",
+    "alias": [
+      "comunidad hueche huenulaf",
+      "hueche huenulaf"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.76565,
+    "longitud": -72.72585,
+    "unidad_vecinal": "uv-27",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r015",
+    "nombre_oficial": "Comunidad Huenchulle Linconao",
+    "alias": [
+      "comunidad huenchulle linconao",
+      "huenchulle linconao"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.74574,
+    "longitud": -72.73237,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r017",
+    "nombre_oficial": "Comunidad Juan Antinao",
+    "alias": [
+      "comunidad juan antinao",
+      "juan antinao"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.73829,
+    "longitud": -72.70627,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r018",
+    "nombre_oficial": "Comunidad Juan Cayupán",
+    "alias": [
+      "comunidad juan cayupan",
+      "juan cayupan"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.74315,
+    "longitud": -72.71522,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r019",
+    "nombre_oficial": "Comunidad Juan Collinao",
+    "alias": [
+      "comunidad juan collinao",
+      "juan collinao"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.74333,
+    "longitud": -72.72478,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r020",
+    "nombre_oficial": "Comunidad Juan Huaiquinao",
+    "alias": [
+      "comunidad juan huaiquinao",
+      "juan huaiquinao"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.74808,
+    "longitud": -72.74318,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r024",
+    "nombre_oficial": "Comunidad Venancio Huenulao",
+    "alias": [
+      "comunidad venancio huenulao",
+      "venancio huenulao"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.75964,
+    "longitud": -72.68936,
+    "unidad_vecinal": "uv-27",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r031",
+    "nombre_oficial": "Comunidad Domingo Marinao",
+    "alias": [
+      "comunidad domingo marinao",
+      "domingo marinao"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.73571,
+    "longitud": -72.69993,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r037",
+    "nombre_oficial": "Comunidad Antonio Huilcapán",
+    "alias": [
+      "antonio huilcapan",
+      "comunidad antonio huilcapan"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.72795,
+    "longitud": -72.67909,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r038",
+    "nombre_oficial": "Comunidad Juan Antipán",
+    "alias": [
+      "comunidad juan antipan",
+      "juan antipan"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.72141,
+    "longitud": -72.68017,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r039",
+    "nombre_oficial": "Comunidad Manuel Curilef",
+    "alias": [
+      "comunidad manuel curilef",
+      "manuel curilef"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.72683,
+    "longitud": -72.69732,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r041",
+    "nombre_oficial": "Comunidad Pancho Marivil",
+    "alias": [
+      "comunidad pancho marivil",
+      "pancho marivil"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.7509,
+    "longitud": -72.78276,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r042",
+    "nombre_oficial": "Comunidad Manuel Marinao de Quelihue",
+    "alias": [
+      "comunidad manuel marinao de quelihue",
+      "manuel marinao de quelihue"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.72875,
+    "longitud": -72.70568,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r043",
+    "nombre_oficial": "Comunidad Antonio Huaiquilaf",
+    "alias": [
+      "antonio huaiquilaf",
+      "comunidad antonio huaiquilaf"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.77317,
+    "longitud": -72.77857,
+    "unidad_vecinal": "uv-31",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r045",
+    "nombre_oficial": "Comunidad Ignacio Elgueta",
+    "alias": [
+      "comunidad ignacio elgueta",
+      "ignacio elgueta"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.76225,
+    "longitud": -72.81524,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r046",
+    "nombre_oficial": "Comunidad José Cheuquián",
+    "alias": [
+      "comunidad jose cheuquian",
+      "jose cheuquian"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.76706,
+    "longitud": -72.7965,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r051",
+    "nombre_oficial": "Comunidad Santiago Nahuelhuén",
+    "alias": [
+      "comunidad santiago nahuelhuen",
+      "santiago nahuelhuen"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.76186,
+    "longitud": -72.78494,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r058",
+    "nombre_oficial": "Comunidad Juan Cayunao",
+    "alias": [
+      "comunidad juan cayunao",
+      "juan cayunao"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.73405,
+    "longitud": -72.74916,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r059",
+    "nombre_oficial": "Comunidad Juan Quelén",
+    "alias": [
+      "comunidad juan quelen",
+      "juan quelen"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.70576,
+    "longitud": -72.69717,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r060",
+    "nombre_oficial": "Comunidad Cacique Loncón Cona",
+    "alias": [
+      "cacique loncon cona",
+      "comunidad cacique loncon cona"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.71901,
+    "longitud": -72.80642,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r061",
+    "nombre_oficial": "Comunidad Cacique Antonio Painemal",
+    "alias": [
+      "cacique antonio painemal",
+      "comunidad cacique antonio painemal"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.70391,
+    "longitud": -72.77359,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r062",
+    "nombre_oficial": "Comunidad Ignacio Lefil",
+    "alias": [
+      "comunidad ignacio lefil",
+      "ignacio lefil"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.68411,
+    "longitud": -72.70335,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r064",
+    "nombre_oficial": "Comunidad José Linco Nahuelfil",
+    "alias": [
+      "comunidad jose linco nahuelfil",
+      "jose linco nahuelfil"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.73511,
+    "longitud": -72.78609,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r065",
+    "nombre_oficial": "Comunidad José Francisco Blanco",
+    "alias": [
+      "comunidad jose francisco blanco",
+      "jose francisco blanco"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.71763,
+    "longitud": -72.76375,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r066",
+    "nombre_oficial": "Comunidad Huento Llancamil",
+    "alias": [
+      "comunidad huento llancamil",
+      "huento llancamil"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.72047,
+    "longitud": -72.77578,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r067",
+    "nombre_oficial": "Comunidad Juan Cariqueo",
+    "alias": [
+      "comunidad juan cariqueo",
+      "juan cariqueo"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.73114,
+    "longitud": -72.77558,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r068",
+    "nombre_oficial": "Comunidad Pancho Marivil Dos",
+    "alias": [
+      "comunidad pancho marivil dos",
+      "pancho marivil dos"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.73361,
+    "longitud": -72.76842,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r069",
+    "nombre_oficial": "Comunidad Domingo Llevilaf",
+    "alias": [
+      "comunidad domingo llevilaf",
+      "domingo llevilaf"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.69661,
+    "longitud": -72.78947,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r070",
+    "nombre_oficial": "Comunidad Pedro Curiqueo",
+    "alias": [
+      "comunidad pedro curiqueo",
+      "pedro curiqueo"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.7229,
+    "longitud": -72.74277,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r071",
+    "nombre_oficial": "Comunidad Cacique Lincoqueo- Pitraco Labranza",
+    "alias": [
+      "cacique lincoqueo pitraco labranza",
+      "comunidad cacique lincoqueo pitraco labranza",
+      "comunidad cacique lincoqueo- pitraco labranza"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.73008,
+    "longitud": -72.80495,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r072",
+    "nombre_oficial": "Comunidad Joaquín Cheuquelen",
+    "alias": [
+      "comunidad joaquin cheuquelen",
+      "joaquin cheuquelen"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.68927,
+    "longitud": -72.69376,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r073",
+    "nombre_oficial": "Comunidad Huete Rucán",
+    "alias": [
+      "comunidad huete rucan",
+      "huete rucan"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.70232,
+    "longitud": -72.66084,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r076",
+    "nombre_oficial": "Comunidad Colillán Chifca ",
+    "alias": [
+      "colillan chifca",
+      "comunidad colillan chifca"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.67213,
+    "longitud": -72.76875,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r077",
+    "nombre_oficial": "Comunidad José Soto Neilaf",
+    "alias": [
+      "comunidad jose soto neilaf",
+      "jose soto neilaf"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.6567,
+    "longitud": -72.76118,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r078",
+    "nombre_oficial": "Comunidad Juan Epul",
+    "alias": [
+      "comunidad juan epul",
+      "juan epul"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.67059,
+    "longitud": -72.75983,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r082",
+    "nombre_oficial": "Comunidad Andrés Colliano",
+    "alias": [
+      "andres colliano",
+      "comunidad andres colliano"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.71488,
+    "longitud": -72.78054,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r084",
+    "nombre_oficial": "Comunidad Jerónimo Melillán",
+    "alias": [
+      "comunidad jeronimo melillan",
+      "jeronimo melillan"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.67967,
+    "longitud": -72.72538,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r085",
+    "nombre_oficial": "Comunidad José Miguel Naguelhual",
+    "alias": [
+      "comunidad jose miguel naguelhual",
+      "jose miguel naguelhual"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.69897,
+    "longitud": -72.72404,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r086",
+    "nombre_oficial": "Comunidad Lorenzo Epul",
+    "alias": [
+      "comunidad lorenzo epul",
+      "lorenzo epul"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.68477,
+    "longitud": -72.74337,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r087",
+    "nombre_oficial": "Comunidad Martín Huenuqueo",
+    "alias": [
+      "comunidad martin huenuqueo",
+      "martin huenuqueo"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.67404,
+    "longitud": -72.7087,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r088",
+    "nombre_oficial": "Comunidad Antonio Curapil",
+    "alias": [
+      "antonio curapil",
+      "comunidad antonio curapil"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.70429,
+    "longitud": -72.75804,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r089",
+    "nombre_oficial": "Comunidad José Francisco Calbuín",
+    "alias": [
+      "comunidad jose francisco calbuin",
+      "jose francisco calbuin"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.69952,
+    "longitud": -72.74516,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r090",
+    "nombre_oficial": "Comunidad Juan Llanquileo",
+    "alias": [
+      "comunidad juan llanquileo",
+      "juan llanquileo"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.69078,
+    "longitud": -72.76493,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r091",
+    "nombre_oficial": "Comunidad Juan Traupil",
+    "alias": [
+      "comunidad juan traupil",
+      "juan traupil"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.69563,
+    "longitud": -72.76793,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r092",
+    "nombre_oficial": "Comunidad Lepileo",
+    "alias": [
+      "comunidad lepileo",
+      "lepileo"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.68265,
+    "longitud": -72.75636,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r093",
+    "nombre_oficial": "Comunidad Pedro Quintraqueo",
+    "alias": [
+      "comunidad pedro quintraqueo",
+      "pedro quintraqueo"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.71068,
+    "longitud": -72.74076,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r094",
+    "nombre_oficial": "Comunidad Aillán Marillán",
+    "alias": [
+      "aillan marillan",
+      "comunidad aillan marillan"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.70797,
+    "longitud": -72.79722,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r095",
+    "nombre_oficial": "Comunidad Cheuquian Patirro",
+    "alias": [
+      "cheuquian patirro",
+      "comunidad cheuquian patirro"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.71404,
+    "longitud": -72.79507,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r096",
+    "nombre_oficial": "Comunidad José Rain Ñancucheo",
+    "alias": [
+      "comunidad jose rain nancucheo",
+      "jose rain nancucheo",
+      "comunidad jose rain ñancucheo"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.71079,
+    "longitud": -72.70414,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r097",
+    "nombre_oficial": "Comunidad Pedro Lepín",
+    "alias": [
+      "comunidad pedro lepin",
+      "pedro lepin"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.72381,
+    "longitud": -72.71921,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r098",
+    "nombre_oficial": "Comunidad Cacique León Nahuelpan",
+    "alias": [
+      "cacique leon nahuelpan",
+      "comunidad cacique leon nahuelpan"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.66218,
+    "longitud": -72.73794,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r099",
+    "nombre_oficial": "Comunidad Cuel Tromén",
+    "alias": [
+      "comunidad cuel tromen",
+      "cuel tromen"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.66693,
+    "longitud": -72.74879,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r100",
+    "nombre_oficial": "Comunidad Dionisio Treullán",
+    "alias": [
+      "comunidad dionisio treullan",
+      "dionisio treullan"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.67023,
+    "longitud": -72.73675,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r101",
+    "nombre_oficial": "Comunidad José Ñanculef",
+    "alias": [
+      "comunidad jose nanculef",
+      "jose nanculef",
+      "comunidad jose ñanculef"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.71193,
+    "longitud": -72.72136,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r110",
+    "nombre_oficial": "Comunidad Juan Cona",
+    "alias": [
+      "comunidad juan cona",
+      "juan cona"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.60133,
+    "longitud": -72.6847,
+    "unidad_vecinal": "uv-35",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r111",
+    "nombre_oficial": "Comunidad Juan Seguel",
+    "alias": [
+      "comunidad juan seguel",
+      "juan seguel"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.60907,
+    "longitud": -72.66785,
+    "unidad_vecinal": "uv-35",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r112",
+    "nombre_oficial": "Comunidad Coilla Nahuelñir",
+    "alias": [
+      "coilla nahuelnir",
+      "comunidad coilla nahuelnir",
+      "comunidad coilla nahuelñir"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.57434,
+    "longitud": -72.72959,
+    "unidad_vecinal": "uv-35",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r114",
+    "nombre_oficial": "Comunidad Juan Paillao",
+    "alias": [
+      "comunidad juan paillao",
+      "juan paillao"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.57372,
+    "longitud": -72.71105,
+    "unidad_vecinal": "uv-35",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r115",
+    "nombre_oficial": "Comunidad Cacique Juan Tranma",
+    "alias": [
+      "cacique juan tranma",
+      "comunidad cacique juan tranma"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.59201,
+    "longitud": -72.68848,
+    "unidad_vecinal": "uv-35",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r116",
+    "nombre_oficial": "Comunidad Felipe Paillalef",
+    "alias": [
+      "comunidad felipe paillalef",
+      "felipe paillalef"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.62591,
+    "longitud": -72.67179,
+    "unidad_vecinal": "uv-35",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r117",
+    "nombre_oficial": "Comunidad Ramón Rañileo y Felipe Paillalef",
+    "alias": [
+      "comunidad ramon ranileo y felipe paillalef",
+      "ramon ranileo y felipe paillalef",
+      "comunidad ramon rañileo y felipe paillalef"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.62369,
+    "longitud": -72.68147,
+    "unidad_vecinal": "uv-35",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r118",
+    "nombre_oficial": "Comunidad Juan Manqueo Nahuelhual",
+    "alias": [
+      "comunidad juan manqueo nahuelhual",
+      "juan manqueo nahuelhual"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.59345,
+    "longitud": -72.7074,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r119",
+    "nombre_oficial": "Comunidad Felipe Carilaf y Juan Antipi de Quinahue",
+    "alias": [
+      "comunidad felipe carilaf y juan antipi de quinahue",
+      "felipe carilaf y juan antipi de quinahue"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.56702,
+    "longitud": -72.74179,
+    "unidad_vecinal": "uv-35",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r120",
+    "nombre_oficial": "Comunidad Gabriel Millahual",
+    "alias": [
+      "comunidad gabriel millahual",
+      "gabriel millahual"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.55973,
+    "longitud": -72.69914,
+    "unidad_vecinal": "uv-35",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r121",
+    "nombre_oficial": "Comunidad Juan de la Mata Cabrera",
+    "alias": [
+      "comunidad juan de la mata cabrera",
+      "juan de la mata cabrera"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.67837,
+    "longitud": -72.65552,
+    "unidad_vecinal": "uv-36",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r124",
+    "nombre_oficial": "Comunidad José Coloma",
+    "alias": [
+      "comunidad jose coloma",
+      "jose coloma"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.68611,
+    "longitud": -72.66084,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r125",
+    "nombre_oficial": "Comunidad Pedro Millanao Huenumalal",
+    "alias": [
+      "comunidad pedro millanao huenumalal",
+      "pedro millanao huenumalal"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.64774,
+    "longitud": -72.66243,
+    "unidad_vecinal": "uv-36",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r126",
+    "nombre_oficial": "Comunidad Antonio Lepul",
+    "alias": [
+      "antonio lepul",
+      "comunidad antonio lepul"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.65696,
+    "longitud": -72.64347,
+    "unidad_vecinal": "uv-36",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r130",
+    "nombre_oficial": "Comunidad Pedro Peñeiñán",
+    "alias": [
+      "comunidad pedro peneinan",
+      "pedro peneinan",
+      "comunidad pedro peñeiñan"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.67986,
+    "longitud": -72.67712,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r133",
+    "nombre_oficial": "Comunidad Toro Llanquimil",
+    "alias": [
+      "comunidad toro llanquimil",
+      "toro llanquimil"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.6411,
+    "longitud": -72.66381,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r135",
+    "nombre_oficial": "Comunidad Cacique Huete Rucan Raluncoyán",
+    "alias": [
+      "cacique huete rucan raluncoyan",
+      "comunidad cacique huete rucan raluncoyan"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.69481,
+    "longitud": -72.64224,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r137",
+    "nombre_oficial": "Comunidad Raluncoyán",
+    "alias": [
+      "comunidad raluncoyan",
+      "raluncoyan"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.70231,
+    "longitud": -72.63652,
+    "unidad_vecinal": "uv-24",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r138",
+    "nombre_oficial": "Comunidad Villa Afquintué",
+    "alias": [
+      "comunidad villa afquintue",
+      "villa afquintue"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.69271,
+    "longitud": -72.65842,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r141",
+    "nombre_oficial": "Comunidad Villa Rayén Mapu",
+    "alias": [
+      "comunidad villa rayen mapu",
+      "villa rayen mapu"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.69433,
+    "longitud": -72.66026,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r142",
+    "nombre_oficial": "Comunidad Curaqueo Namoncura",
+    "alias": [
+      "comunidad curaqueo namoncura",
+      "curaqueo namoncura"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.65997,
+    "longitud": -72.65931,
+    "unidad_vecinal": "uv-36",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r143",
+    "nombre_oficial": "Comunidad Antonio Antil",
+    "alias": [
+      "antonio antil",
+      "comunidad antonio antil"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.6706,
+    "longitud": -72.66383,
+    "unidad_vecinal": "uv-36",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r144",
+    "nombre_oficial": "Comunidad Cacique Bartolo Levimil",
+    "alias": [
+      "cacique bartolo levimil",
+      "comunidad cacique bartolo levimil"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.64105,
+    "longitud": -72.64299,
+    "unidad_vecinal": "uv-36",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r145",
+    "nombre_oficial": "Comunidad Andrés Huenchún",
+    "alias": [
+      "andres huenchun",
+      "comunidad andres huenchun"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.65258,
+    "longitud": -72.72079,
+    "unidad_vecinal": "uv-34",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r146",
+    "nombre_oficial": "Comunidad Antonio Melín",
+    "alias": [
+      "antonio melin",
+      "comunidad antonio melin"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.65174,
+    "longitud": -72.731,
+    "unidad_vecinal": "uv-34",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r147",
+    "nombre_oficial": "Comunidad Cacique Juan Queupan",
+    "alias": [
+      "cacique juan queupan",
+      "comunidad cacique juan queupan"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.65989,
+    "longitud": -72.69603,
+    "unidad_vecinal": "uv-34",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r148",
+    "nombre_oficial": "Comunidad Francisco Colihuinca",
+    "alias": [
+      "comunidad francisco colihuinca",
+      "francisco colihuinca"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.64983,
+    "longitud": -72.70116,
+    "unidad_vecinal": "uv-34",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r149",
+    "nombre_oficial": "Comunidad Francisco Lielmil",
+    "alias": [
+      "comunidad francisco lielmil",
+      "francisco lielmil"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.65513,
+    "longitud": -72.71158,
+    "unidad_vecinal": "uv-34",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r150",
+    "nombre_oficial": "Comunidad Juan Cariqueo Ninu",
+    "alias": [
+      "comunidad juan cariqueo ninu",
+      "juan cariqueo ninu"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.64173,
+    "longitud": -72.70843,
+    "unidad_vecinal": "uv-34",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r151",
+    "nombre_oficial": "Comunidad Juan Marigual",
+    "alias": [
+      "comunidad juan marigual",
+      "juan marigual"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.64426,
+    "longitud": -72.73539,
+    "unidad_vecinal": "uv-34",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r152",
+    "nombre_oficial": "Comunidad Lucio Llanquín",
+    "alias": [
+      "comunidad lucio llanquin",
+      "lucio llanquin"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.63832,
+    "longitud": -72.71979,
+    "unidad_vecinal": "uv-34",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r154",
+    "nombre_oficial": "Comunidad Bartolo Levimil",
+    "alias": [
+      "bartolo levimil",
+      "comunidad bartolo levimil"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.65348,
+    "longitud": -72.68053,
+    "unidad_vecinal": "uv-34",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r155",
+    "nombre_oficial": "Comunidad Juan Caniumil",
+    "alias": [
+      "comunidad juan caniumil",
+      "juan caniumil"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.63513,
+    "longitud": -72.69846,
+    "unidad_vecinal": "uv-34",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r156",
+    "nombre_oficial": "Comunidad Pedro Melinao",
+    "alias": [
+      "comunidad pedro melinao",
+      "pedro melinao"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.65395,
+    "longitud": -72.67174,
+    "unidad_vecinal": "uv-34",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r157",
+    "nombre_oficial": "Comunidad Pichihuenchu Quilaleo",
+    "alias": [
+      "comunidad pichihuenchu quilaleo",
+      "pichihuenchu quilaleo"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.61229,
+    "longitud": -72.70712,
+    "unidad_vecinal": "uv-34",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r158",
+    "nombre_oficial": "Comunidad Huinca Nahuelhual",
+    "alias": [
+      "comunidad huinca nahuelhual",
+      "huinca nahuelhual"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.61798,
+    "longitud": -72.73398,
+    "unidad_vecinal": "uv-34",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r159",
+    "nombre_oficial": "Comunidad Juan Huaiquil",
+    "alias": [
+      "comunidad juan huaiquil",
+      "juan huaiquil"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.61979,
+    "longitud": -72.74546,
+    "unidad_vecinal": "uv-34",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r160",
+    "nombre_oficial": "Comunidad Cacique Nicolás Quintrel",
+    "alias": [
+      "cacique nicolas quintrel",
+      "comunidad cacique nicolas quintrel"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.62421,
+    "longitud": -72.75859,
+    "unidad_vecinal": "uv-34",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r161",
+    "nombre_oficial": "Comunidad Quintrel Llanca",
+    "alias": [
+      "comunidad quintrel llanca",
+      "quintrel llanca"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.64544,
+    "longitud": -72.75078,
+    "unidad_vecinal": "uv-34",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r162",
+    "nombre_oficial": "Comunidad Juan Tralma",
+    "alias": [
+      "comunidad juan tralma",
+      "juan tralma"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.62177,
+    "longitud": -72.7036,
+    "unidad_vecinal": "uv-34",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r163",
+    "nombre_oficial": "Comunidad Juan Llanquileo de Ñienoco",
+    "alias": [
+      "comunidad juan llanquileo de nienoco",
+      "juan llanquileo de nienoco",
+      "comunidad juan llanquileo de ñienoco"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.59911,
+    "longitud": -72.71694,
+    "unidad_vecinal": "uv-34",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r164",
+    "nombre_oficial": "Comunidad Pichihuenche Quilaleo - Collimallin",
+    "alias": [
+      "comunidad pichihuenche quilaleo collimallin",
+      "pichihuenche quilaleo collimallin",
+      "comunidad pichihuenche quilaleo - collimallin"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.61546,
+    "longitud": -72.72129,
+    "unidad_vecinal": "uv-34",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r165",
+    "nombre_oficial": "Comunidad Villa Waguelen",
+    "alias": [
+      "comunidad villa waguelen",
+      "villa waguelen"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.68051,
+    "longitud": -72.68543,
+    "unidad_vecinal": "uv-34",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r167",
+    "nombre_oficial": "Comunidad Lorenzo Tranamil",
+    "alias": [
+      "comunidad lorenzo tranamil",
+      "lorenzo tranamil"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.60371,
+    "longitud": -72.75031,
+    "unidad_vecinal": "uv-34",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r168",
+    "nombre_oficial": "Comunidad Pedro Chanqueo",
+    "alias": [
+      "comunidad pedro chanqueo",
+      "pedro chanqueo"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.59202,
+    "longitud": -72.73061,
+    "unidad_vecinal": "uv-34",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r169",
+    "nombre_oficial": "Comunidad Francisco Paillao",
+    "alias": [
+      "comunidad francisco paillao",
+      "francisco paillao"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.58219,
+    "longitud": -72.73991,
+    "unidad_vecinal": "uv-34",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r173",
+    "nombre_oficial": "Villa Belén",
+    "alias": [
+      "belen",
+      "villa belen"
+    ],
+    "tipo": "villa",
+    "latitud": -38.66746,
+    "longitud": -72.70728,
+    "unidad_vecinal": "uv-34",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r174",
+    "nombre_oficial": "Fundo El Carmen",
+    "alias": [
+      "fundo el carmen"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.71434,
+    "longitud": -72.65309,
+    "unidad_vecinal": "uv-26",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r177",
+    "nombre_oficial": "Parque Costanera II",
+    "alias": [
+      "parque costanera ii"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.70602,
+    "longitud": -72.54063,
+    "unidad_vecinal": "uv-19",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r178",
+    "nombre_oficial": "Villa El Retiro",
+    "alias": [
+      "el retiro",
+      "villa el retiro"
+    ],
+    "tipo": "villa",
+    "latitud": -38.70272,
+    "longitud": -72.53685,
+    "unidad_vecinal": "uv-19",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r179",
+    "nombre_oficial": "Valle de Asturias",
+    "alias": [
+      "valle de asturias"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.69883,
+    "longitud": -72.53642,
+    "unidad_vecinal": "uv-15",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r180",
+    "nombre_oficial": "Vista Volcán",
+    "alias": [
+      "vista volcan"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.69346,
+    "longitud": -72.52821,
+    "unidad_vecinal": "uv-15",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r181",
+    "nombre_oficial": "Praderas Santa Carolina",
+    "alias": [
+      "praderas santa carolina"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.68937,
+    "longitud": -72.52019,
+    "unidad_vecinal": "uv-15",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r183",
+    "nombre_oficial": "San Antonio",
+    "alias": [
+      "san antonio"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74361,
+    "longitud": -72.57915,
+    "unidad_vecinal": "uv-16",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r184",
+    "nombre_oficial": "Villa Los Arquitectos",
+    "alias": [
+      "los arquitectos",
+      "villa los arquitectos"
+    ],
+    "tipo": "villa",
+    "latitud": -38.75232,
+    "longitud": -72.66187,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r185",
+    "nombre_oficial": "Jardín de los Naranjos",
+    "alias": [
+      "jardin de los naranjos"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.75423,
+    "longitud": -72.66209,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r188",
+    "nombre_oficial": "Villa Diputado Becker",
+    "alias": [
+      "diputado becker",
+      "villa diputado becker"
+    ],
+    "tipo": "villa",
+    "latitud": -38.76097,
+    "longitud": -72.65224,
+    "unidad_vecinal": "uv-09",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r189",
+    "nombre_oficial": "Condominio Las Encinas",
+    "alias": [
+      "condominio las encinas",
+      "las encinas"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.71037,
+    "longitud": -72.56424,
+    "unidad_vecinal": "uv-14",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r190",
+    "nombre_oficial": "Reducción Bolleco",
+    "alias": [
+      "bolleco",
+      "reduccion bolleco"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.6381,
+    "longitud": -72.72347,
+    "unidad_vecinal": "uv-34",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r191",
+    "nombre_oficial": "Lomas del Carmen",
+    "alias": [
+      "lomas del carmen"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.72776,
+    "longitud": -72.65455,
+    "unidad_vecinal": "uv-26",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r192",
+    "nombre_oficial": "Villa Los Labradores",
+    "alias": [
+      "los labradores",
+      "villa los labradores"
+    ],
+    "tipo": "villa",
+    "latitud": -38.75378,
+    "longitud": -72.72344,
+    "unidad_vecinal": "uv-27",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r194",
+    "nombre_oficial": "Comunidad Juan Tripailao",
+    "alias": [
+      "comunidad juan tripailao",
+      "juan tripailao"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.69288,
+    "longitud": -72.62698,
+    "unidad_vecinal": "uv-36",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r195",
+    "nombre_oficial": "Comunidad Francisco Huirio Lienan",
+    "alias": [
+      "comunidad francisco huirio lienan",
+      "francisco huirio lienan"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.70728,
+    "longitud": -72.63228,
+    "unidad_vecinal": "uv-24",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r196",
+    "nombre_oficial": "Barrio Los Trapiales",
+    "alias": [
+      "barrio los trapiales",
+      "los trapiales"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.71485,
+    "longitud": -72.55952,
+    "unidad_vecinal": "uv-14",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r197",
+    "nombre_oficial": "Villa Alihuén",
+    "alias": [
+      "alihuen",
+      "villa alihuen"
+    ],
+    "tipo": "villa",
+    "latitud": -38.71734,
+    "longitud": -72.56407,
+    "unidad_vecinal": "uv-14",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r198",
+    "nombre_oficial": "Villa Antumalén",
+    "alias": [
+      "antumalen",
+      "villa antumalen"
+    ],
+    "tipo": "villa",
+    "latitud": -38.71091,
+    "longitud": -72.54882,
+    "unidad_vecinal": "uv-19",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r199",
+    "nombre_oficial": "Villa Nuevo Mundo",
+    "alias": [
+      "nuevo mundo",
+      "villa nuevo mundo"
+    ],
+    "tipo": "villa",
+    "latitud": -38.70783,
+    "longitud": -72.5471,
+    "unidad_vecinal": "uv-19",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r200",
+    "nombre_oficial": "Villa Los Ríos",
+    "alias": [
+      "los rios",
+      "villa los rios"
+    ],
+    "tipo": "villa",
+    "latitud": -38.7179,
+    "longitud": -72.5548,
+    "unidad_vecinal": "uv-18",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r201",
+    "nombre_oficial": "Villa Paque Rayenco",
+    "alias": [
+      "paque rayenco",
+      "villa paque rayenco"
+    ],
+    "tipo": "villa",
+    "latitud": -38.71558,
+    "longitud": -72.551,
+    "unidad_vecinal": "uv-18",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r202",
+    "nombre_oficial": "Villa Los Naranjos",
+    "alias": [
+      "los naranjos",
+      "villa los naranjos"
+    ],
+    "tipo": "villa",
+    "latitud": -38.75083,
+    "longitud": -72.66136,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r203",
+    "nombre_oficial": "Villa Maquehue",
+    "alias": [
+      "maquehue",
+      "villa maquehue"
+    ],
+    "tipo": "villa",
+    "latitud": -38.74532,
+    "longitud": -72.61112,
+    "unidad_vecinal": "uv-11",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r204",
+    "nombre_oficial": "Parque Costanera",
+    "alias": [
+      "parque costanera"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.70909,
+    "longitud": -72.54573,
+    "unidad_vecinal": "uv-19",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r205",
+    "nombre_oficial": "Parque Alcántara",
+    "alias": [
+      "parque alcantara"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.70533,
+    "longitud": -72.54946,
+    "unidad_vecinal": "uv-15",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r206",
+    "nombre_oficial": "Villa Langdon",
+    "alias": [
+      "langdon",
+      "villa langdon"
+    ],
+    "tipo": "villa",
+    "latitud": -38.72419,
+    "longitud": -72.55677,
+    "unidad_vecinal": "uv-18",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r207",
+    "nombre_oficial": "Barrio Dreves",
+    "alias": [
+      "barrio dreves",
+      "dreves"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74121,
+    "longitud": -72.61087,
+    "unidad_vecinal": "uv-11",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r208",
+    "nombre_oficial": "Santa Elena de Maipo",
+    "alias": [
+      "santa elena de maipo"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.75568,
+    "longitud": -72.64992,
+    "unidad_vecinal": "uv-08",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r209",
+    "nombre_oficial": "Lomas de Recabarren",
+    "alias": [
+      "lomas de recabarren"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.75536,
+    "longitud": -72.64554,
+    "unidad_vecinal": "uv-08",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r210",
+    "nombre_oficial": "Comunidad José Hueche Huenulaf",
+    "alias": [
+      "comunidad jose hueche huenulaf",
+      "jose hueche huenulaf"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.76264,
+    "longitud": -72.72408,
+    "unidad_vecinal": "uv-27",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r211",
+    "nombre_oficial": "Villa El Manzano",
+    "alias": [
+      "el manzano",
+      "villa el manzano"
+    ],
+    "tipo": "villa",
+    "latitud": -38.76209,
+    "longitud": -72.7182,
+    "unidad_vecinal": "uv-27",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r212",
+    "nombre_oficial": "Villa El Maitén",
+    "alias": [
+      "el maiten",
+      "villa el maiten"
+    ],
+    "tipo": "villa",
+    "latitud": -38.75935,
+    "longitud": -72.71851,
+    "unidad_vecinal": "uv-27",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r213",
+    "nombre_oficial": "Villa Los Robles",
+    "alias": [
+      "los robles",
+      "villa los robles"
+    ],
+    "tipo": "villa",
+    "latitud": -38.76608,
+    "longitud": -72.73156,
+    "unidad_vecinal": "uv-27",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r214",
+    "nombre_oficial": "Villa Ayelén",
+    "alias": [
+      "ayelen",
+      "villa ayelen"
+    ],
+    "tipo": "villa",
+    "latitud": -38.69503,
+    "longitud": -72.64931,
+    "unidad_vecinal": "uv-24",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r215",
+    "nombre_oficial": "Villa Las Rosas",
+    "alias": [
+      "las rosas",
+      "villa las rosas"
+    ],
+    "tipo": "villa",
+    "latitud": -38.68494,
+    "longitud": -72.67904,
+    "unidad_vecinal": "uv-36",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r216",
+    "nombre_oficial": "Los Cántaros",
+    "alias": [
+      "los cantaros"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.68821,
+    "longitud": -72.53267,
+    "unidad_vecinal": "uv-15",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r217",
+    "nombre_oficial": "Las Mariposas",
+    "alias": [
+      "las mariposas"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.6929,
+    "longitud": -72.54706,
+    "unidad_vecinal": "uv-15",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r219",
+    "nombre_oficial": "Comunidad Juan Colipí",
+    "alias": [
+      "comunidad juan colipi",
+      "juan colipi"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.66319,
+    "longitud": -72.50227,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r220",
+    "nombre_oficial": "Villa Carmen de Las Rosas",
+    "alias": [
+      "carmen de las rosas",
+      "villa carmen de las rosas"
+    ],
+    "tipo": "villa",
+    "latitud": -38.77148,
+    "longitud": -72.80071,
+    "unidad_vecinal": "uv-31",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r221",
+    "nombre_oficial": "Villa Hermosa Lo Elgueta",
+    "alias": [
+      "hermosa lo elgueta",
+      "villa hermosa lo elgueta"
+    ],
+    "tipo": "villa",
+    "latitud": -38.76869,
+    "longitud": -72.80725,
+    "unidad_vecinal": "uv-31",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r222",
+    "nombre_oficial": "Villa Altos de Rengalil",
+    "alias": [
+      "altos de rengalil",
+      "villa altos de rengalil"
+    ],
+    "tipo": "villa",
+    "latitud": -38.76332,
+    "longitud": -72.80779,
+    "unidad_vecinal": "uv-30",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r224",
+    "nombre_oficial": "Villa Los Álamos",
+    "alias": [
+      "los alamos",
+      "villa los alamos"
+    ],
+    "tipo": "villa",
+    "latitud": -38.7666,
+    "longitud": -72.78839,
+    "unidad_vecinal": "uv-31",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r226",
+    "nombre_oficial": "Villa Altos de Apumanque",
+    "alias": [
+      "altos de apumanque",
+      "villa altos de apumanque"
+    ],
+    "tipo": "villa",
+    "latitud": -38.76382,
+    "longitud": -72.73524,
+    "unidad_vecinal": "uv-27",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r227",
+    "nombre_oficial": "Villa Las Islas",
+    "alias": [
+      "las islas",
+      "villa las islas"
+    ],
+    "tipo": "villa",
+    "latitud": -38.76768,
+    "longitud": -72.74154,
+    "unidad_vecinal": "uv-27",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r228",
+    "nombre_oficial": "Comunidad Juan Neculqueo",
+    "alias": [
+      "comunidad juan neculqueo",
+      "juan neculqueo"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.74027,
+    "longitud": -72.66337,
+    "unidad_vecinal": "uv-27",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r232",
+    "nombre_oficial": "Villa Santa Luisa",
+    "alias": [
+      "santa luisa",
+      "villa santa luisa"
+    ],
+    "tipo": "villa",
+    "latitud": -38.75756,
+    "longitud": -72.67077,
+    "unidad_vecinal": "uv-27",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r233",
+    "nombre_oficial": "Comunidad Hueche Cuminao",
+    "alias": [
+      "comunidad hueche cuminao",
+      "hueche cuminao"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.75937,
+    "longitud": -72.67247,
+    "unidad_vecinal": "uv-27",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r234",
+    "nombre_oficial": "Comunidad Juan Diego Quidel",
+    "alias": [
+      "comunidad juan diego quidel",
+      "juan diego quidel"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.69519,
+    "longitud": -72.59171,
+    "unidad_vecinal": "uv-36",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r236",
+    "nombre_oficial": "Villa El Rodeo",
+    "alias": [
+      "el rodeo",
+      "villa el rodeo"
+    ],
+    "tipo": "villa",
+    "latitud": -38.70267,
+    "longitud": -72.64472,
+    "unidad_vecinal": "uv-24",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r237",
+    "nombre_oficial": "Villa Los Castaños",
+    "alias": [
+      "los castanos",
+      "villa los castanos",
+      "villa los castaños"
+    ],
+    "tipo": "villa",
+    "latitud": -38.70427,
+    "longitud": -72.64459,
+    "unidad_vecinal": "uv-24",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r239",
+    "nombre_oficial": "Villa El Prado",
+    "alias": [
+      "el prado",
+      "villa el prado"
+    ],
+    "tipo": "villa",
+    "latitud": -38.7029,
+    "longitud": -72.64783,
+    "unidad_vecinal": "uv-24",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r240",
+    "nombre_oficial": "Villa Los Anhelos",
+    "alias": [
+      "los anhelos",
+      "villa los anhelos"
+    ],
+    "tipo": "villa",
+    "latitud": -38.69402,
+    "longitud": -72.65466,
+    "unidad_vecinal": "uv-24",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r241",
+    "nombre_oficial": "Villa El Crucero",
+    "alias": [
+      "el crucero",
+      "villa el crucero"
+    ],
+    "tipo": "villa",
+    "latitud": -38.69531,
+    "longitud": -72.65482,
+    "unidad_vecinal": "uv-24",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r242",
+    "nombre_oficial": "Villa Aguas Claras",
+    "alias": [
+      "aguas claras",
+      "villa aguas claras"
+    ],
+    "tipo": "villa",
+    "latitud": -38.69585,
+    "longitud": -72.65403,
+    "unidad_vecinal": "uv-24",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r243",
+    "nombre_oficial": "Villa Afquintué",
+    "alias": [
+      "afquintue",
+      "villa afquintue"
+    ],
+    "tipo": "villa",
+    "latitud": -38.69332,
+    "longitud": -72.65886,
+    "unidad_vecinal": "uv-24",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r244",
+    "nombre_oficial": "Villa Rayén Mapu",
+    "alias": [
+      "rayen mapu",
+      "villa rayen mapu"
+    ],
+    "tipo": "villa",
+    "latitud": -38.69423,
+    "longitud": -72.66006,
+    "unidad_vecinal": "uv-24",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r245",
+    "nombre_oficial": "Villa La Serena",
+    "alias": [
+      "la serena",
+      "villa la serena"
+    ],
+    "tipo": "villa",
+    "latitud": -38.69758,
+    "longitud": -72.65548,
+    "unidad_vecinal": "uv-25",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r246",
+    "nombre_oficial": "Villa El Sol",
+    "alias": [
+      "el sol",
+      "villa el sol"
+    ],
+    "tipo": "villa",
+    "latitud": -38.70154,
+    "longitud": -72.65382,
+    "unidad_vecinal": "uv-25",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r247",
+    "nombre_oficial": "Villa Antu",
+    "alias": [
+      "antu",
+      "villa antu"
+    ],
+    "tipo": "villa",
+    "latitud": -38.69944,
+    "longitud": -72.64858,
+    "unidad_vecinal": "uv-24",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r248",
+    "nombre_oficial": "Villa La Herradura",
+    "alias": [
+      "la herradura",
+      "villa la herradura"
+    ],
+    "tipo": "villa",
+    "latitud": -38.69764,
+    "longitud": -72.64854,
+    "unidad_vecinal": "uv-24",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r249",
+    "nombre_oficial": "Villa Los Tres Aromos",
+    "alias": [
+      "los tres aromos",
+      "villa los tres aromos"
+    ],
+    "tipo": "villa",
+    "latitud": -38.69778,
+    "longitud": -72.64614,
+    "unidad_vecinal": "uv-24",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r250",
+    "nombre_oficial": "Villa Hacienda Santa María de Labranza",
+    "alias": [
+      "hacienda santa maria de labranza",
+      "villa hacienda santa maria de labranza"
+    ],
+    "tipo": "villa",
+    "latitud": -38.76752,
+    "longitud": -72.7713,
+    "unidad_vecinal": "uv-30",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r256",
+    "nombre_oficial": "Comunidad Juan Liupán",
+    "alias": [
+      "comunidad juan liupan",
+      "juan liupan"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.67897,
+    "longitud": -72.68872,
+    "unidad_vecinal": "uv-34",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r258",
+    "nombre_oficial": "Comunidad Ramón Reyes",
+    "alias": [
+      "comunidad ramon reyes",
+      "ramon reyes"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.6615,
+    "longitud": -72.7266,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r259",
+    "nombre_oficial": "Comunidad Juan Queupan",
+    "alias": [
+      "comunidad juan queupan",
+      "juan queupan"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.65509,
+    "longitud": -72.69917,
+    "unidad_vecinal": "uv-34",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r260",
+    "nombre_oficial": "Comunidad Ignacio Levil",
+    "alias": [
+      "comunidad ignacio levil",
+      "ignacio levil"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.6795,
+    "longitud": -72.70048,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r262",
+    "nombre_oficial": "Comunidad Juan Huaquinao",
+    "alias": [
+      "comunidad juan huaquinao",
+      "juan huaquinao"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.74774,
+    "longitud": -72.74316,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r263",
+    "nombre_oficial": "Comunidad Juan Cayul",
+    "alias": [
+      "comunidad juan cayul",
+      "juan cayul"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.75003,
+    "longitud": -72.76676,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r264",
+    "nombre_oficial": "Comunidad Antonio Colines",
+    "alias": [
+      "antonio colines",
+      "comunidad antonio colines"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.75872,
+    "longitud": -72.75803,
+    "unidad_vecinal": "uv-29",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r265",
+    "nombre_oficial": "Comunidad Loncon Cona",
+    "alias": [
+      "comunidad loncon cona",
+      "loncon cona"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.71955,
+    "longitud": -72.80118,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r266",
+    "nombre_oficial": "Comunidad Manuel Liconqueo",
+    "alias": [
+      "comunidad manuel liconqueo",
+      "manuel liconqueo"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.7299,
+    "longitud": -72.80294,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r268",
+    "nombre_oficial": "Comunidad Domingo Curihual",
+    "alias": [
+      "comunidad domingo curihual",
+      "domingo curihual"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.59276,
+    "longitud": -72.69839,
+    "unidad_vecinal": "uv-35",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r269",
+    "nombre_oficial": "Comunidad Pehuenche Quilaleo",
+    "alias": [
+      "comunidad pehuenche quilaleo",
+      "pehuenche quilaleo"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.60719,
+    "longitud": -72.7143,
+    "unidad_vecinal": "uv-34",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r270",
+    "nombre_oficial": "Comunidad Juan Ñaquileo",
+    "alias": [
+      "comunidad juan naquileo",
+      "juan naquileo",
+      "comunidad juan ñaquileo"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.60305,
+    "longitud": -72.71544,
+    "unidad_vecinal": "uv-34",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r272",
+    "nombre_oficial": "Comunidad José Culihuinca",
+    "alias": [
+      "comunidad jose culihuinca",
+      "jose culihuinca"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.64895,
+    "longitud": -72.70147,
+    "unidad_vecinal": "uv-34",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r273",
+    "nombre_oficial": "Comunidad Pedro Millanao",
+    "alias": [
+      "comunidad pedro millanao",
+      "pedro millanao"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.64808,
+    "longitud": -72.66546,
+    "unidad_vecinal": "uv-36",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r274",
+    "nombre_oficial": "Comunidad Ramón Rañileo",
+    "alias": [
+      "comunidad ramon ranileo",
+      "ramon ranileo",
+      "comunidad ramon rañileo"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.62269,
+    "longitud": -72.67999,
+    "unidad_vecinal": "uv-35",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r275",
+    "nombre_oficial": "Comunidad Llancamil Toro",
+    "alias": [
+      "comunidad llancamil toro",
+      "llancamil toro"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.6403,
+    "longitud": -72.66216,
+    "unidad_vecinal": "uv-36",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r276",
+    "nombre_oficial": "Comunidad Namuncura",
+    "alias": [
+      "comunidad namuncura",
+      "namuncura"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.65991,
+    "longitud": -72.66615,
+    "unidad_vecinal": "uv-36",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r277",
+    "nombre_oficial": "Comunidad Juan Marihual",
+    "alias": [
+      "comunidad juan marihual",
+      "juan marihual"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.64842,
+    "longitud": -72.73421,
+    "unidad_vecinal": "uv-34",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r278",
+    "nombre_oficial": "Comunidad Nicolás Quintrel",
+    "alias": [
+      "comunidad nicolas quintrel",
+      "nicolas quintrel"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.62207,
+    "longitud": -72.75988,
+    "unidad_vecinal": "uv-34",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r279",
+    "nombre_oficial": "Reducción Paillao",
+    "alias": [
+      "paillao",
+      "reduccion paillao"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.72918,
+    "longitud": -72.72323,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r280",
+    "nombre_oficial": "Reducción Tranalhue",
+    "alias": [
+      "reduccion tranalhue",
+      "tranalhue"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.71194,
+    "longitud": -72.7776,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r281",
+    "nombre_oficial": "Comunidad José Miguel Nahuelhual",
+    "alias": [
+      "comunidad jose miguel nahuelhual",
+      "jose miguel nahuelhual"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.7035,
+    "longitud": -72.72224,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r282",
+    "nombre_oficial": "Comunidad Francisco Leilmil",
+    "alias": [
+      "comunidad francisco leilmil",
+      "francisco leilmil"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.6635,
+    "longitud": -72.70984,
+    "unidad_vecinal": "uv-34",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r283",
+    "nombre_oficial": "Comunidad León Nahuelpán",
+    "alias": [
+      "comunidad leon nahuelpan",
+      "leon nahuelpan"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.6643,
+    "longitud": -72.73945,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r284",
+    "nombre_oficial": "Comunidad Juan Huichalef",
+    "alias": [
+      "comunidad juan huichalef",
+      "juan huichalef"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.66752,
+    "longitud": -72.75056,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r285",
+    "nombre_oficial": "Comunidad Víctor Lepileo",
+    "alias": [
+      "comunidad victor lepileo",
+      "victor lepileo"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.67985,
+    "longitud": -72.75541,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r286",
+    "nombre_oficial": "Comunidad Chizca Colillán",
+    "alias": [
+      "chizca colillan",
+      "comunidad chizca colillan"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.67861,
+    "longitud": -72.77103,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r287",
+    "nombre_oficial": "Comunidad Cheuquén Patirro",
+    "alias": [
+      "cheuquen patirro",
+      "comunidad cheuquen patirro"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.70849,
+    "longitud": -72.7914,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r288",
+    "nombre_oficial": "Comunidad Antonio Painemal",
+    "alias": [
+      "antonio painemal",
+      "comunidad antonio painemal"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.70165,
+    "longitud": -72.77666,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r289",
+    "nombre_oficial": "Comunidad Miguel Huichaqueo",
+    "alias": [
+      "comunidad miguel huichaqueo",
+      "miguel huichaqueo"
+    ],
+    "tipo": "comunidad",
+    "latitud": -38.72657,
+    "longitud": -72.76717,
+    "unidad_vecinal": "uv-33",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r290",
+    "nombre_oficial": "Villa Allipén",
+    "alias": [
+      "allipen",
+      "villa allipen"
+    ],
+    "tipo": "villa",
+    "latitud": -38.73258,
+    "longitud": -72.57284,
+    "unidad_vecinal": "uv-17",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r291",
+    "nombre_oficial": "Barrio Inglés",
+    "alias": [
+      "barrio ingles",
+      "ingles"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.7376,
+    "longitud": -72.6436,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r292",
+    "nombre_oficial": "Barrio Los Conquistadores",
+    "alias": [
+      "barrio los conquistadores",
+      "los conquistadores"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74047,
+    "longitud": -72.64537,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r293",
+    "nombre_oficial": "Centro",
+    "alias": [
+      "centro"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74004,
+    "longitud": -72.59039,
+    "unidad_vecinal": "uv-01",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r294",
+    "nombre_oficial": "Sector Poniente",
+    "alias": [
+      "poniente",
+      "sector poniente"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.73762,
+    "longitud": -72.62744,
+    "unidad_vecinal": "uv-11",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r299",
+    "nombre_oficial": "Condominio Las Araucarias",
+    "alias": [
+      "condominio las araucarias",
+      "las araucarias"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.76303,
+    "longitud": -72.67938,
+    "unidad_vecinal": "uv-27",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r300",
+    "nombre_oficial": "Villa El Retiro 2",
+    "alias": [
+      "el retiro 2",
+      "villa el retiro 2"
+    ],
+    "tipo": "villa",
+    "latitud": -38.69912,
+    "longitud": -72.53409,
+    "unidad_vecinal": "uv-19",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r301",
+    "nombre_oficial": "Hacienda Las Mariposas 3",
+    "alias": [
+      "hacienda las mariposas 3"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.69736,
+    "longitud": -72.55126,
+    "unidad_vecinal": "uv-15",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r302",
+    "nombre_oficial": "Hacienda Las Mariposas 2",
+    "alias": [
+      "hacienda las mariposas 2"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.69963,
+    "longitud": -72.55267,
+    "unidad_vecinal": "uv-15",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r303",
+    "nombre_oficial": "Condominio Vista Golf",
+    "alias": [
+      "condominio vista golf",
+      "vista golf"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.69571,
+    "longitud": -72.54078,
+    "unidad_vecinal": "uv-15",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r304",
+    "nombre_oficial": "Hacienda Las Mariposas 1",
+    "alias": [
+      "hacienda las mariposas 1"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.69916,
+    "longitud": -72.54817,
+    "unidad_vecinal": "uv-15",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r305",
+    "nombre_oficial": "Villa Recabarren",
+    "alias": [
+      "recabarren",
+      "villa recabarren"
+    ],
+    "tipo": "villa",
+    "latitud": -38.75364,
+    "longitud": -72.63098,
+    "unidad_vecinal": "uv-06",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r306",
+    "nombre_oficial": "Portal Alto III",
+    "alias": [
+      "portal alto iii"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74964,
+    "longitud": -72.64476,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r307",
+    "nombre_oficial": "Casas del Fundo",
+    "alias": [
+      "casas del fundo"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74554,
+    "longitud": -72.64626,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r308",
+    "nombre_oficial": "Mirador de La Frontera",
+    "alias": [
+      "mirador de la frontera"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74011,
+    "longitud": -72.6512,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r309",
+    "nombre_oficial": "Barrio Inglés I",
+    "alias": [
+      "barrio ingles i",
+      "ingles i"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74054,
+    "longitud": -72.64358,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r310",
+    "nombre_oficial": "Barrio Inglés II",
+    "alias": [
+      "barrio ingles ii",
+      "ingles ii"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.7409,
+    "longitud": -72.64437,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r311",
+    "nombre_oficial": "Nuestra Señora del Carmen",
+    "alias": [
+      "nuestra senora del carmen",
+      "nuestra señora del carmen"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.7121,
+    "longitud": -72.6644,
+    "unidad_vecinal": "uv-26",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r312",
+    "nombre_oficial": "Praderas del Carmen 3",
+    "alias": [
+      "praderas del carmen 3"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.71513,
+    "longitud": -72.65666,
+    "unidad_vecinal": "uv-26",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r313",
+    "nombre_oficial": "Jardines de la Frontera",
+    "alias": [
+      "jardines de la frontera"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.69367,
+    "longitud": -72.54394,
+    "unidad_vecinal": "uv-15",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r314",
+    "nombre_oficial": "Condominio Las Mariposas 2",
+    "alias": [
+      "condominio las mariposas 2",
+      "las mariposas 2"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.69657,
+    "longitud": -72.55179,
+    "unidad_vecinal": "uv-15",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r315",
+    "nombre_oficial": "Condominio Las Mariposas 1",
+    "alias": [
+      "condominio las mariposas 1",
+      "las mariposas 1"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.69787,
+    "longitud": -72.55197,
+    "unidad_vecinal": "uv-15",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r316",
+    "nombre_oficial": "Condominio Las Mariposas 3",
+    "alias": [
+      "condominio las mariposas 3",
+      "las mariposas 3"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.69673,
+    "longitud": -72.54964,
+    "unidad_vecinal": "uv-15",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r317",
+    "nombre_oficial": "Las Tranqueras",
+    "alias": [
+      "las tranqueras"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.71275,
+    "longitud": -72.54951,
+    "unidad_vecinal": "uv-19",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r318",
+    "nombre_oficial": "Villa Magisterio",
+    "alias": [
+      "magisterio",
+      "villa magisterio"
+    ],
+    "tipo": "villa",
+    "latitud": -38.71693,
+    "longitud": -72.56027,
+    "unidad_vecinal": "uv-14",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r319",
+    "nombre_oficial": "Villa Los Copihues",
+    "alias": [
+      "los copihues",
+      "villa los copihues"
+    ],
+    "tipo": "villa",
+    "latitud": -38.71423,
+    "longitud": -72.55988,
+    "unidad_vecinal": "uv-14",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r320",
+    "nombre_oficial": "Villa Los Nogales",
+    "alias": [
+      "los nogales",
+      "villa los nogales"
+    ],
+    "tipo": "villa",
+    "latitud": -38.70689,
+    "longitud": -72.55245,
+    "unidad_vecinal": "uv-15",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r321",
+    "nombre_oficial": "Loteo Valle Verde",
+    "alias": [
+      "loteo valle verde",
+      "valle verde"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.70918,
+    "longitud": -72.5522,
+    "unidad_vecinal": "uv-15",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r322",
+    "nombre_oficial": "Parque Don Rosauro",
+    "alias": [
+      "parque don rosauro"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.71234,
+    "longitud": -72.55445,
+    "unidad_vecinal": "uv-15",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r323",
+    "nombre_oficial": "Población Paredes",
+    "alias": [
+      "paredes",
+      "poblacion paredes"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.73641,
+    "longitud": -72.57488,
+    "unidad_vecinal": "uv-16",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r324",
+    "nombre_oficial": "Villa Olímpica",
+    "alias": [
+      "olimpica",
+      "villa olimpica"
+    ],
+    "tipo": "villa",
+    "latitud": -38.72984,
+    "longitud": -72.58434,
+    "unidad_vecinal": "uv-02",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r325",
+    "nombre_oficial": "Villa Santa Lucía",
+    "alias": [
+      "santa lucia",
+      "villa santa lucia"
+    ],
+    "tipo": "villa",
+    "latitud": -38.74237,
+    "longitud": -72.57464,
+    "unidad_vecinal": "uv-16",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r326",
+    "nombre_oficial": "Villa Imperial",
+    "alias": [
+      "imperial",
+      "villa imperial"
+    ],
+    "tipo": "villa",
+    "latitud": -38.74504,
+    "longitud": -72.6062,
+    "unidad_vecinal": "uv-11",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r328",
+    "nombre_oficial": "Loteo Milano",
+    "alias": [
+      "loteo milano",
+      "milano"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.76021,
+    "longitud": -72.65201,
+    "unidad_vecinal": "uv-09",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r329",
+    "nombre_oficial": "Villa Valle del Maipo",
+    "alias": [
+      "valle del maipo",
+      "villa valle del maipo"
+    ],
+    "tipo": "villa",
+    "latitud": -38.76051,
+    "longitud": -72.65005,
+    "unidad_vecinal": "uv-09",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r330",
+    "nombre_oficial": "Villa Rucalhue",
+    "alias": [
+      "rucalhue",
+      "villa rucalhue"
+    ],
+    "tipo": "villa",
+    "latitud": -38.76075,
+    "longitud": -72.64833,
+    "unidad_vecinal": "uv-09",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r331",
+    "nombre_oficial": "Nueva Galicia",
+    "alias": [
+      "nueva galicia"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.75873,
+    "longitud": -72.63855,
+    "unidad_vecinal": "uv-07",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r332",
+    "nombre_oficial": "Villa Altamira",
+    "alias": [
+      "altamira",
+      "villa altamira"
+    ],
+    "tipo": "villa",
+    "latitud": -38.75195,
+    "longitud": -72.64041,
+    "unidad_vecinal": "uv-08",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r333",
+    "nombre_oficial": "Parque Residencial Martín Hiriart",
+    "alias": [
+      "parque residencial martin hiriart"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.75128,
+    "longitud": -72.64321,
+    "unidad_vecinal": "uv-08",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r334",
+    "nombre_oficial": "Villa Los Ganaderos",
+    "alias": [
+      "los ganaderos",
+      "villa los ganaderos"
+    ],
+    "tipo": "villa",
+    "latitud": -38.7512,
+    "longitud": -72.63075,
+    "unidad_vecinal": "uv-06",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r335",
+    "nombre_oficial": "Juan Pablo II",
+    "alias": [
+      "juan pablo ii"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.7488,
+    "longitud": -72.62981,
+    "unidad_vecinal": "uv-06",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r337",
+    "nombre_oficial": "Villa Andalucía",
+    "alias": [
+      "andalucia",
+      "villa andalucia"
+    ],
+    "tipo": "villa",
+    "latitud": -38.75165,
+    "longitud": -72.62094,
+    "unidad_vecinal": "uv-06",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r338",
+    "nombre_oficial": "Villa Andrés Bello",
+    "alias": [
+      "andres bello",
+      "villa andres bello"
+    ],
+    "tipo": "villa",
+    "latitud": -38.75031,
+    "longitud": -72.61365,
+    "unidad_vecinal": "uv-11",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r339",
+    "nombre_oficial": "Villa Italia",
+    "alias": [
+      "italia",
+      "villa italia"
+    ],
+    "tipo": "villa",
+    "latitud": -38.75653,
+    "longitud": -72.63205,
+    "unidad_vecinal": "uv-07",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r340",
+    "nombre_oficial": "Villa René Schneider",
+    "alias": [
+      "rene schneider",
+      "villa rene schneider"
+    ],
+    "tipo": "villa",
+    "latitud": -38.74495,
+    "longitud": -72.61462,
+    "unidad_vecinal": "uv-11",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r341",
+    "nombre_oficial": "Villa O'Higgins",
+    "alias": [
+      "o higgins",
+      "villa o higgins",
+      "villa o'higgins"
+    ],
+    "tipo": "villa",
+    "latitud": -38.74747,
+    "longitud": -72.61353,
+    "unidad_vecinal": "uv-11",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r342",
+    "nombre_oficial": "Villa Claro de Luna",
+    "alias": [
+      "claro de luna",
+      "villa claro de luna"
+    ],
+    "tipo": "villa",
+    "latitud": -38.75878,
+    "longitud": -72.64064,
+    "unidad_vecinal": "uv-07",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r343",
+    "nombre_oficial": "Villa San Patricio",
+    "alias": [
+      "san patricio",
+      "villa san patricio"
+    ],
+    "tipo": "villa",
+    "latitud": -38.7579,
+    "longitud": -72.64099,
+    "unidad_vecinal": "uv-07",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r344",
+    "nombre_oficial": "Villa Araucana",
+    "alias": [
+      "araucana",
+      "villa araucana"
+    ],
+    "tipo": "villa",
+    "latitud": -38.75836,
+    "longitud": -72.64222,
+    "unidad_vecinal": "uv-07",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r345",
+    "nombre_oficial": "Los Conquistadores IV",
+    "alias": [
+      "los conquistadores iv"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74216,
+    "longitud": -72.64514,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r346",
+    "nombre_oficial": "Los Conquistadores III",
+    "alias": [
+      "los conquistadores iii"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74071,
+    "longitud": -72.64704,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r347",
+    "nombre_oficial": "Cumbres del Portal",
+    "alias": [
+      "cumbres del portal"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.7478,
+    "longitud": -72.65094,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r348",
+    "nombre_oficial": "Portal Alto II",
+    "alias": [
+      "portal alto ii"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74858,
+    "longitud": -72.64515,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r349",
+    "nombre_oficial": "Bosques del Portal",
+    "alias": [
+      "bosques del portal"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74192,
+    "longitud": -72.64838,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r350",
+    "nombre_oficial": "Villa Bayona",
+    "alias": [
+      "bayona",
+      "villa bayona"
+    ],
+    "tipo": "villa",
+    "latitud": -38.74126,
+    "longitud": -72.6315,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r351",
+    "nombre_oficial": "Villa Rochdale",
+    "alias": [
+      "rochdale",
+      "villa rochdale"
+    ],
+    "tipo": "villa",
+    "latitud": -38.74131,
+    "longitud": -72.63022,
+    "unidad_vecinal": "uv-11",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r352",
+    "nombre_oficial": "Villa José Miguel Carrera",
+    "alias": [
+      "jose miguel carrera",
+      "villa jose miguel carrera"
+    ],
+    "tipo": "villa",
+    "latitud": -38.74145,
+    "longitud": -72.62691,
+    "unidad_vecinal": "uv-11",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r353",
+    "nombre_oficial": "Villa Los Lagos",
+    "alias": [
+      "los lagos",
+      "villa los lagos"
+    ],
+    "tipo": "villa",
+    "latitud": -38.73846,
+    "longitud": -72.62737,
+    "unidad_vecinal": "uv-11",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r354",
+    "nombre_oficial": "Villa Trianon",
+    "alias": [
+      "trianon",
+      "villa trianon"
+    ],
+    "tipo": "villa",
+    "latitud": -38.7427,
+    "longitud": -72.63409,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r355",
+    "nombre_oficial": "Villa Los Creadores",
+    "alias": [
+      "los creadores",
+      "villa los creadores"
+    ],
+    "tipo": "villa",
+    "latitud": -38.7107,
+    "longitud": -72.65683,
+    "unidad_vecinal": "uv-26",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r358",
+    "nombre_oficial": "Los Sembradores",
+    "alias": [
+      "los sembradores"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.76843,
+    "longitud": -72.76456,
+    "unidad_vecinal": "uv-31",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r359",
+    "nombre_oficial": "Portal Alegría",
+    "alias": [
+      "portal alegria"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.77236,
+    "longitud": -72.76915,
+    "unidad_vecinal": "uv-31",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r360",
+    "nombre_oficial": "Villa Labranza",
+    "alias": [
+      "labranza",
+      "villa labranza"
+    ],
+    "tipo": "villa",
+    "latitud": -38.77071,
+    "longitud": -72.75931,
+    "unidad_vecinal": "uv-31",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r361",
+    "nombre_oficial": "Villa Los Lirios",
+    "alias": [
+      "los lirios",
+      "villa los lirios"
+    ],
+    "tipo": "villa",
+    "latitud": -38.76949,
+    "longitud": -72.75683,
+    "unidad_vecinal": "uv-31",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r362",
+    "nombre_oficial": "Villa San Cristóbal",
+    "alias": [
+      "san cristobal",
+      "villa san cristobal"
+    ],
+    "tipo": "villa",
+    "latitud": -38.76919,
+    "longitud": -72.75924,
+    "unidad_vecinal": "uv-31",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r363",
+    "nombre_oficial": "Villa Navidad",
+    "alias": [
+      "navidad",
+      "villa navidad"
+    ],
+    "tipo": "villa",
+    "latitud": -38.76956,
+    "longitud": -72.76103,
+    "unidad_vecinal": "uv-31",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r364",
+    "nombre_oficial": "Villa La Rivera",
+    "alias": [
+      "la rivera",
+      "villa la rivera"
+    ],
+    "tipo": "villa",
+    "latitud": -38.77174,
+    "longitud": -72.75224,
+    "unidad_vecinal": "uv-31",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r365",
+    "nombre_oficial": "Villa Los Poetas",
+    "alias": [
+      "los poetas",
+      "villa los poetas"
+    ],
+    "tipo": "villa",
+    "latitud": -38.77266,
+    "longitud": -72.75328,
+    "unidad_vecinal": "uv-31",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r366",
+    "nombre_oficial": "Villa El Trébol",
+    "alias": [
+      "el trebol",
+      "villa el trebol"
+    ],
+    "tipo": "villa",
+    "latitud": -38.77221,
+    "longitud": -72.7506,
+    "unidad_vecinal": "uv-31",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r367",
+    "nombre_oficial": "Villa Los Diamantes",
+    "alias": [
+      "los diamantes",
+      "villa los diamantes"
+    ],
+    "tipo": "villa",
+    "latitud": -38.77108,
+    "longitud": -72.75379,
+    "unidad_vecinal": "uv-31",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r368",
+    "nombre_oficial": "Villa Portal del Sol",
+    "alias": [
+      "portal del sol",
+      "villa portal del sol"
+    ],
+    "tipo": "villa",
+    "latitud": -38.7659,
+    "longitud": -72.7304,
+    "unidad_vecinal": "uv-27",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r370",
+    "nombre_oficial": "Brisas de Labranza",
+    "alias": [
+      "brisas de labranza"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.76854,
+    "longitud": -72.74549,
+    "unidad_vecinal": "uv-31",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r371",
+    "nombre_oficial": "Villa Los Altos del Sol",
+    "alias": [
+      "los altos del sol",
+      "villa los altos del sol"
+    ],
+    "tipo": "villa",
+    "latitud": -38.76768,
+    "longitud": -72.77893,
+    "unidad_vecinal": "uv-31",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r372",
+    "nombre_oficial": "Villa San Marcos",
+    "alias": [
+      "san marcos",
+      "villa san marcos"
+    ],
+    "tipo": "villa",
+    "latitud": -38.71081,
+    "longitud": -72.63686,
+    "unidad_vecinal": "uv-25",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r373",
+    "nombre_oficial": "Villa Arquenco",
+    "alias": [
+      "arquenco",
+      "villa arquenco"
+    ],
+    "tipo": "villa",
+    "latitud": -38.71042,
+    "longitud": -72.63475,
+    "unidad_vecinal": "uv-24",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r374",
+    "nombre_oficial": "Villa Los Laureles",
+    "alias": [
+      "los laureles",
+      "villa los laureles"
+    ],
+    "tipo": "villa",
+    "latitud": -38.71251,
+    "longitud": -72.63462,
+    "unidad_vecinal": "uv-25",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r376",
+    "nombre_oficial": "Villa Andina",
+    "alias": [
+      "andina",
+      "villa andina"
+    ],
+    "tipo": "villa",
+    "latitud": -38.71143,
+    "longitud": -72.62604,
+    "unidad_vecinal": "uv-24",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r377",
+    "nombre_oficial": "Villa El Esfuerzo",
+    "alias": [
+      "el esfuerzo",
+      "villa el esfuerzo"
+    ],
+    "tipo": "villa",
+    "latitud": -38.71144,
+    "longitud": -72.6296,
+    "unidad_vecinal": "uv-24",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r378",
+    "nombre_oficial": "Villa El Salitre",
+    "alias": [
+      "el salitre",
+      "villa el salitre"
+    ],
+    "tipo": "villa",
+    "latitud": -38.71152,
+    "longitud": -72.62157,
+    "unidad_vecinal": "uv-24",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r379",
+    "nombre_oficial": "Villa Cóndores",
+    "alias": [
+      "condores",
+      "villa condores"
+    ],
+    "tipo": "villa",
+    "latitud": -38.70924,
+    "longitud": -72.62503,
+    "unidad_vecinal": "uv-24",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r381",
+    "nombre_oficial": "Villa Chivilcán",
+    "alias": [
+      "chivilcan",
+      "villa chivilcan"
+    ],
+    "tipo": "villa",
+    "latitud": -38.71351,
+    "longitud": -72.61843,
+    "unidad_vecinal": "uv-20",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r383",
+    "nombre_oficial": "Villa Apoquindo",
+    "alias": [
+      "apoquindo",
+      "villa apoquindo"
+    ],
+    "tipo": "villa",
+    "latitud": -38.7284,
+    "longitud": -72.62732,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r384",
+    "nombre_oficial": "Villa Canpalau",
+    "alias": [
+      "canpalau",
+      "villa canpalau"
+    ],
+    "tipo": "villa",
+    "latitud": -38.7292,
+    "longitud": -72.6255,
+    "unidad_vecinal": "uv-10",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r385",
+    "nombre_oficial": "Jardín de América",
+    "alias": [
+      "jardin de america"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.72652,
+    "longitud": -72.62849,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r386",
+    "nombre_oficial": "Puerta de Alcalá",
+    "alias": [
+      "puerta de alcala"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.72782,
+    "longitud": -72.63236,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r387",
+    "nombre_oficial": "Lomas de Mirasur",
+    "alias": [
+      "lomas de mirasur"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.73297,
+    "longitud": -72.63603,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r388",
+    "nombre_oficial": "Cumbres del Sur",
+    "alias": [
+      "cumbres del sur"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.73151,
+    "longitud": -72.63334,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r389",
+    "nombre_oficial": "Villa Altos del Mirasur",
+    "alias": [
+      "altos del mirasur",
+      "villa altos del mirasur"
+    ],
+    "tipo": "villa",
+    "latitud": -38.73065,
+    "longitud": -72.64137,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r390",
+    "nombre_oficial": "Barrio Germania",
+    "alias": [
+      "barrio germania",
+      "germania"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.73593,
+    "longitud": -72.64904,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r391",
+    "nombre_oficial": "Villa Las Camelias",
+    "alias": [
+      "las camelias",
+      "villa las camelias"
+    ],
+    "tipo": "villa",
+    "latitud": -38.76185,
+    "longitud": -72.68963,
+    "unidad_vecinal": "uv-27",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r394",
+    "nombre_oficial": "Villa Los Cipreses",
+    "alias": [
+      "los cipreses",
+      "villa los cipreses"
+    ],
+    "tipo": "villa",
+    "latitud": -38.75752,
+    "longitud": -72.67016,
+    "unidad_vecinal": "uv-27",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r395",
+    "nombre_oficial": "Villa Industrial",
+    "alias": [
+      "industrial",
+      "villa industrial"
+    ],
+    "tipo": "villa",
+    "latitud": -38.70782,
+    "longitud": -72.6457,
+    "unidad_vecinal": "uv-25",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r396",
+    "nombre_oficial": "Villa Holanda",
+    "alias": [
+      "holanda",
+      "villa holanda"
+    ],
+    "tipo": "villa",
+    "latitud": -38.70928,
+    "longitud": -72.64377,
+    "unidad_vecinal": "uv-25",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r397",
+    "nombre_oficial": "Villa El Estero",
+    "alias": [
+      "el estero",
+      "villa el estero"
+    ],
+    "tipo": "villa",
+    "latitud": -38.71222,
+    "longitud": -72.64441,
+    "unidad_vecinal": "uv-25",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r398",
+    "nombre_oficial": "Villa Las Condes",
+    "alias": [
+      "las condes",
+      "villa las condes"
+    ],
+    "tipo": "villa",
+    "latitud": -38.7362,
+    "longitud": -72.6348,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r399",
+    "nombre_oficial": "Lomas de Ralún",
+    "alias": [
+      "lomas de ralun"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.70906,
+    "longitud": -72.64831,
+    "unidad_vecinal": "uv-25",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r400",
+    "nombre_oficial": "Villa Comunidad Cristiana",
+    "alias": [
+      "comunidad cristiana",
+      "villa comunidad cristiana"
+    ],
+    "tipo": "villa",
+    "latitud": -38.70749,
+    "longitud": -72.64752,
+    "unidad_vecinal": "uv-25",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r401",
+    "nombre_oficial": "Villa El Mirador",
+    "alias": [
+      "el mirador",
+      "villa el mirador"
+    ],
+    "tipo": "villa",
+    "latitud": -38.70974,
+    "longitud": -72.64582,
+    "unidad_vecinal": "uv-25",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r402",
+    "nombre_oficial": "Villa La Unión",
+    "alias": [
+      "la union",
+      "villa la union"
+    ],
+    "tipo": "villa",
+    "latitud": -38.6856,
+    "longitud": -72.65297,
+    "unidad_vecinal": "uv-36",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r403",
+    "nombre_oficial": "Las Praderas",
+    "alias": [
+      "las praderas"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.68664,
+    "longitud": -72.65337,
+    "unidad_vecinal": "uv-36",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r404",
+    "nombre_oficial": "Villa Antukuyén",
+    "alias": [
+      "antukuyen",
+      "villa antukuyen"
+    ],
+    "tipo": "villa",
+    "latitud": -38.70754,
+    "longitud": -72.62693,
+    "unidad_vecinal": "uv-24",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r405",
+    "nombre_oficial": "Villa Caupolicán",
+    "alias": [
+      "caupolican",
+      "villa caupolican"
+    ],
+    "tipo": "villa",
+    "latitud": -38.72212,
+    "longitud": -72.62238,
+    "unidad_vecinal": "uv-22",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r406",
+    "nombre_oficial": "Villa Santiago",
+    "alias": [
+      "santiago",
+      "villa santiago"
+    ],
+    "tipo": "villa",
+    "latitud": -38.71813,
+    "longitud": -72.62709,
+    "unidad_vecinal": "uv-23",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r407",
+    "nombre_oficial": "Campamento Pichicautin",
+    "alias": [
+      "campamento pichicautin"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74562,
+    "longitud": -72.59438,
+    "unidad_vecinal": "uv-01",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r409",
+    "nombre_oficial": "Villa Brisas del Sur",
+    "alias": [
+      "brisas del sur",
+      "villa brisas del sur"
+    ],
+    "tipo": "villa",
+    "latitud": -38.73053,
+    "longitud": -72.55783,
+    "unidad_vecinal": "uv-18",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r410",
+    "nombre_oficial": "Villa Los Trovadores",
+    "alias": [
+      "los trovadores",
+      "villa los trovadores"
+    ],
+    "tipo": "villa",
+    "latitud": -38.73178,
+    "longitud": -72.55789,
+    "unidad_vecinal": "uv-18",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r411",
+    "nombre_oficial": "Villa Bicentenario",
+    "alias": [
+      "bicentenario",
+      "villa bicentenario"
+    ],
+    "tipo": "villa",
+    "latitud": -38.72849,
+    "longitud": -72.55533,
+    "unidad_vecinal": "uv-18",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r412",
+    "nombre_oficial": "Villa Cautín",
+    "alias": [
+      "cautin",
+      "villa cautin"
+    ],
+    "tipo": "villa",
+    "latitud": -38.75627,
+    "longitud": -72.61326,
+    "unidad_vecinal": "uv-05",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r413",
+    "nombre_oficial": "Villa Ñielol",
+    "alias": [
+      "nielol",
+      "villa nielol",
+      "villa ñielol"
+    ],
+    "tipo": "villa",
+    "latitud": -38.72878,
+    "longitud": -72.59894,
+    "unidad_vecinal": "uv-02",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r414",
+    "nombre_oficial": "Sarita Gajardo",
+    "alias": [
+      "sarita gajardo"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74137,
+    "longitud": -72.57866,
+    "unidad_vecinal": "uv-16",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r415",
+    "nombre_oficial": "Praderas de Labranza",
+    "alias": [
+      "praderas de labranza"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.76099,
+    "longitud": -72.75837,
+    "unidad_vecinal": "uv-29",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r416",
+    "nombre_oficial": "Villa Praderas de Don Joaquin",
+    "alias": [
+      "praderas de don joaquin",
+      "villa praderas de don joaquin"
+    ],
+    "tipo": "villa",
+    "latitud": -38.76119,
+    "longitud": -72.76247,
+    "unidad_vecinal": "uv-29",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r417",
+    "nombre_oficial": "Villa Luis de Valdivia",
+    "alias": [
+      "luis de valdivia",
+      "villa luis de valdivia"
+    ],
+    "tipo": "villa",
+    "latitud": -38.76354,
+    "longitud": -72.7698,
+    "unidad_vecinal": "uv-29",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r418",
+    "nombre_oficial": "Villa Santa Maria",
+    "alias": [
+      "santa maria",
+      "villa santa maria"
+    ],
+    "tipo": "villa",
+    "latitud": -38.75902,
+    "longitud": -72.77325,
+    "unidad_vecinal": "uv-30",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r419",
+    "nombre_oficial": "Villa Jorge Teillier",
+    "alias": [
+      "jorge teillier",
+      "villa jorge teillier"
+    ],
+    "tipo": "villa",
+    "latitud": -38.76265,
+    "longitud": -72.74304,
+    "unidad_vecinal": "uv-28",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r420",
+    "nombre_oficial": "Villa Los Reyes",
+    "alias": [
+      "los reyes",
+      "villa los reyes"
+    ],
+    "tipo": "villa",
+    "latitud": -38.76161,
+    "longitud": -72.74259,
+    "unidad_vecinal": "uv-28",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r421",
+    "nombre_oficial": "San Sebastián",
+    "alias": [
+      "san sebastian"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.7539,
+    "longitud": -72.66743,
+    "unidad_vecinal": "uv-27",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r422",
+    "nombre_oficial": "Condominio el Arrayan",
+    "alias": [
+      "condominio el arrayan",
+      "el arrayan"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.76269,
+    "longitud": -72.67821,
+    "unidad_vecinal": "uv-27",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r423",
+    "nombre_oficial": "Condominio el Roble",
+    "alias": [
+      "condominio el roble",
+      "el roble"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.76325,
+    "longitud": -72.67847,
+    "unidad_vecinal": "uv-27",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r424",
+    "nombre_oficial": "Condominio Mediterraneo",
+    "alias": [
+      "condominio mediterraneo",
+      "mediterraneo"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.7681,
+    "longitud": -72.6796,
+    "unidad_vecinal": "uv-27",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r425",
+    "nombre_oficial": "Villa Rapiman",
+    "alias": [
+      "rapiman",
+      "villa rapiman"
+    ],
+    "tipo": "villa",
+    "latitud": -38.76188,
+    "longitud": -72.71734,
+    "unidad_vecinal": "uv-27",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r426",
+    "nombre_oficial": "Loteo Pehuén",
+    "alias": [
+      "loteo pehuen",
+      "pehuen"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74765,
+    "longitud": -72.62493,
+    "unidad_vecinal": "uv-06",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r427",
+    "nombre_oficial": "Parque San Sebastián",
+    "alias": [
+      "parque san sebastian"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74719,
+    "longitud": -72.63374,
+    "unidad_vecinal": "uv-11",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r428",
+    "nombre_oficial": "Santa Cecilia",
+    "alias": [
+      "santa cecilia"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74544,
+    "longitud": -72.6382,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r429",
+    "nombre_oficial": "Villa Vitacura",
+    "alias": [
+      "villa vitacura",
+      "vitacura"
+    ],
+    "tipo": "villa",
+    "latitud": -38.7445,
+    "longitud": -72.63577,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r430",
+    "nombre_oficial": "Arboleda del Portal",
+    "alias": [
+      "arboleda del portal"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74932,
+    "longitud": -72.64252,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r431",
+    "nombre_oficial": "Portal Alto",
+    "alias": [
+      "portal alto"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74804,
+    "longitud": -72.64399,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r432",
+    "nombre_oficial": "Portal Las Tranqueras",
+    "alias": [
+      "portal las tranqueras"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74451,
+    "longitud": -72.64607,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r433",
+    "nombre_oficial": "Condominio Jardín del Portal",
+    "alias": [
+      "condominio jardin del portal",
+      "jardin del portal"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74504,
+    "longitud": -72.64527,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r434",
+    "nombre_oficial": "Los Corrales",
+    "alias": [
+      "los corrales"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.7461,
+    "longitud": -72.64446,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r436",
+    "nombre_oficial": "Condominio Milano",
+    "alias": [
+      "condominio milano",
+      "milano"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.76081,
+    "longitud": -72.64763,
+    "unidad_vecinal": "uv-09",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r437",
+    "nombre_oficial": "Condominio Nueva Milano",
+    "alias": [
+      "condominio nueva milano",
+      "nueva milano"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.76108,
+    "longitud": -72.6472,
+    "unidad_vecinal": "uv-09",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r438",
+    "nombre_oficial": "Condominio Los Sauces",
+    "alias": [
+      "condominio los sauces",
+      "los sauces"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.75966,
+    "longitud": -72.64291,
+    "unidad_vecinal": "uv-07",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r439",
+    "nombre_oficial": "Comité Volver a Empezar",
+    "alias": [
+      "comite volver a empezar"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.76016,
+    "longitud": -72.64061,
+    "unidad_vecinal": "uv-07",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r440",
+    "nombre_oficial": "Condominio Parque Cautín",
+    "alias": [
+      "condominio parque cautin",
+      "parque cautin"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.75165,
+    "longitud": -72.60519,
+    "unidad_vecinal": "uv-01",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r441",
+    "nombre_oficial": "Condominio Plaza Parque Los Poetas",
+    "alias": [
+      "condominio plaza parque los poetas",
+      "plaza parque los poetas"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.75246,
+    "longitud": -72.60447,
+    "unidad_vecinal": "uv-01",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r442",
+    "nombre_oficial": "Condominio Nueva Costanera",
+    "alias": [
+      "condominio nueva costanera",
+      "nueva costanera"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.75238,
+    "longitud": -72.60539,
+    "unidad_vecinal": "uv-01",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r443",
+    "nombre_oficial": "Población Abraham Lincoln",
+    "alias": [
+      "abraham lincoln",
+      "poblacion abraham lincoln"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.75067,
+    "longitud": -72.60725,
+    "unidad_vecinal": "uv-04",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r445",
+    "nombre_oficial": "Población Municipal 2",
+    "alias": [
+      "municipal 2",
+      "poblacion municipal 2"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74547,
+    "longitud": -72.60355,
+    "unidad_vecinal": "uv-01",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r446",
+    "nombre_oficial": "Edificio Los Confines",
+    "alias": [
+      "edificio los confines"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74609,
+    "longitud": -72.60358,
+    "unidad_vecinal": "uv-01",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r447",
+    "nombre_oficial": "Obreros Municipales",
+    "alias": [
+      "obreros municipales"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74475,
+    "longitud": -72.60214,
+    "unidad_vecinal": "uv-01",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r448",
+    "nombre_oficial": "Villa Ferroviaria",
+    "alias": [
+      "ferroviaria",
+      "villa ferroviaria"
+    ],
+    "tipo": "villa",
+    "latitud": -38.74499,
+    "longitud": -72.59938,
+    "unidad_vecinal": "uv-01",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r449",
+    "nombre_oficial": "Pichicautín",
+    "alias": [
+      "pichicautin"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74556,
+    "longitud": -72.59854,
+    "unidad_vecinal": "uv-01",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r450",
+    "nombre_oficial": "Población Soberanía",
+    "alias": [
+      "poblacion soberania",
+      "soberania"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74418,
+    "longitud": -72.59148,
+    "unidad_vecinal": "uv-01",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r451",
+    "nombre_oficial": "Indesur",
+    "alias": [
+      "indesur"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74408,
+    "longitud": -72.58428,
+    "unidad_vecinal": "uv-16",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r453",
+    "nombre_oficial": "Villa Nehuén",
+    "alias": [
+      "nehuen",
+      "villa nehuen"
+    ],
+    "tipo": "villa",
+    "latitud": -38.68663,
+    "longitud": -72.65584,
+    "unidad_vecinal": "uv-36",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r454",
+    "nombre_oficial": "Villa Esperanza con Huenchumilla",
+    "alias": [
+      "esperanza con huenchumilla",
+      "villa esperanza con huenchumilla"
+    ],
+    "tipo": "villa",
+    "latitud": -38.68901,
+    "longitud": -72.65585,
+    "unidad_vecinal": "uv-36",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r457",
+    "nombre_oficial": "Villa Clotario Blest",
+    "alias": [
+      "clotario blest",
+      "villa clotario blest"
+    ],
+    "tipo": "villa",
+    "latitud": -38.7429,
+    "longitud": -72.58552,
+    "unidad_vecinal": "uv-16",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r458",
+    "nombre_oficial": "Condominio San Martín",
+    "alias": [
+      "condominio san martin",
+      "san martin"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74332,
+    "longitud": -72.58423,
+    "unidad_vecinal": "uv-16",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r459",
+    "nombre_oficial": "Santa Elena",
+    "alias": [
+      "santa elena"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74192,
+    "longitud": -72.5826,
+    "unidad_vecinal": "uv-16",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r460",
+    "nombre_oficial": "Población Carabineros",
+    "alias": [
+      "carabineros",
+      "poblacion carabineros"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.741,
+    "longitud": -72.58519,
+    "unidad_vecinal": "uv-03",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r461",
+    "nombre_oficial": "Villa El Progreso",
+    "alias": [
+      "el progreso",
+      "villa el progreso"
+    ],
+    "tipo": "villa",
+    "latitud": -38.74584,
+    "longitud": -72.57986,
+    "unidad_vecinal": "uv-16",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r462",
+    "nombre_oficial": "Villa Unión Esperanza",
+    "alias": [
+      "union esperanza",
+      "villa union esperanza"
+    ],
+    "tipo": "villa",
+    "latitud": -38.74488,
+    "longitud": -72.57789,
+    "unidad_vecinal": "uv-16",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r463",
+    "nombre_oficial": "Villa Los Boldos",
+    "alias": [
+      "los boldos",
+      "villa los boldos"
+    ],
+    "tipo": "villa",
+    "latitud": -38.7442,
+    "longitud": -72.57758,
+    "unidad_vecinal": "uv-16",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r464",
+    "nombre_oficial": "Villa La Frontera",
+    "alias": [
+      "la frontera",
+      "villa la frontera"
+    ],
+    "tipo": "villa",
+    "latitud": -38.74357,
+    "longitud": -72.57671,
+    "unidad_vecinal": "uv-16",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r465",
+    "nombre_oficial": "Condominio Malvoa",
+    "alias": [
+      "condominio malvoa",
+      "malvoa"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.73664,
+    "longitud": -72.57636,
+    "unidad_vecinal": "uv-16",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r466",
+    "nombre_oficial": "Loteo Malvoa",
+    "alias": [
+      "loteo malvoa",
+      "malvoa"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.7355,
+    "longitud": -72.57557,
+    "unidad_vecinal": "uv-16",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r467",
+    "nombre_oficial": "Jorge Schmidt",
+    "alias": [
+      "jorge schmidt"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.73617,
+    "longitud": -72.57395,
+    "unidad_vecinal": "uv-16",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r468",
+    "nombre_oficial": "Población Teniente Merino",
+    "alias": [
+      "poblacion teniente merino",
+      "teniente merino"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.734,
+    "longitud": -72.57249,
+    "unidad_vecinal": "uv-17",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r470",
+    "nombre_oficial": "Portal San Francisco",
+    "alias": [
+      "portal san francisco"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.69035,
+    "longitud": -72.65481,
+    "unidad_vecinal": "uv-36",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r471",
+    "nombre_oficial": "Villa Los Castaños II",
+    "alias": [
+      "los castanos ii",
+      "villa los castanos ii",
+      "villa los castaños ii"
+    ],
+    "tipo": "villa",
+    "latitud": -38.70475,
+    "longitud": -72.64345,
+    "unidad_vecinal": "uv-24",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r472",
+    "nombre_oficial": "Jardines del Fundo",
+    "alias": [
+      "jardines del fundo"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.7135,
+    "longitud": -72.65783,
+    "unidad_vecinal": "uv-26",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r473",
+    "nombre_oficial": "Jardines del Fundo II",
+    "alias": [
+      "jardines del fundo ii"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.7137,
+    "longitud": -72.66281,
+    "unidad_vecinal": "uv-26",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r474",
+    "nombre_oficial": "Barrio Residencial Terranova",
+    "alias": [
+      "barrio residencial terranova",
+      "residencial terranova"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.72469,
+    "longitud": -72.65353,
+    "unidad_vecinal": "uv-26",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r475",
+    "nombre_oficial": "Valle Los Notros",
+    "alias": [
+      "valle los notros"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.73314,
+    "longitud": -72.64429,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r476",
+    "nombre_oficial": "Valle de Flores",
+    "alias": [
+      "valle de flores"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.7337,
+    "longitud": -72.64081,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r477",
+    "nombre_oficial": "Valle de Alcalá",
+    "alias": [
+      "valle de alcala"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.7285,
+    "longitud": -72.63474,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r478",
+    "nombre_oficial": "Población Campo Deportivo",
+    "alias": [
+      "campo deportivo",
+      "poblacion campo deportivo"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.72903,
+    "longitud": -72.61709,
+    "unidad_vecinal": "uv-10",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r479",
+    "nombre_oficial": "Villa Las Vertientes",
+    "alias": [
+      "las vertientes",
+      "villa las vertientes"
+    ],
+    "tipo": "villa",
+    "latitud": -38.72632,
+    "longitud": -72.61768,
+    "unidad_vecinal": "uv-22",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r480",
+    "nombre_oficial": "Población Villa Alegre",
+    "alias": [
+      "poblacion villa alegre",
+      "villa alegre"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.72406,
+    "longitud": -72.61495,
+    "unidad_vecinal": "uv-21",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r481",
+    "nombre_oficial": "Condominio Entre Bosques",
+    "alias": [
+      "condominio entre bosques",
+      "entre bosques"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.71433,
+    "longitud": -72.65956,
+    "unidad_vecinal": "uv-26",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r482",
+    "nombre_oficial": "Los Creadores 33",
+    "alias": [
+      "los creadores 33"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.71669,
+    "longitud": -72.64882,
+    "unidad_vecinal": "uv-26",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r483",
+    "nombre_oficial": "Condominio Los Fundadores",
+    "alias": [
+      "condominio los fundadores",
+      "los fundadores"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.7168,
+    "longitud": -72.65646,
+    "unidad_vecinal": "uv-26",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r484",
+    "nombre_oficial": "Nuestra Señora del Carmen 4",
+    "alias": [
+      "nuestra senora del carmen 4",
+      "nuestra señora del carmen 4"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.7102,
+    "longitud": -72.66627,
+    "unidad_vecinal": "uv-26",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r485",
+    "nombre_oficial": "Nuestra Señora del Carmen 3",
+    "alias": [
+      "nuestra senora del carmen 3",
+      "nuestra señora del carmen 3"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.7103,
+    "longitud": -72.66313,
+    "unidad_vecinal": "uv-26",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r486",
+    "nombre_oficial": "Nuevo Milenio",
+    "alias": [
+      "nuevo milenio"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.71606,
+    "longitud": -72.63762,
+    "unidad_vecinal": "uv-25",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r488",
+    "nombre_oficial": "Villa Los Encinos",
+    "alias": [
+      "los encinos",
+      "villa los encinos"
+    ],
+    "tipo": "villa",
+    "latitud": -38.7147,
+    "longitud": -72.63278,
+    "unidad_vecinal": "uv-25",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r489",
+    "nombre_oficial": "Tromen Lafquen",
+    "alias": [
+      "tromen lafquen"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.71607,
+    "longitud": -72.63201,
+    "unidad_vecinal": "uv-25",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r490",
+    "nombre_oficial": "Huitramalal",
+    "alias": [
+      "huitramalal"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.71734,
+    "longitud": -72.63324,
+    "unidad_vecinal": "uv-25",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r491",
+    "nombre_oficial": "Villa San Andrés 2",
+    "alias": [
+      "san andres 2",
+      "villa san andres 2"
+    ],
+    "tipo": "villa",
+    "latitud": -38.71803,
+    "longitud": -72.6318,
+    "unidad_vecinal": "uv-25",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r492",
+    "nombre_oficial": "Villa Santiago 2 (René Safirio)",
+    "alias": [
+      "santiago 2 rene safirio",
+      "villa santiago 2 rene safirio",
+      "villa santiago 2 (rene safirio)"
+    ],
+    "tipo": "villa",
+    "latitud": -38.71932,
+    "longitud": -72.6279,
+    "unidad_vecinal": "uv-23",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r493",
+    "nombre_oficial": "Villa Ampliación Victoria",
+    "alias": [
+      "ampliacion victoria",
+      "villa ampliacion victoria"
+    ],
+    "tipo": "villa",
+    "latitud": -38.71922,
+    "longitud": -72.62459,
+    "unidad_vecinal": "uv-23",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r494",
+    "nombre_oficial": "Villa Cumora",
+    "alias": [
+      "cumora",
+      "villa cumora"
+    ],
+    "tipo": "villa",
+    "latitud": -38.72105,
+    "longitud": -72.62681,
+    "unidad_vecinal": "uv-23",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r495",
+    "nombre_oficial": "Villa Lautaro",
+    "alias": [
+      "lautaro",
+      "villa lautaro"
+    ],
+    "tipo": "villa",
+    "latitud": -38.72115,
+    "longitud": -72.62573,
+    "unidad_vecinal": "uv-23",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r496",
+    "nombre_oficial": "Nueva Generación",
+    "alias": [
+      "nueva generacion"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.72366,
+    "longitud": -72.62606,
+    "unidad_vecinal": "uv-23",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r497",
+    "nombre_oficial": "Villa Alemana",
+    "alias": [
+      "alemana",
+      "villa alemana"
+    ],
+    "tipo": "villa",
+    "latitud": -38.72553,
+    "longitud": -72.62413,
+    "unidad_vecinal": "uv-22",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r498",
+    "nombre_oficial": "Los Sauces de Tromén",
+    "alias": [
+      "los sauces de tromen"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.7252,
+    "longitud": -72.62246,
+    "unidad_vecinal": "uv-22",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r499",
+    "nombre_oficial": "Villa Andes",
+    "alias": [
+      "andes",
+      "villa andes"
+    ],
+    "tipo": "villa",
+    "latitud": -38.72498,
+    "longitud": -72.62073,
+    "unidad_vecinal": "uv-22",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r500",
+    "nombre_oficial": "Coihueco",
+    "alias": [
+      "coihueco"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.72336,
+    "longitud": -72.62047,
+    "unidad_vecinal": "uv-22",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r501",
+    "nombre_oficial": "Villa Alfa",
+    "alias": [
+      "alfa",
+      "villa alfa"
+    ],
+    "tipo": "villa",
+    "latitud": -38.73242,
+    "longitud": -72.63184,
+    "unidad_vecinal": "uv-10",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r503",
+    "nombre_oficial": "Condominio Plaza Club",
+    "alias": [
+      "condominio plaza club",
+      "plaza club"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.72929,
+    "longitud": -72.57109,
+    "unidad_vecinal": "uv-13",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r504",
+    "nombre_oficial": "Altos del Maipo",
+    "alias": [
+      "altos del maipo"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.75487,
+    "longitud": -72.65606,
+    "unidad_vecinal": "uv-08",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r507",
+    "nombre_oficial": "Condominio Los Pablos",
+    "alias": [
+      "condominio los pablos",
+      "los pablos"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74421,
+    "longitud": -72.63892,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r508",
+    "nombre_oficial": "Condominio Valle del Sol",
+    "alias": [
+      "condominio valle del sol",
+      "valle del sol"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74418,
+    "longitud": -72.64027,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r509",
+    "nombre_oficial": "Terminal Linea 4",
+    "alias": [
+      "terminal linea 4"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.75993,
+    "longitud": -72.67185,
+    "unidad_vecinal": "uv-27",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r512",
+    "nombre_oficial": "Villa Don Joaquín II",
+    "alias": [
+      "don joaquin ii",
+      "villa don joaquin ii"
+    ],
+    "tipo": "villa",
+    "latitud": -38.71747,
+    "longitud": -72.55056,
+    "unidad_vecinal": "uv-18",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r513",
+    "nombre_oficial": "Alto Lomas del Carmen",
+    "alias": [
+      "alto lomas del carmen"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.71866,
+    "longitud": -72.65435,
+    "unidad_vecinal": "uv-26",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r514",
+    "nombre_oficial": "Edificio Barrio Inglés",
+    "alias": [
+      "edificio barrio ingles"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74147,
+    "longitud": -72.64339,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r515",
+    "nombre_oficial": "Condominio Ercilla",
+    "alias": [
+      "condominio ercilla",
+      "ercilla"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.72223,
+    "longitud": -72.566,
+    "unidad_vecinal": "uv-13",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r516",
+    "nombre_oficial": "Parque Oriente",
+    "alias": [
+      "parque oriente"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.71003,
+    "longitud": -72.55567,
+    "unidad_vecinal": "uv-15",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r517",
+    "nombre_oficial": "Condominio del Bosque 2",
+    "alias": [
+      "condominio del bosque 2",
+      "del bosque 2"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.7433,
+    "longitud": -72.64682,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r518",
+    "nombre_oficial": "Condominio del Bosque 1",
+    "alias": [
+      "condominio del bosque 1",
+      "del bosque 1"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74349,
+    "longitud": -72.64744,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r519",
+    "nombre_oficial": "Portal del Sur",
+    "alias": [
+      "portal del sur"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.70982,
+    "longitud": -72.55851,
+    "unidad_vecinal": "uv-14",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r520",
+    "nombre_oficial": "Condominio Mirador Ñielol",
+    "alias": [
+      "condominio mirador nielol",
+      "mirador nielol",
+      "condominio mirador ñielol"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.7099,
+    "longitud": -72.55944,
+    "unidad_vecinal": "uv-14",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r521",
+    "nombre_oficial": "Edificio Ipanema",
+    "alias": [
+      "edificio ipanema"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74679,
+    "longitud": -72.642,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r522",
+    "nombre_oficial": "Edificio Cuiabá",
+    "alias": [
+      "edificio cuiaba"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74544,
+    "longitud": -72.64253,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r523",
+    "nombre_oficial": "Edificio Paranoá",
+    "alias": [
+      "edificio paranoa"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74568,
+    "longitud": -72.64304,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r524",
+    "nombre_oficial": "Edificio Porto Belo",
+    "alias": [
+      "edificio porto belo"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74593,
+    "longitud": -72.64359,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r526",
+    "nombre_oficial": "Condominio Altavista",
+    "alias": [
+      "altavista",
+      "condominio altavista"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.7241,
+    "longitud": -72.63396,
+    "unidad_vecinal": "uv-23",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r528",
+    "nombre_oficial": "Praderas del Carmen 4",
+    "alias": [
+      "praderas del carmen 4"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.71549,
+    "longitud": -72.65987,
+    "unidad_vecinal": "uv-26",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r529",
+    "nombre_oficial": "Praderas del Carmen 6",
+    "alias": [
+      "praderas del carmen 6"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.7144,
+    "longitud": -72.65725,
+    "unidad_vecinal": "uv-26",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r530",
+    "nombre_oficial": "Praderas del Carmen 1",
+    "alias": [
+      "praderas del carmen 1"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.71584,
+    "longitud": -72.6564,
+    "unidad_vecinal": "uv-26",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r531",
+    "nombre_oficial": "Praderas del Carmen 2",
+    "alias": [
+      "praderas del carmen 2"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.71552,
+    "longitud": -72.65779,
+    "unidad_vecinal": "uv-26",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r532",
+    "nombre_oficial": "Praderas del Carmen 5",
+    "alias": [
+      "praderas del carmen 5"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.71545,
+    "longitud": -72.65872,
+    "unidad_vecinal": "uv-26",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r533",
+    "nombre_oficial": "Condominio Alto Durand lll",
+    "alias": [
+      "alto durand lll",
+      "condominio alto durand lll"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.71797,
+    "longitud": -72.64978,
+    "unidad_vecinal": "uv-26",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r534",
+    "nombre_oficial": "Condominio Los Alelies",
+    "alias": [
+      "condominio los alelies",
+      "los alelies"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.71563,
+    "longitud": -72.65056,
+    "unidad_vecinal": "uv-26",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r535",
+    "nombre_oficial": "Terrazas del Carmen",
+    "alias": [
+      "terrazas del carmen"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.71281,
+    "longitud": -72.65312,
+    "unidad_vecinal": "uv-26",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r536",
+    "nombre_oficial": "Altos del Bosque 1",
+    "alias": [
+      "altos del bosque 1"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.71842,
+    "longitud": -72.6617,
+    "unidad_vecinal": "uv-26",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r537",
+    "nombre_oficial": "Altos del Bosque 2",
+    "alias": [
+      "altos del bosque 2"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.71923,
+    "longitud": -72.66127,
+    "unidad_vecinal": "uv-26",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r538",
+    "nombre_oficial": "Villa Altos de San Luis",
+    "alias": [
+      "altos de san luis",
+      "villa altos de san luis"
+    ],
+    "tipo": "villa",
+    "latitud": -38.75834,
+    "longitud": -72.749,
+    "unidad_vecinal": "uv-29",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r539",
+    "nombre_oficial": "Villa Las Cumbres",
+    "alias": [
+      "las cumbres",
+      "villa las cumbres"
+    ],
+    "tipo": "villa",
+    "latitud": -38.75818,
+    "longitud": -72.74506,
+    "unidad_vecinal": "uv-28",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r540",
+    "nombre_oficial": "Condominio Parquesol",
+    "alias": [
+      "condominio parquesol",
+      "parquesol"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.72635,
+    "longitud": -72.62336,
+    "unidad_vecinal": "uv-22",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r541",
+    "nombre_oficial": "Condominio 1 Daniel Schmidt",
+    "alias": [
+      "1 daniel schmidt",
+      "condominio 1 daniel schmidt"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.72607,
+    "longitud": -72.62453,
+    "unidad_vecinal": "uv-22",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r542",
+    "nombre_oficial": "Condominio 6 Daniel Schmidt",
+    "alias": [
+      "6 daniel schmidt",
+      "condominio 6 daniel schmidt"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.72596,
+    "longitud": -72.62392,
+    "unidad_vecinal": "uv-22",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r543",
+    "nombre_oficial": "Condominio 4 Daniel Schmidt",
+    "alias": [
+      "4 daniel schmidt",
+      "condominio 4 daniel schmidt"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.72484,
+    "longitud": -72.62394,
+    "unidad_vecinal": "uv-22",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r544",
+    "nombre_oficial": "Condominio 3 Daniel Schmidt",
+    "alias": [
+      "3 daniel schmidt",
+      "condominio 3 daniel schmidt"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.72537,
+    "longitud": -72.62404,
+    "unidad_vecinal": "uv-22",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r545",
+    "nombre_oficial": "Condominio 2 Daniel Schmidt",
+    "alias": [
+      "2 daniel schmidt",
+      "condominio 2 daniel schmidt"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.72582,
+    "longitud": -72.62438,
+    "unidad_vecinal": "uv-22",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r546",
+    "nombre_oficial": "Condominio Altos de Apoquindo",
+    "alias": [
+      "altos de apoquindo",
+      "condominio altos de apoquindo"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.72712,
+    "longitud": -72.62719,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r547",
+    "nombre_oficial": "Edificio Cumbres del Sur",
+    "alias": [
+      "edificio cumbres del sur"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.73065,
+    "longitud": -72.63461,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r548",
+    "nombre_oficial": "Edificios Alcalá",
+    "alias": [
+      "edificios alcala"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.72982,
+    "longitud": -72.63199,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r549",
+    "nombre_oficial": "Condominio Versalles",
+    "alias": [
+      "condominio versalles",
+      "versalles"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.72626,
+    "longitud": -72.63939,
+    "unidad_vecinal": "uv-26",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r550",
+    "nombre_oficial": "Condominio Marsella",
+    "alias": [
+      "condominio marsella",
+      "marsella"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.7265,
+    "longitud": -72.63812,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r551",
+    "nombre_oficial": "Puerta del Sol",
+    "alias": [
+      "puerta del sol"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.7311,
+    "longitud": -72.64531,
+    "unidad_vecinal": "uv-26",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r552",
+    "nombre_oficial": "Londrina Garden",
+    "alias": [
+      "londrina garden"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.73412,
+    "longitud": -72.64835,
+    "unidad_vecinal": "uv-26",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r553",
+    "nombre_oficial": "Altos del Mirasur II",
+    "alias": [
+      "altos del mirasur ii"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.73272,
+    "longitud": -72.64732,
+    "unidad_vecinal": "uv-26",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r554",
+    "nombre_oficial": "El Álamo",
+    "alias": [
+      "el alamo"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.72988,
+    "longitud": -72.55526,
+    "unidad_vecinal": "uv-18",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r555",
+    "nombre_oficial": "Condominio Alto Durand",
+    "alias": [
+      "alto durand",
+      "condominio alto durand"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.71955,
+    "longitud": -72.64614,
+    "unidad_vecinal": "uv-26",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r556",
+    "nombre_oficial": "Condominio Granada",
+    "alias": [
+      "condominio granada",
+      "granada"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.72234,
+    "longitud": -72.6351,
+    "unidad_vecinal": "uv-26",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r557",
+    "nombre_oficial": "Condominio Parque Durand",
+    "alias": [
+      "condominio parque durand",
+      "parque durand"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.72255,
+    "longitud": -72.6342,
+    "unidad_vecinal": "uv-23",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r558",
+    "nombre_oficial": "Condominio Alto Durand II",
+    "alias": [
+      "alto durand ii",
+      "condominio alto durand ii"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.72455,
+    "longitud": -72.63133,
+    "unidad_vecinal": "uv-23",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r559",
+    "nombre_oficial": "Condominio Valle de Javiera",
+    "alias": [
+      "condominio valle de javiera",
+      "valle de javiera"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.72432,
+    "longitud": -72.6293,
+    "unidad_vecinal": "uv-23",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r560",
+    "nombre_oficial": "Condominio Lomas de Javiera",
+    "alias": [
+      "condominio lomas de javiera",
+      "lomas de javiera"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.7225,
+    "longitud": -72.62594,
+    "unidad_vecinal": "uv-23",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r561",
+    "nombre_oficial": "Edificio Calatayud",
+    "alias": [
+      "edificio calatayud"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.72926,
+    "longitud": -72.61265,
+    "unidad_vecinal": "uv-10",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r562",
+    "nombre_oficial": "Condominio Aragón",
+    "alias": [
+      "aragon",
+      "condominio aragon"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.72937,
+    "longitud": -72.61153,
+    "unidad_vecinal": "uv-10",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r563",
+    "nombre_oficial": "Edificio El Conquistador",
+    "alias": [
+      "edificio el conquistador"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.72996,
+    "longitud": -72.6128,
+    "unidad_vecinal": "uv-10",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r564",
+    "nombre_oficial": "Jardín de Los Reyes",
+    "alias": [
+      "jardin de los reyes"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.73005,
+    "longitud": -72.61185,
+    "unidad_vecinal": "uv-10",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r565",
+    "nombre_oficial": "Alto Inglés",
+    "alias": [
+      "alto ingles"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.73718,
+    "longitud": -72.64669,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r566",
+    "nombre_oficial": "Condominio Las Azaleas",
+    "alias": [
+      "condominio las azaleas",
+      "las azaleas"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.71549,
+    "longitud": -72.65169,
+    "unidad_vecinal": "uv-26",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r567",
+    "nombre_oficial": "Condominio Doña Javiera",
+    "alias": [
+      "condominio dona javiera",
+      "dona javiera",
+      "condominio doña javiera"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.71677,
+    "longitud": -72.62367,
+    "unidad_vecinal": "uv-24",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r568",
+    "nombre_oficial": "Torres del Ñielol I",
+    "alias": [
+      "torres del nielol i",
+      "torres del ñielol i"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.72747,
+    "longitud": -72.59828,
+    "unidad_vecinal": "uv-02",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r569",
+    "nombre_oficial": "Torres del Ñielol II",
+    "alias": [
+      "torres del nielol ii",
+      "torres del ñielol ii"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.72782,
+    "longitud": -72.598,
+    "unidad_vecinal": "uv-02",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r570",
+    "nombre_oficial": "Las Parderas de Labranza",
+    "alias": [
+      "las parderas de labranza"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.76177,
+    "longitud": -72.76907,
+    "unidad_vecinal": "uv-29",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r571",
+    "nombre_oficial": "Altos del Portal",
+    "alias": [
+      "altos del portal"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74984,
+    "longitud": -72.64804,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r572",
+    "nombre_oficial": "Villa Frankfurt II",
+    "alias": [
+      "frankfurt ii",
+      "villa frankfurt ii"
+    ],
+    "tipo": "villa",
+    "latitud": -38.74994,
+    "longitud": -72.65078,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r573",
+    "nombre_oficial": "Altos del Maipo IV",
+    "alias": [
+      "altos del maipo iv"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.75572,
+    "longitud": -72.65918,
+    "unidad_vecinal": "uv-08",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r574",
+    "nombre_oficial": "Altos del Maipo III",
+    "alias": [
+      "altos del maipo iii"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.75435,
+    "longitud": -72.65247,
+    "unidad_vecinal": "uv-08",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r575",
+    "nombre_oficial": "Altos del Maipo II",
+    "alias": [
+      "altos del maipo ii"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.755,
+    "longitud": -72.65497,
+    "unidad_vecinal": "uv-08",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r576",
+    "nombre_oficial": "Altos del Maipo I",
+    "alias": [
+      "altos del maipo i"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.75531,
+    "longitud": -72.65688,
+    "unidad_vecinal": "uv-08",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r577",
+    "nombre_oficial": "Mirador de la Frontera IV",
+    "alias": [
+      "mirador de la frontera iv"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74209,
+    "longitud": -72.65214,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r578",
+    "nombre_oficial": "Parque Residencial Quilacoya",
+    "alias": [
+      "parque residencial quilacoya"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.71157,
+    "longitud": -72.63837,
+    "unidad_vecinal": "uv-25",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r580",
+    "nombre_oficial": "Juanita Aguirre",
+    "alias": [
+      "juanita aguirre"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.72875,
+    "longitud": -72.58111,
+    "unidad_vecinal": "uv-13",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r581",
+    "nombre_oficial": "Tucapel",
+    "alias": [
+      "tucapel"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.73103,
+    "longitud": -72.5809,
+    "unidad_vecinal": "uv-03",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r582",
+    "nombre_oficial": "Mackenna Sur",
+    "alias": [
+      "mackenna sur"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74713,
+    "longitud": -72.58874,
+    "unidad_vecinal": "uv-01",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r583",
+    "nombre_oficial": "Terranova",
+    "alias": [
+      "terranova"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.72031,
+    "longitud": -72.66451,
+    "unidad_vecinal": "uv-26",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r584",
+    "nombre_oficial": "Condominio El Carmen",
+    "alias": [
+      "condominio el carmen",
+      "el carmen"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.71262,
+    "longitud": -72.66048,
+    "unidad_vecinal": "uv-26",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r586",
+    "nombre_oficial": "Condominio Inés de Suárez",
+    "alias": [
+      "condominio ines de suarez",
+      "ines de suarez"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.72283,
+    "longitud": -72.62756,
+    "unidad_vecinal": "uv-23",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r587",
+    "nombre_oficial": "Condominio Javiera Carrera",
+    "alias": [
+      "condominio javiera carrera",
+      "javiera carrera"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.72489,
+    "longitud": -72.62477,
+    "unidad_vecinal": "uv-22",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r588",
+    "nombre_oficial": "Condominio Aitue",
+    "alias": [
+      "aitue",
+      "condominio aitue"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.71755,
+    "longitud": -72.66088,
+    "unidad_vecinal": "uv-26",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r589",
+    "nombre_oficial": "Condominio Cumbres",
+    "alias": [
+      "condominio cumbres",
+      "cumbres"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.71668,
+    "longitud": -72.65464,
+    "unidad_vecinal": "uv-26",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r590",
+    "nombre_oficial": "Condominio Parque El Carmen",
+    "alias": [
+      "condominio parque el carmen",
+      "parque el carmen"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.71692,
+    "longitud": -72.65306,
+    "unidad_vecinal": "uv-26",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r591",
+    "nombre_oficial": "Condominio Entre Parques 1",
+    "alias": [
+      "condominio entre parques 1",
+      "entre parques 1"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.75791,
+    "longitud": -72.61757,
+    "unidad_vecinal": "uv-05",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r592",
+    "nombre_oficial": "Condominio Entre Parques 2",
+    "alias": [
+      "condominio entre parques 2",
+      "entre parques 2"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.75865,
+    "longitud": -72.61738,
+    "unidad_vecinal": "uv-05",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r593",
+    "nombre_oficial": "Condominio Alto Durand V",
+    "alias": [
+      "alto durand v",
+      "condominio alto durand v"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.71691,
+    "longitud": -72.66454,
+    "unidad_vecinal": "uv-26",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r594",
+    "nombre_oficial": "Edificio Soul",
+    "alias": [
+      "edificio soul"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74521,
+    "longitud": -72.64204,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r595",
+    "nombre_oficial": "Condominio Centromayor",
+    "alias": [
+      "centromayor",
+      "condominio centromayor"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.7426,
+    "longitud": -72.58653,
+    "unidad_vecinal": "uv-01",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r596",
+    "nombre_oficial": "Portal Los Pablos",
+    "alias": [
+      "portal los pablos"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.75009,
+    "longitud": -72.64942,
+    "unidad_vecinal": "uv-12",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r597",
+    "nombre_oficial": "Parque Olimpia",
+    "alias": [
+      "parque olimpia"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.74438,
+    "longitud": -72.62609,
+    "unidad_vecinal": "uv-11",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r598",
+    "nombre_oficial": "Población Porvenir",
+    "alias": [
+      "poblacion porvenir",
+      "porvenir"
+    ],
+    "tipo": "poblacion",
+    "latitud": -38.71552,
+    "longitud": -72.55711,
+    "unidad_vecinal": "uv-14",
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r599",
+    "nombre_oficial": "Camino Catrimalal - Lar Recoba",
+    "alias": [
+      "camino catrimalal lar recoba",
+      "catrimalal lar recoba",
+      "camino catrimalal - lar recoba"
+    ],
+    "tipo": "camino",
+    "latitud": -38.67856,
+    "longitud": -72.6513,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r600",
+    "nombre_oficial": "Camino Rinconada de Tromén",
+    "alias": [
+      "camino rinconada de tromen",
+      "rinconada de tromen"
+    ],
+    "tipo": "camino",
+    "latitud": -38.67093,
+    "longitud": -72.75814,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r601",
+    "nombre_oficial": "Camino Collimallín - Delly",
+    "alias": [
+      "camino collimallin delly",
+      "collimallin delly",
+      "camino collimallin - delly"
+    ],
+    "tipo": "camino",
+    "latitud": -38.6131,
+    "longitud": -72.67175,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r602",
+    "nombre_oficial": "Camino El Alto",
+    "alias": [
+      "camino el alto",
+      "el alto"
+    ],
+    "tipo": "camino",
+    "latitud": -38.74298,
+    "longitud": -72.78193,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r603",
+    "nombre_oficial": "Camino Raluncoyán - Lircay",
+    "alias": [
+      "camino raluncoyan lircay",
+      "raluncoyan lircay",
+      "camino raluncoyan - lircay"
+    ],
+    "tipo": "camino",
+    "latitud": -38.70582,
+    "longitud": -72.67587,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r604",
+    "nombre_oficial": "Camino a Boyeco",
+    "alias": [
+      "a boyeco",
+      "camino a boyeco"
+    ],
+    "tipo": "camino",
+    "latitud": -38.65889,
+    "longitud": -72.62843,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r605",
+    "nombre_oficial": "Camino Trabunco - Los Copihues",
+    "alias": [
+      "camino trabunco los copihues",
+      "trabunco los copihues",
+      "camino trabunco - los copihues"
+    ],
+    "tipo": "camino",
+    "latitud": -38.69966,
+    "longitud": -72.6318,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r606",
+    "nombre_oficial": "Camino Pillanlelbún - Pumalal",
+    "alias": [
+      "camino pillanlelbun pumalal",
+      "pillanlelbun pumalal",
+      "camino pillanlelbun - pumalal"
+    ],
+    "tipo": "camino",
+    "latitud": -38.64459,
+    "longitud": -72.52647,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r607",
+    "nombre_oficial": "Camino Tromén Alto",
+    "alias": [
+      "camino tromen alto",
+      "tromen alto"
+    ],
+    "tipo": "camino",
+    "latitud": -38.67793,
+    "longitud": -72.72234,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r608",
+    "nombre_oficial": "Camino Llapelco",
+    "alias": [
+      "camino llapelco",
+      "llapelco"
+    ],
+    "tipo": "camino",
+    "latitud": -38.62514,
+    "longitud": -72.73997,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r609",
+    "nombre_oficial": "Camino Cinco Laureles - Tromén Norte",
+    "alias": [
+      "camino cinco laureles tromen norte",
+      "cinco laureles tromen norte",
+      "camino cinco laureles - tromen norte"
+    ],
+    "tipo": "camino",
+    "latitud": -38.69887,
+    "longitud": -72.72694,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r610",
+    "nombre_oficial": "Camino Botrolhue",
+    "alias": [
+      "botrolhue",
+      "camino botrolhue"
+    ],
+    "tipo": "camino",
+    "latitud": -38.72483,
+    "longitud": -72.63311,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r611",
+    "nombre_oficial": "Camino Monteverde",
+    "alias": [
+      "camino monteverde",
+      "monteverde"
+    ],
+    "tipo": "camino",
+    "latitud": -38.69348,
+    "longitud": -72.57023,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r612",
+    "nombre_oficial": "Camino Trañi Trañi",
+    "alias": [
+      "camino trani trani",
+      "trani trani",
+      "camino trañi trañi"
+    ],
+    "tipo": "camino",
+    "latitud": -38.74377,
+    "longitud": -72.72772,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r613",
+    "nombre_oficial": "Camino Collimallín - Cerro Curilahuén",
+    "alias": [
+      "camino collimallin cerro curilahuen",
+      "collimallin cerro curilahuen",
+      "camino collimallin - cerro curilahuen"
+    ],
+    "tipo": "camino",
+    "latitud": -38.59291,
+    "longitud": -72.73151,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r614",
+    "nombre_oficial": "Camino Quelihue",
+    "alias": [
+      "camino quelihue",
+      "quelihue"
+    ],
+    "tipo": "camino",
+    "latitud": -38.73019,
+    "longitud": -72.71926,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r615",
+    "nombre_oficial": "Camino a Galvarino",
+    "alias": [
+      "a galvarino",
+      "camino a galvarino"
+    ],
+    "tipo": "camino",
+    "latitud": -38.68832,
+    "longitud": -72.65807,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r616",
+    "nombre_oficial": "Camino Monte Verde - Chivilcán",
+    "alias": [
+      "camino monte verde chivilcan",
+      "monte verde chivilcan",
+      "camino monte verde - chivilcan"
+    ],
+    "tipo": "camino",
+    "latitud": -38.70993,
+    "longitud": -72.60216,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r617",
+    "nombre_oficial": "Camino Pumalal - Los Laureles",
+    "alias": [
+      "camino pumalal los laureles",
+      "pumalal los laureles",
+      "camino pumalal - los laureles"
+    ],
+    "tipo": "camino",
+    "latitud": -38.6511,
+    "longitud": -72.48811,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r618",
+    "nombre_oficial": "Camino Lircay",
+    "alias": [
+      "camino lircay",
+      "lircay"
+    ],
+    "tipo": "camino",
+    "latitud": -38.72682,
+    "longitud": -72.67451,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r619",
+    "nombre_oficial": "Camino Público del Sol",
+    "alias": [
+      "camino publico del sol",
+      "publico del sol"
+    ],
+    "tipo": "camino",
+    "latitud": -38.76799,
+    "longitud": -72.72921,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r620",
+    "nombre_oficial": "Camino Tromén",
+    "alias": [
+      "camino tromen",
+      "tromen"
+    ],
+    "tipo": "camino",
+    "latitud": -38.6962,
+    "longitud": -72.79257,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r621",
+    "nombre_oficial": "Camino Yunque",
+    "alias": [
+      "camino yunque",
+      "yunque"
+    ],
+    "tipo": "camino",
+    "latitud": -38.60082,
+    "longitud": -72.60986,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r622",
+    "nombre_oficial": "Camino Santa Laura - Quinahue",
+    "alias": [
+      "camino santa laura quinahue",
+      "santa laura quinahue",
+      "camino santa laura - quinahue"
+    ],
+    "tipo": "camino",
+    "latitud": -38.58097,
+    "longitud": -72.75877,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r623",
+    "nombre_oficial": "Camino de la Luna",
+    "alias": [
+      "camino de la luna",
+      "de la luna"
+    ],
+    "tipo": "camino",
+    "latitud": -38.75968,
+    "longitud": -72.74943,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  },
+  {
+    "id": "dic-r624",
+    "nombre_oficial": "Camino Quinahue",
+    "alias": [
+      "camino quinahue",
+      "quinahue"
+    ],
+    "tipo": "camino",
+    "latitud": -38.58289,
+    "longitud": -72.71842,
+    "unidad_vecinal": null,
+    "fuente": "equipo",
+    "fecha_actualizacion": "2026-11-10"
+  }
+]

@@ -1,0 +1,1441 @@
+{
+ "generico|avenida alemania 0450, temuco, temuco, chile": {
+  "latitud": -38.7343153,
+  "longitud": -72.6129478,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Avenida Alemania, Temuco, Provincia de Cautín, Región de la Araucanía, 4801011, Chile"
+ },
+ "generico|manuel montt 1150, temuco, temuco, chile": {
+  "latitud": -38.7378293,
+  "longitud": -72.5941076,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Manuel Montt, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4781158, Chile"
+ },
+ "generico|avenida pablo neruda 1540, temuco, temuco, chile": {
+  "latitud": -38.740605,
+  "longitud": -72.6197302,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Avenida Pablo Neruda, Villa René Schneider, Sector Poniente, Temuco, Provincia de Cautín, Región de la Araucanía, 4801011, Chile"
+ },
+ "generico|arturo prat 215, temuco, temuco, chile": {
+  "latitud": -38.7354593,
+  "longitud": -72.5894786,
+  "tipo_precision": "ninguna",
+  "nombre_encontrado": "215, Arturo Prat, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4790703, Chile"
+ },
+ "generico|avenida caupolicán 980, temuco, temuco, chile": {
+  "latitud": -38.7333558,
+  "longitud": -72.5887018,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Avenida Caupolicán, Villa Olímpica, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4790703, Chile"
+ },
+ "generico|hochstetter 1320, temuco, temuco, chile": {
+  "latitud": -38.740739,
+  "longitud": -72.6188627,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Hochstetter, Villa René Schneider, Sector Poniente, Temuco, Provincia de Cautín, Región de la Araucanía, 4801011, Chile"
+ },
+ "generico|avenida rudecindo ortega 2200, temuco, temuco, chile": {
+  "latitud": -38.7035954,
+  "longitud": -72.5509706,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Avenida Rudecindo Ortega, Parque Alcántara, Temuco, Provincia de Cautín, Región de la Araucanía, 4790839, Chile"
+ },
+ "generico|aldunate 575, temuco, temuco, chile": {
+  "latitud": -38.7328455,
+  "longitud": -72.5862657,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "General Aldunate, Villa Olímpica, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4790839, Chile"
+ },
+ "generico|manuel bulnes 480, temuco, temuco, chile": {
+  "latitud": -38.7382684,
+  "longitud": -72.5891615,
+  "tipo_precision": "ninguna",
+  "nombre_encontrado": "480, Manuel Bulnes, Población Carabineros, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4791047, Chile"
+ },
+ "generico|lautaro 1250, temuco, temuco, chile": {
+  "latitud": -38.735701,
+  "longitud": -72.5869557,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Lautaro, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4790839, Chile"
+ },
+ "generico|vicuña mackenna 650, temuco, temuco, chile": {
+  "latitud": -38.7395824,
+  "longitud": -72.5922213,
+  "tipo_precision": "ninguna",
+  "nombre_encontrado": "650, Vicuña Mackenna, Población Soberanía, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4791250, Chile"
+ },
+ "generico|diego portales 810, temuco, temuco, chile": {
+  "latitud": -38.73745,
+  "longitud": -72.5894769,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Diego Portales, Población Carabineros, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4791047, Chile"
+ },
+ "generico|avenida balmaceda 1480, temuco, temuco, chile": {
+  "latitud": -38.7334714,
+  "longitud": -72.5857763,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Avenida Balmaceda, Villa Olímpica, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4790839, Chile"
+ },
+ "generico|manuel rodríguez 925, temuco, temuco, chile": {
+  "latitud": -38.7359564,
+  "longitud": -72.5922641,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Manuel Rodríguez, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4791047, Chile"
+ },
+ "generico|las heras 745, temuco, temuco, chile": {
+  "latitud": -38.7403295,
+  "longitud": -72.5962078,
+  "tipo_precision": "ninguna",
+  "nombre_encontrado": "745, Las Heras, Pichicautín, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4781158, Chile"
+ },
+ "generico|antonio varas 1030, temuco, temuco, chile": {
+  "latitud": -38.7401171,
+  "longitud": -72.5928857,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Antonio Varas, Población Soberanía, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4791250, Chile"
+ },
+ "generico|claro solar 880, temuco, temuco, chile": {
+  "latitud": -38.7392646,
+  "longitud": -72.5913279,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Claro Solar, Población Carabineros, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4791250, Chile"
+ },
+ "generico|general mackenna 610, temuco, temuco, chile": {
+  "latitud": -38.7353928,
+  "longitud": -72.585589,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "General Mackenna, Población Carabineros, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4790839, Chile"
+ },
+ "generico|avenida javiera carrera 1320, temuco, temuco, chile": {
+  "latitud": -38.7274622,
+  "longitud": -72.626351,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Avenida Javiera Carrera, Villa Apoquindo, Pedro de Valdivia, Temuco, Provincia de Cautín, Región de la Araucanía, 4800601, Chile"
+ },
+ "generico|avenida san martín 1180, temuco, temuco, chile": {
+  "latitud": -38.7332155,
+  "longitud": -72.6364107,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Avenida San Martín, Lomas de Mirasur, Sector Poniente, Temuco, Provincia de Cautín, Región de la Araucanía, 4823435, Chile"
+ },
+ "generico|avenida pedro de valdivia 2350, temuco, temuco, chile": {
+  "latitud": -38.7326095,
+  "longitud": -72.6017223,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Avenida Pedro de Valdivia, Villa Ñielol, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4800996, Chile"
+ },
+ "generico|avenida luis durand 1950, temuco, temuco, chile": {
+  "latitud": -38.7169875,
+  "longitud": -72.6578097,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Avenida Luis Durand, Condominio Los Fundadores, Fundo El Carmen, Temuco, Provincia de Cautín, Región de la Araucanía, 4800000, Chile"
+ },
+ "generico|avenida gabriela mistral 1440, temuco, temuco, chile": {
+  "latitud": -38.7286679,
+  "longitud": -72.6128689,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Avenida Gabriela Mistral, Población Campo Deportivo, Pedro de Valdivia, Temuco, Provincia de Cautín, Región de la Araucanía, 4800601, Chile"
+ },
+ "generico|andrés bello 1290, temuco, temuco, chile": {
+  "latitud": -38.7426831,
+  "longitud": -72.5830827,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Andrés Bello, Los Álamos, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4791083, Chile"
+ },
+ "generico|zenteno 540, temuco, temuco, chile": {
+  "latitud": -38.737294,
+  "longitud": -72.5832053,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Ministro Zenteno, Población Carabineros, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4790839, Chile"
+ },
+ "generico|av alemnia 0450 dpto 3, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|m. montt 1150, temuco, chile": {
+  "latitud": -38.7378293,
+  "longitud": -72.5941076,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Manuel Montt, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4781158, Chile"
+ },
+ "generico|av. p. neruda 1540, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|prat 215 ofic 2, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|avda caupolican 980 temuco, temuco, chile": {
+  "latitud": -38.7361975,
+  "longitud": -72.5942625,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Avenida Caupolicán, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4781158, Chile"
+ },
+ "generico|hoschtetter 1320, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|rudecindo ortega 2200 blk b, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|aldunte 575 depto 12, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|bulnes 480 2do piso, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|lautaro 1250 local 4, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|vicuna mackena 650, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|portales 810 of 301, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|av balmaseda 1480, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|rodriguez 925 dpto 5b, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|las eras 745, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|a. varas 1030 casa 2, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|claro solar n° 880, temuco, chile": {
+  "latitud": -38.7392646,
+  "longitud": -72.5913279,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Claro Solar, Población Carabineros, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4791250, Chile"
+ },
+ "generico|gral mackenna 610, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|av javiera carera 1320 block 7, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|san martin 1180 dpto 404, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|av pedro de valdivia 2350 casa 3, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|avda. luis duran 1950, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|gabriela mistral 1440 depto. 23, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|andres vello 1290, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|zenteno 540, temuco, 2° piso, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|villa los alerces, pasaje 3, casa 12, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|pje los aromos 123 pob sta rosa, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|pob lanin, pasaje 7 casa 4, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|villa esperanza block 3 dpto 21, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|la pedro, pasaje las rosas casa 8, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|pob el salar sitio 14, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|villa portal de la frontera casa 33, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|los caciques pasaje 2 casa 9, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|población amanecer, pasaje 12, casa 5, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|pob. las quilas casa 44, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|pueblo nuevo, pasaje los robles 8, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|villa altos de labranza, casa 17, temuco, chile": {
+  "latitud": -38.7626541,
+  "longitud": -72.743042,
+  "tipo_precision": "ninguna",
+  "nombre_encontrado": "Villa Jorge Teillier, Villa Las Islas, Labranza, Temuco, Provincia de Cautín, Región de la Araucanía, Chile"
+ },
+ "generico|villa el bosque pje 2 casa 6, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|jardin del sur casa 21, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|villa padre hurtado block 5 dpto 12, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|villa los pinos pasaje 4 casa 2, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|pob. sta. rosita pasaje 9, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|villa alerse casa 3, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|pob lanín norte, casa 31, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|villa la esperanza 2, pasaje 1 casa 10, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|los pinitos, pasaje 3, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|el portal casa 12, temuco, chile": {
+  "latitud": -38.7670026,
+  "longitud": -72.7679317,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "El Portal, Los Castaños, Villa Padre Hurtado, Labranza, Temuco, Provincia de Cautín, Región de la Araucanía, Chile"
+ },
+ "generico|sector los caciques pasaje 5, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|villa los aromos pasaje 6 casa 4, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|poblacion pedro de valdivia, block 2 dpto 31, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|camino a cajón km 5, frente a la escuela, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|sector tromén, al lado de la posta, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|comunidad rayen mapu, camino a tromén km 2, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|camino a labranza km 8 parcela 12, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|frente al consultorio santa rosa, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|fundo el carmen, detrás de la sede, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|camino el carmen km 3, cerca de la cancha, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|comunidad lof pewen, lote 4, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|comunidad antu kura km 3 camino a cajon, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|al lado de la escuela rural cajón, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|frente a la posta de cajon, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|sector botrolhue, parcela 7, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|camino a tromen km 4, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|detrás de la sede vecinal los alerces, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|junto a la cancha las quilas, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|frente a la feria pinto, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|cerca del liceo pueblo nuevo, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|camino cajon km 12 parcela 3, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|camino a labransa km 2, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|frente a la escuelita de cajon, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|sector tromen alto, al lado del canal, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|comunidad lof peguen, camino a cajon, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|al lado del consultorio, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|parcela 22 camino viejo a cajón, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|frente a la plaza anibal pinto, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "acotado|avenida alemania 0450, temuco": {
+  "latitud": -38.7343153,
+  "longitud": -72.6129478,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Avenida Alemania, Temuco, Provincia de Cautín, Región de la Araucanía, 4801011, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "primary",
+   "addresstype": "primary",
+   "road": "Avenida Alemania"
+  }
+ },
+ "acotado|manuel montt 1150, temuco": {
+  "latitud": -38.7378293,
+  "longitud": -72.5941076,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Manuel Montt, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4781158, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "tertiary",
+   "addresstype": "tertiary",
+   "road": "Manuel Montt"
+  }
+ },
+ "acotado|avenida pablo neruda 1540, temuco": {
+  "latitud": -38.740605,
+  "longitud": -72.6197302,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Avenida Pablo Neruda, Villa René Schneider, Sector Poniente, Temuco, Provincia de Cautín, Región de la Araucanía, 4801011, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "secondary",
+   "addresstype": "secondary",
+   "road": "Avenida Pablo Neruda"
+  }
+ },
+ "acotado|arturo prat 215, temuco": {
+  "latitud": -38.7354593,
+  "longitud": -72.5894786,
+  "tipo_precision": "numero",
+  "nombre_encontrado": "215, Arturo Prat, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4790703, Chile",
+  "crudo": {
+   "category": "place",
+   "type": "house",
+   "addresstype": "place",
+   "house_number": "215",
+   "road": "Arturo Prat"
+  }
+ },
+ "acotado|avenida caupolicán 980, temuco": {
+  "latitud": -38.7361975,
+  "longitud": -72.5942625,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Avenida Caupolicán, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4781158, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "primary",
+   "addresstype": "primary",
+   "road": "Avenida Caupolicán"
+  }
+ },
+ "acotado|hochstetter 1320, temuco": {
+  "latitud": -38.740739,
+  "longitud": -72.6188627,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Hochstetter, Villa René Schneider, Sector Poniente, Temuco, Provincia de Cautín, Región de la Araucanía, 4801011, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "secondary",
+   "addresstype": "secondary",
+   "road": "Hochstetter"
+  }
+ },
+ "acotado|avenida rudecindo ortega 2200, temuco": {
+  "latitud": -38.7035954,
+  "longitud": -72.5509706,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Avenida Rudecindo Ortega, Parque Alcántara, Temuco, Provincia de Cautín, Región de la Araucanía, 4790839, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "primary",
+   "addresstype": "primary",
+   "road": "Avenida Rudecindo Ortega"
+  }
+ },
+ "acotado|aldunate 575, temuco": {
+  "latitud": -38.7328455,
+  "longitud": -72.5862657,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "General Aldunate, Villa Olímpica, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4790839, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "residential",
+   "addresstype": "residential",
+   "road": "General Aldunate"
+  }
+ },
+ "acotado|manuel bulnes 480, temuco": {
+  "latitud": -38.7382684,
+  "longitud": -72.5891615,
+  "tipo_precision": "numero",
+  "nombre_encontrado": "480, Manuel Bulnes, Población Carabineros, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4791047, Chile",
+  "crudo": {
+   "category": "place",
+   "type": "house",
+   "addresstype": "place",
+   "house_number": "480",
+   "road": "Manuel Bulnes"
+  }
+ },
+ "acotado|lautaro 1250, temuco": {
+  "latitud": -38.7349111,
+  "longitud": -72.5921214,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Lautaro, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4790703, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "tertiary",
+   "addresstype": "tertiary",
+   "road": "Lautaro"
+  }
+ },
+ "acotado|vicuña mackenna 650, temuco": {
+  "latitud": -38.7395824,
+  "longitud": -72.5922213,
+  "tipo_precision": "numero",
+  "nombre_encontrado": "650, Vicuña Mackenna, Población Soberanía, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4791250, Chile",
+  "crudo": {
+   "category": "place",
+   "type": "house",
+   "addresstype": "place",
+   "house_number": "650",
+   "road": "Vicuña Mackenna"
+  }
+ },
+ "acotado|diego portales 810, temuco": {
+  "latitud": -38.7372512,
+  "longitud": -72.5907898,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Diego Portales, Población Carabineros, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4791047, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "residential",
+   "addresstype": "residential",
+   "road": "Diego Portales"
+  }
+ },
+ "acotado|avenida balmaceda 1480, temuco": {
+  "latitud": -38.7334714,
+  "longitud": -72.5857763,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Avenida Balmaceda, Villa Olímpica, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4790839, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "secondary",
+   "addresstype": "secondary",
+   "road": "Avenida Balmaceda"
+  }
+ },
+ "acotado|manuel rodríguez 925, temuco": {
+  "latitud": -38.7359564,
+  "longitud": -72.5922641,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Manuel Rodríguez, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4791047, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "tertiary",
+   "addresstype": "tertiary",
+   "road": "Manuel Rodríguez"
+  }
+ },
+ "acotado|las heras 745, temuco": {
+  "latitud": -38.7403295,
+  "longitud": -72.5962078,
+  "tipo_precision": "numero",
+  "nombre_encontrado": "745, Las Heras, Pichicautín, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4781158, Chile",
+  "crudo": {
+   "category": "place",
+   "type": "house",
+   "addresstype": "place",
+   "house_number": "745",
+   "road": "Las Heras"
+  }
+ },
+ "acotado|antonio varas 1030, temuco": {
+  "latitud": -38.7401171,
+  "longitud": -72.5928857,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Antonio Varas, Población Soberanía, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4791250, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "residential",
+   "addresstype": "residential",
+   "road": "Antonio Varas"
+  }
+ },
+ "acotado|claro solar 880, temuco": {
+  "latitud": -38.7401651,
+  "longitud": -72.5852699,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Claro Solar, Población Carabineros, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4791083, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "tertiary",
+   "addresstype": "tertiary",
+   "road": "Claro Solar"
+  }
+ },
+ "acotado|general mackenna 610, temuco": {
+  "latitud": -38.7353928,
+  "longitud": -72.585589,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "General Mackenna, Población Carabineros, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4790839, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "residential",
+   "addresstype": "residential",
+   "road": "General Mackenna"
+  }
+ },
+ "acotado|avenida javiera carrera 1320, temuco": {
+  "latitud": -38.7207648,
+  "longitud": -72.6244052,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Avenida Javiera Carrera, Villa Ampliación Victoria, Pedro de Valdivia, Temuco, Provincia de Cautín, Región de la Araucanía, 4800601, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "primary",
+   "addresstype": "primary",
+   "road": "Avenida Javiera Carrera"
+  }
+ },
+ "acotado|avenida san martín 1180, temuco": {
+  "latitud": -38.7332155,
+  "longitud": -72.6364107,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Avenida San Martín, Lomas de Mirasur, Sector Poniente, Temuco, Provincia de Cautín, Región de la Araucanía, 4823435, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "tertiary",
+   "addresstype": "tertiary",
+   "road": "Avenida San Martín"
+  }
+ },
+ "acotado|avenida pedro de valdivia 2350, temuco": {
+  "latitud": -38.7326095,
+  "longitud": -72.6017223,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Avenida Pedro de Valdivia, Villa Ñielol, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4800996, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "primary",
+   "addresstype": "primary",
+   "road": "Avenida Pedro de Valdivia"
+  }
+ },
+ "acotado|avenida luis durand 1950, temuco": {
+  "latitud": -38.7169875,
+  "longitud": -72.6578097,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Avenida Luis Durand, Condominio Los Fundadores, Fundo El Carmen, Temuco, Provincia de Cautín, Región de la Araucanía, 4800000, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "tertiary",
+   "addresstype": "tertiary",
+   "road": "Avenida Luis Durand"
+  }
+ },
+ "acotado|avenida gabriela mistral 1440, temuco": {
+  "latitud": -38.7285364,
+  "longitud": -72.6179439,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Avenida Gabriela Mistral, Población Campo Deportivo, Pedro de Valdivia, Temuco, Provincia de Cautín, Región de la Araucanía, 4800601, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "secondary",
+   "addresstype": "secondary",
+   "road": "Avenida Gabriela Mistral"
+  }
+ },
+ "acotado|andrés bello 1290, temuco": {
+  "latitud": -38.7426831,
+  "longitud": -72.5830827,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Andrés Bello, Los Álamos, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4791083, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "residential",
+   "addresstype": "residential",
+   "road": "Andrés Bello"
+  }
+ },
+ "acotado|zenteno 540, temuco": {
+  "latitud": -38.7420319,
+  "longitud": -72.5839051,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Ministro Zenteno, Condominio Los Robles, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4791083, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "residential",
+   "addresstype": "residential",
+   "road": "Ministro Zenteno"
+  }
+ },
+ "acotado|avenida caupolican 980, temuco": {
+  "latitud": -38.7333558,
+  "longitud": -72.5887018,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Avenida Caupolicán, Villa Olímpica, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4790703, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "primary",
+   "addresstype": "primary",
+   "road": "Avenida Caupolicán"
+  }
+ },
+ "acotado|manuel rodriguez 925, temuco": {
+  "latitud": -38.7359564,
+  "longitud": -72.5922641,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Manuel Rodríguez, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4791047, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "tertiary",
+   "addresstype": "tertiary",
+   "road": "Manuel Rodríguez"
+  }
+ },
+ "acotado|avenida san martin 1180, temuco": {
+  "latitud": -38.7332155,
+  "longitud": -72.6364107,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Avenida San Martín, Lomas de Mirasur, Sector Poniente, Temuco, Provincia de Cautín, Región de la Araucanía, 4823435, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "tertiary",
+   "addresstype": "tertiary",
+   "road": "Avenida San Martín"
+  }
+ },
+ "acotado|andres bello 1290, temuco": {
+  "latitud": -38.7413288,
+  "longitud": -72.5918389,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Andrés Bello, Población Soberanía, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4791250, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "residential",
+   "addresstype": "residential",
+   "road": "Andrés Bello"
+  }
+ },
+ "acotado|avenida alemnia 0450, temuco": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "acotado|m montt 1150, temuco": {
+  "latitud": -38.7378293,
+  "longitud": -72.5941076,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Manuel Montt, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4781158, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "tertiary",
+   "addresstype": "tertiary",
+   "road": "Manuel Montt"
+  }
+ },
+ "acotado|avenida p neruda 1540, temuco": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "acotado|hoschtetter 1320, temuco": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "acotado|rudecindo ortega 2200, temuco": {
+  "latitud": -38.7198558,
+  "longitud": -72.5680632,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Temuco, Avenida Rudecindo Ortega, Villa Alihuén, Temuco, Provincia de Cautín, Región de la Araucanía, 4790839, Chile",
+  "crudo": {
+   "category": "tourism",
+   "type": "hostel",
+   "addresstype": "tourism",
+   "road": "Avenida Rudecindo Ortega"
+  }
+ },
+ "acotado|aldunte 575, temuco": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "acotado|vicuna mackena 650, temuco": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "acotado|avenida balmaseda 1480, temuco": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "acotado|rodriguez 925, temuco": {
+  "latitud": -38.7359564,
+  "longitud": -72.5922641,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Manuel Rodríguez, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4791047, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "tertiary",
+   "addresstype": "tertiary",
+   "road": "Manuel Rodríguez"
+  }
+ },
+ "acotado|las eras 745, temuco": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "acotado|a varas 2, temuco": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "acotado|avenida javiera carera 1320, temuco": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "acotado|san martin 1180, temuco": {
+  "latitud": -38.7433242,
+  "longitud": -72.5842343,
+  "tipo_precision": "ninguna",
+  "nombre_encontrado": "Condominio San Martín, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, Chile",
+  "crudo": {
+   "category": "place",
+   "type": "neighbourhood",
+   "addresstype": "neighbourhood"
+  }
+ },
+ "acotado|avenida pedro de valdivia 3, temuco": {
+  "latitud": -38.7326095,
+  "longitud": -72.6017223,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Avenida Pedro de Valdivia, Villa Ñielol, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4800996, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "primary",
+   "addresstype": "primary",
+   "road": "Avenida Pedro de Valdivia"
+  }
+ },
+ "acotado|avenida luis duran 1950, temuco": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "acotado|gabriela mistral 1440, temuco": {
+  "latitud": -38.7285364,
+  "longitud": -72.6179439,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Avenida Gabriela Mistral, Población Campo Deportivo, Pedro de Valdivia, Temuco, Provincia de Cautín, Región de la Araucanía, 4800601, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "secondary",
+   "addresstype": "secondary",
+   "road": "Avenida Gabriela Mistral"
+  }
+ },
+ "acotado|andres vello 1290, temuco": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "acotado|pasaje 3 12, temuco": {
+  "latitud": -38.7187157,
+  "longitud": -72.6277384,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Pasaje 3, Villa Santiago 2 (René Safirio), Pedro de Valdivia, Temuco, Provincia de Cautín, Región de la Araucanía, 4800601, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "living_street",
+   "addresstype": "living_street",
+   "road": "Pasaje 3"
+  }
+ },
+ "acotado|pasaje los aromos 123, temuco": {
+  "latitud": -38.7039261,
+  "longitud": -72.6443786,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Pasaje Los Aromos, Villa Los Castaños II, Villa Los Castaños, Portal San Francisco, Temuco, Provincia de Cautín, Región de la Araucanía, 4800000, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "residential",
+   "addresstype": "residential",
+   "road": "Pasaje Los Aromos"
+  }
+ },
+ "acotado|pasaje 7 4, temuco": {
+  "latitud": -38.7208478,
+  "longitud": -72.5551426,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Pasaje Río Quino, Villa Los Rios, Temuco, Provincia de Cautín, Región de la Araucanía, 4790839, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "living_street",
+   "addresstype": "living_street",
+   "road": "Pasaje Río Quino"
+  }
+ },
+ "acotado|pasaje las rosas 8, temuco": {
+  "latitud": -38.7044019,
+  "longitud": -72.6432677,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Pasaje Las Rosas, Villa Los Castaños II, Villa Los Castaños, Portal San Francisco, Temuco, Provincia de Cautín, Región de la Araucanía, 4800000, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "residential",
+   "addresstype": "residential",
+   "road": "Pasaje Las Rosas"
+  }
+ },
+ "acotado|pasaje 2 9, temuco": {
+  "latitud": -38.7208022,
+  "longitud": -72.6247273,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Pasaje 2, Villa Lautaro, Pedro de Valdivia, Temuco, Provincia de Cautín, Región de la Araucanía, 4800601, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "residential",
+   "addresstype": "residential",
+   "road": "Pasaje 2"
+  }
+ },
+ "acotado|pasaje 12 5, temuco": {
+  "latitud": -38.6906853,
+  "longitud": -72.5298237,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Pasaje La Mandarina, Vista Volcán, Temuco, Provincia de Cautín, Región de la Araucanía, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "residential",
+   "addresstype": "residential",
+   "road": "Pasaje La Mandarina"
+  }
+ },
+ "acotado|pasaje los robles 8, temuco": {
+  "latitud": -38.746977,
+  "longitud": -72.5853256,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Pasaje San José, Indesur, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4791266, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "living_street",
+   "addresstype": "living_street",
+   "road": "Pasaje San José"
+  }
+ },
+ "acotado|pasaje 2 6, temuco": {
+  "latitud": -38.7184393,
+  "longitud": -72.6275858,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Pasaje 2, Villa Santiago, Pedro de Valdivia, Temuco, Provincia de Cautín, Región de la Araucanía, 4800601, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "living_street",
+   "addresstype": "living_street",
+   "road": "Pasaje 2"
+  }
+ },
+ "acotado|pasaje 4 2, temuco": {
+  "latitud": -38.7246456,
+  "longitud": -72.5645991,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Pasaje 4, Temuco, Provincia de Cautín, Región de la Araucanía, 4790839, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "living_street",
+   "addresstype": "living_street",
+   "road": "Pasaje 4"
+  }
+ },
+ "acotado|pasaje 9, temuco": {
+  "latitud": -38.7358908,
+  "longitud": -72.590538,
+  "tipo_precision": "ninguna",
+  "nombre_encontrado": "Temuco, Provincia de Cautín, Región de la Araucanía, Chile",
+  "crudo": {
+   "category": "boundary",
+   "type": "administrative",
+   "addresstype": "city"
+  }
+ },
+ "acotado|pasaje 1 10, temuco": {
+  "latitud": -38.7257371,
+  "longitud": -72.5642384,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Pasaje 1, Temuco, Provincia de Cautín, Región de la Araucanía, 4790839, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "living_street",
+   "addresstype": "living_street",
+   "road": "Pasaje 1"
+  }
+ },
+ "acotado|pasaje 3, temuco": {
+  "latitud": -38.7187157,
+  "longitud": -72.6277384,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Pasaje 3, Villa Santiago 2 (René Safirio), Pedro de Valdivia, Temuco, Provincia de Cautín, Región de la Araucanía, 4800601, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "living_street",
+   "addresstype": "living_street",
+   "road": "Pasaje 3"
+  }
+ },
+ "acotado|pasaje 5, temuco": {
+  "latitud": -38.7239059,
+  "longitud": -72.5651272,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Pasaje 5, Temuco, Provincia de Cautín, Región de la Araucanía, 4790839, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "living_street",
+   "addresstype": "living_street",
+   "road": "Pasaje 5"
+  }
+ },
+ "acotado|pasaje 6 4, temuco": {
+  "latitud": -38.7158846,
+  "longitud": -72.5624981,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Pasaje Cacique Lemunao, Villa Alihuén, Temuco, Provincia de Cautín, Región de la Araucanía, 4790839, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "living_street",
+   "addresstype": "living_street",
+   "road": "Pasaje Cacique Lemunao"
+  }
+ },
+ "acotado|parcela 12, temuco": {
+  "latitud": -38.7358908,
+  "longitud": -72.590538,
+  "tipo_precision": "ninguna",
+  "nombre_encontrado": "Temuco, Provincia de Cautín, Región de la Araucanía, Chile",
+  "crudo": {
+   "category": "boundary",
+   "type": "administrative",
+   "addresstype": "city"
+  }
+ },
+ "acotado|camino a cajon, temuco": {
+  "latitud": -38.68112,
+  "longitud": -72.5109724,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Camino Viejo, Carlos Sanhueza, Cajón, Vilcún, Provincia de Cautín, Región de la Araucanía, Chile",
+  "crudo": {
+   "category": "tourism",
+   "type": "hostel",
+   "addresstype": "tourism",
+   "road": "Carlos Sanhueza"
+  }
+ },
+ "acotado|parcela 3, temuco": {
+  "latitud": -38.7358908,
+  "longitud": -72.590538,
+  "tipo_precision": "ninguna",
+  "nombre_encontrado": "Temuco, Provincia de Cautín, Región de la Araucanía, Chile",
+  "crudo": {
+   "category": "boundary",
+   "type": "administrative",
+   "addresstype": "city"
+  }
+ },
+ "acotado|camino viejo a cajon, temuco": {
+  "latitud": -38.68112,
+  "longitud": -72.5109724,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Camino Viejo, Carlos Sanhueza, Cajón, Vilcún, Provincia de Cautín, Región de la Araucanía, Chile",
+  "crudo": {
+   "category": "tourism",
+   "type": "hostel",
+   "addresstype": "tourism",
+   "road": "Carlos Sanhueza"
+  }
+ },
+ "acotado|montt 1150, temuco": {
+  "latitud": -38.7378293,
+  "longitud": -72.5941076,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Manuel Montt, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4781158, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "tertiary",
+   "addresstype": "tertiary",
+   "road": "Manuel Montt"
+  }
+ },
+ "generico|lomas del carmen pasaje 2 casa 9, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|brisas de labranza casa 21, temuco, chile": {
+  "latitud": -38.7685379,
+  "longitud": -72.7454908,
+  "tipo_precision": "ninguna",
+  "nombre_encontrado": "Brisas de Labranza, Villa Las Islas, Labranza, Temuco, Provincia de Cautín, Región de la Araucanía, Chile",
+  "crudo": {
+   "category": "place",
+   "type": "neighbourhood",
+   "addresstype": "neighbourhood"
+  }
+ },
+ "generico|villa santa maria de labranza pasaje 4 casa 2, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|las quilitas, pasaje 3, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|sector lomas del carmen pasaje 5, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|villa los tres aromos pasaje 6 casa 4, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|camino a boyeco km 5, frente a la escuela, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|comunidad juan quelen, al lado de la sede, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|sector conoco, al lado de la posta, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "acotado|camino a tromen, temuco": {
+  "latitud": -38.7223812,
+  "longitud": -72.7779107,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Camino Labranza a Tromén, Comunidad Juan Cayunao, Labranza, Temuco, Provincia de Cautín, Región de la Araucanía, Chile",
+  "crudo": {
+   "category": "highway",
+   "type": "tertiary",
+   "addresstype": "tertiary",
+   "road": "Camino Labranza a Tromén"
+  }
+ },
+ "generico|escuela tromen alto, camino a tromen, temuco, chile": {
+  "latitud": -38.6902368,
+  "longitud": -72.7334595,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Escuela Tromén Alto G-518, Camino Cinco Laureles - Tromén Norte, Comunidad Víctor Lepileo, Temuco, Provincia de Cautín, Región de la Araucanía, 4800567, Chile",
+  "crudo": {
+   "category": "amenity",
+   "type": "school",
+   "addresstype": "amenity",
+   "road": "Camino Cinco Laureles - Tromén Norte"
+  }
+ },
+ "generico|comunidad manuel curilef lote 4, temuco, chile": {
+  "latitud": -38.7301838,
+  "longitud": -72.700063,
+  "tipo_precision": "ninguna",
+  "nombre_encontrado": "Comunidad Manuel Curilef, Temuco, Provincia de Cautín, Región de la Araucanía, 4800567, Chile",
+  "crudo": {
+   "category": "place",
+   "type": "hamlet",
+   "addresstype": "hamlet"
+  }
+ },
+ "acotado|parcela 9, temuco": {
+  "latitud": -38.7358908,
+  "longitud": -72.590538,
+  "tipo_precision": "ninguna",
+  "nombre_encontrado": "Temuco, Provincia de Cautín, Región de la Araucanía, Chile",
+  "crudo": {
+   "category": "boundary",
+   "type": "administrative",
+   "addresstype": "city"
+  }
+ },
+ "generico|comunidad hueche huenulaf, parcela 9, temuco, chile": {
+  "latitud": -38.762642,
+  "longitud": -72.7240848,
+  "tipo_precision": "ninguna",
+  "nombre_encontrado": "Comunidad José Hueche Huenulaf, Labranza, Temuco, Provincia de Cautín, Región de la Araucanía, 4800567, Chile",
+  "crudo": {
+   "category": "place",
+   "type": "hamlet",
+   "addresstype": "hamlet"
+  }
+ },
+ "generico|al lado de la escuela tromen bajo, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|frente a la posta de collimallin, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "acotado|camino a mollulco, temuco": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|camino a mollulco, cerca de la escuela, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|sector monte verde, detrás de la escuela, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|sector botrolhue, frente a la escuela, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|frente al cesfam labranza, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|camino boyeco km 7 parcela 3, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|frente a la escuelita de boyeco, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "acotado|camino a conoco, temuco": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|posta konoko, camino a conoco, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|comunidad curilej, camino a tromen, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "acotado|camino a labranza, temuco": {
+  "latitud": -38.750259,
+  "longitud": -72.7615981,
+  "tipo_precision": "ninguna",
+  "nombre_encontrado": "Humedal Urbano Labranza Alto - Camino Mollulco, Comunidad Juan Cayul, Labranza, Temuco, Provincia de Cautín, Región de la Araucanía, Chile",
+  "crudo": {
+   "category": "natural",
+   "type": "wetland",
+   "addresstype": "wetland"
+  }
+ },
+ "generico|escuela trañi trañi, camino a labranza, temuco, chile": {
+  "latitud": -38.7410671,
+  "longitud": -72.7138474,
+  "tipo_precision": "calle",
+  "nombre_encontrado": "Escuela intercultural trañi trañi, Camino Trañi Trañi, Comunidad Juan Cayupán, Labranza, Temuco, Provincia de Cautín, Región de la Araucanía, 4800567, Chile",
+  "crudo": {
+   "category": "amenity",
+   "type": "school",
+   "addresstype": "amenity",
+   "road": "Camino Trañi Trañi"
+  }
+ },
+ "acotado|camino viejo a boyeco, temuco": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|parcela 22 camino viejo a boyeco, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ },
+ "generico|frente a la escuela de boyeco, sitio 2, temuco, chile": {
+  "latitud": null,
+  "longitud": null,
+  "tipo_precision": "ninguna"
+ }
+}

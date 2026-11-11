@@ -1,0 +1,1777 @@
+{
+ "fecha": "2026-11-11",
+ "duracion_s": 1,
+ "interpretacion": "parser heurístico (sin ANTHROPIC_API_KEY)",
+ "metricas": {
+  "sistema": {
+   "total": {
+    "n": 100,
+    "acierto": 61,
+    "derivacion": 34,
+    "error_silencioso": 5
+   },
+   "por_categoria": {
+    "urbana_limpia": {
+     "n": 25,
+     "acierto": 92,
+     "derivacion": 0,
+     "error_silencioso": 8
+    },
+    "urbana_errores": {
+     "n": 25,
+     "acierto": 52,
+     "derivacion": 36,
+     "error_silencioso": 12
+    },
+    "poblacion_villa": {
+     "n": 25,
+     "acierto": 56,
+     "derivacion": 44,
+     "error_silencioso": 0
+    },
+    "rural_referencia": {
+     "n": 25,
+     "acierto": 44,
+     "derivacion": 56,
+     "error_silencioso": 0
+    }
+   }
+  },
+  "generico": {
+   "total": {
+    "n": 100,
+    "acierto": 26,
+    "derivacion": 65,
+    "error_silencioso": 9
+   },
+   "por_categoria": {
+    "urbana_limpia": {
+     "n": 25,
+     "acierto": 76,
+     "derivacion": 0,
+     "error_silencioso": 24
+    },
+    "urbana_errores": {
+     "n": 25,
+     "acierto": 8,
+     "derivacion": 88,
+     "error_silencioso": 4
+    },
+    "poblacion_villa": {
+     "n": 25,
+     "acierto": 4,
+     "derivacion": 88,
+     "error_silencioso": 8
+    },
+    "rural_referencia": {
+     "n": 25,
+     "acierto": 16,
+     "derivacion": 84,
+     "error_silencioso": 0
+    }
+   }
+  }
+ },
+ "casos": [
+  {
+   "id": "c001",
+   "categoria": "urbana_limpia",
+   "uv_esperada": "uv-10",
+   "direccion": "Avenida Alemania 0450, Temuco",
+   "sistema": {
+    "uv_id": "uv-10",
+    "confianza": "media",
+    "motivo": "Número no encontrado en el mapa; ubicación a nivel de calle",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": "uv-10",
+    "nombre_encontrado": "Avenida Alemania, Temuco, Provincia de Cautín, Región de la Araucanía, 4801011, Chile"
+   }
+  },
+  {
+   "id": "c002",
+   "categoria": "urbana_limpia",
+   "uv_esperada": "uv-01",
+   "direccion": "Manuel Montt 1150, Temuco",
+   "sistema": {
+    "uv_id": "uv-01",
+    "confianza": "media",
+    "motivo": "Número no encontrado en el mapa; ubicación a nivel de calle",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": "uv-01",
+    "nombre_encontrado": "Manuel Montt, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4781158, Chile"
+   }
+  },
+  {
+   "id": "c003",
+   "categoria": "urbana_limpia",
+   "uv_esperada": "uv-11",
+   "direccion": "Avenida Pablo Neruda 1540, Temuco",
+   "sistema": {
+    "uv_id": "uv-11",
+    "confianza": "media",
+    "motivo": "Número no encontrado en el mapa; ubicación a nivel de calle",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": "uv-11",
+    "nombre_encontrado": "Avenida Pablo Neruda, Villa René Schneider, Sector Poniente, Temuco, Provincia de Cautín, Región de la Araucanía, 4801011, Chile"
+   }
+  },
+  {
+   "id": "c004",
+   "categoria": "urbana_limpia",
+   "uv_esperada": "uv-01",
+   "direccion": "Arturo Prat 215, Temuco",
+   "sistema": {
+    "uv_id": "uv-01",
+    "confianza": "alta",
+    "motivo": "Calle y número geocodificados dentro de la comuna",
+    "tipo_precision": "numero",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": "uv-01",
+    "nombre_encontrado": "215, Arturo Prat, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4790703, Chile"
+   }
+  },
+  {
+   "id": "c005",
+   "categoria": "urbana_limpia",
+   "uv_esperada": "uv-02",
+   "direccion": "Avenida Caupolicán 980, Temuco",
+   "sistema": {
+    "uv_id": "uv-01",
+    "confianza": "media",
+    "motivo": "Número no encontrado en el mapa; ubicación a nivel de calle",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": "uv-01",
+    "nombre_encontrado": "Avenida Caupolicán, Villa Olímpica, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4790703, Chile"
+   }
+  },
+  {
+   "id": "c006",
+   "categoria": "urbana_limpia",
+   "uv_esperada": "uv-11",
+   "direccion": "Hochstetter 1320, Temuco",
+   "sistema": {
+    "uv_id": "uv-11",
+    "confianza": "media",
+    "motivo": "Número no encontrado en el mapa; ubicación a nivel de calle",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": "uv-11",
+    "nombre_encontrado": "Hochstetter, Villa René Schneider, Sector Poniente, Temuco, Provincia de Cautín, Región de la Araucanía, 4801011, Chile"
+   }
+  },
+  {
+   "id": "c007",
+   "categoria": "urbana_limpia",
+   "uv_esperada": "uv-15",
+   "direccion": "Avenida Rudecindo Ortega 2200, Temuco",
+   "sistema": {
+    "uv_id": "uv-15",
+    "confianza": "media",
+    "motivo": "Número no encontrado en el mapa; ubicación a nivel de calle",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": "uv-15",
+    "nombre_encontrado": "Avenida Rudecindo Ortega, Parque Alcántara, Temuco, Provincia de Cautín, Región de la Araucanía, 4790839, Chile"
+   }
+  },
+  {
+   "id": "c008",
+   "categoria": "urbana_limpia",
+   "uv_esperada": "uv-03",
+   "direccion": "Aldunate 575, Temuco",
+   "sistema": {
+    "uv_id": "uv-03",
+    "confianza": "media",
+    "motivo": "Número no encontrado en el mapa; ubicación a nivel de calle",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": "uv-03",
+    "nombre_encontrado": "General Aldunate, Villa Olímpica, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4790839, Chile"
+   }
+  },
+  {
+   "id": "c009",
+   "categoria": "urbana_limpia",
+   "uv_esperada": "uv-01",
+   "direccion": "Manuel Bulnes 480, Temuco",
+   "sistema": {
+    "uv_id": "uv-01",
+    "confianza": "alta",
+    "motivo": "Calle y número geocodificados dentro de la comuna",
+    "tipo_precision": "numero",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": "uv-01",
+    "nombre_encontrado": "480, Manuel Bulnes, Población Carabineros, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4791047, Chile"
+   }
+  },
+  {
+   "id": "c010",
+   "categoria": "urbana_limpia",
+   "uv_esperada": "uv-02",
+   "direccion": "Lautaro 1250, Temuco",
+   "sistema": {
+    "uv_id": "uv-02",
+    "confianza": "media",
+    "motivo": "Número no encontrado en el mapa; ubicación a nivel de calle",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": "uv-01",
+    "nombre_encontrado": "Lautaro, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4790839, Chile"
+   }
+  },
+  {
+   "id": "c011",
+   "categoria": "urbana_limpia",
+   "uv_esperada": "uv-01",
+   "direccion": "Vicuña Mackenna 650, Temuco",
+   "sistema": {
+    "uv_id": "uv-01",
+    "confianza": "alta",
+    "motivo": "Calle y número geocodificados dentro de la comuna",
+    "tipo_precision": "numero",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": "uv-01",
+    "nombre_encontrado": "650, Vicuña Mackenna, Población Soberanía, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4791250, Chile"
+   }
+  },
+  {
+   "id": "c012",
+   "categoria": "urbana_limpia",
+   "uv_esperada": "uv-01",
+   "direccion": "Diego Portales 810, Temuco",
+   "sistema": {
+    "uv_id": "uv-01",
+    "confianza": "media",
+    "motivo": "Número no encontrado en el mapa; ubicación a nivel de calle",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": "uv-01",
+    "nombre_encontrado": "Diego Portales, Población Carabineros, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4791047, Chile"
+   }
+  },
+  {
+   "id": "c013",
+   "categoria": "urbana_limpia",
+   "uv_esperada": "uv-03",
+   "direccion": "Avenida Balmaceda 1480, Temuco",
+   "sistema": {
+    "uv_id": "uv-03",
+    "confianza": "media",
+    "motivo": "Número no encontrado en el mapa; ubicación a nivel de calle",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": "uv-03",
+    "nombre_encontrado": "Avenida Balmaceda, Villa Olímpica, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4790839, Chile"
+   }
+  },
+  {
+   "id": "c014",
+   "categoria": "urbana_limpia",
+   "uv_esperada": "uv-01",
+   "direccion": "Manuel Rodríguez 925, Temuco",
+   "sistema": {
+    "uv_id": "uv-01",
+    "confianza": "media",
+    "motivo": "Número no encontrado en el mapa; ubicación a nivel de calle",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": "uv-01",
+    "nombre_encontrado": "Manuel Rodríguez, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4791047, Chile"
+   }
+  },
+  {
+   "id": "c015",
+   "categoria": "urbana_limpia",
+   "uv_esperada": "uv-01",
+   "direccion": "Las Heras 745, Temuco",
+   "sistema": {
+    "uv_id": "uv-01",
+    "confianza": "alta",
+    "motivo": "Calle y número geocodificados dentro de la comuna",
+    "tipo_precision": "numero",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": "uv-01",
+    "nombre_encontrado": "745, Las Heras, Pichicautín, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4781158, Chile"
+   }
+  },
+  {
+   "id": "c016",
+   "categoria": "urbana_limpia",
+   "uv_esperada": "uv-01",
+   "direccion": "Antonio Varas 1030, Temuco",
+   "sistema": {
+    "uv_id": "uv-01",
+    "confianza": "media",
+    "motivo": "Número no encontrado en el mapa; ubicación a nivel de calle",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": "uv-01",
+    "nombre_encontrado": "Antonio Varas, Población Soberanía, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4791250, Chile"
+   }
+  },
+  {
+   "id": "c017",
+   "categoria": "urbana_limpia",
+   "uv_esperada": "uv-03",
+   "direccion": "Claro Solar 880, Temuco",
+   "sistema": {
+    "uv_id": "uv-03",
+    "confianza": "media",
+    "motivo": "Número no encontrado en el mapa; ubicación a nivel de calle",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": "uv-01",
+    "nombre_encontrado": "Claro Solar, Población Carabineros, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4791250, Chile"
+   }
+  },
+  {
+   "id": "c018",
+   "categoria": "urbana_limpia",
+   "uv_esperada": "uv-01",
+   "direccion": "General Mackenna 610, Temuco",
+   "sistema": {
+    "uv_id": "uv-01",
+    "confianza": "media",
+    "motivo": "Número no encontrado en el mapa; ubicación a nivel de calle",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": "uv-01",
+    "nombre_encontrado": "General Mackenna, Población Carabineros, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4790839, Chile"
+   }
+  },
+  {
+   "id": "c019",
+   "categoria": "urbana_limpia",
+   "uv_esperada": "uv-23",
+   "direccion": "Avenida Javiera Carrera 1320, Temuco",
+   "sistema": {
+    "uv_id": "uv-23",
+    "confianza": "media",
+    "motivo": "Número no encontrado en el mapa; ubicación a nivel de calle",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": "uv-10",
+    "nombre_encontrado": "Avenida Javiera Carrera, Villa Apoquindo, Pedro de Valdivia, Temuco, Provincia de Cautín, Región de la Araucanía, 4800601, Chile"
+   }
+  },
+  {
+   "id": "c020",
+   "categoria": "urbana_limpia",
+   "uv_esperada": "uv-12",
+   "direccion": "Avenida San Martín 1180, Temuco",
+   "sistema": {
+    "uv_id": "uv-12",
+    "confianza": "media",
+    "motivo": "Número no encontrado en el mapa; ubicación a nivel de calle",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": "uv-12",
+    "nombre_encontrado": "Avenida San Martín, Lomas de Mirasur, Sector Poniente, Temuco, Provincia de Cautín, Región de la Araucanía, 4823435, Chile"
+   }
+  },
+  {
+   "id": "c021",
+   "categoria": "urbana_limpia",
+   "uv_esperada": "uv-21",
+   "direccion": "Avenida Pedro de Valdivia 2350, Temuco",
+   "sistema": {
+    "uv_id": "uv-21",
+    "confianza": "media",
+    "motivo": "Número no encontrado en el mapa; ubicación a nivel de calle",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": "uv-21",
+    "nombre_encontrado": "Avenida Pedro de Valdivia, Villa Ñielol, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4800996, Chile"
+   }
+  },
+  {
+   "id": "c022",
+   "categoria": "urbana_limpia",
+   "uv_esperada": "uv-26",
+   "direccion": "Avenida Luis Durand 1950, Temuco",
+   "sistema": {
+    "uv_id": "uv-26",
+    "confianza": "media",
+    "motivo": "Número no encontrado en el mapa; ubicación a nivel de calle",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": "uv-26",
+    "nombre_encontrado": "Avenida Luis Durand, Condominio Los Fundadores, Fundo El Carmen, Temuco, Provincia de Cautín, Región de la Araucanía, 4800000, Chile"
+   }
+  },
+  {
+   "id": "c023",
+   "categoria": "urbana_limpia",
+   "uv_esperada": "uv-22",
+   "direccion": "Avenida Gabriela Mistral 1440, Temuco",
+   "sistema": {
+    "uv_id": "uv-22",
+    "confianza": "media",
+    "motivo": "Número no encontrado en el mapa; ubicación a nivel de calle",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": "uv-10",
+    "nombre_encontrado": "Avenida Gabriela Mistral, Población Campo Deportivo, Pedro de Valdivia, Temuco, Provincia de Cautín, Región de la Araucanía, 4800601, Chile"
+   }
+  },
+  {
+   "id": "c024",
+   "categoria": "urbana_limpia",
+   "uv_esperada": "uv-16",
+   "direccion": "Andrés Bello 1290, Temuco",
+   "sistema": {
+    "uv_id": "uv-01",
+    "confianza": "media",
+    "motivo": "Número no encontrado en el mapa; ubicación a nivel de calle",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": "uv-16",
+    "nombre_encontrado": "Andrés Bello, Los Álamos, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4791083, Chile"
+   }
+  },
+  {
+   "id": "c025",
+   "categoria": "urbana_limpia",
+   "uv_esperada": "uv-16",
+   "direccion": "Zenteno 540, Temuco",
+   "sistema": {
+    "uv_id": "uv-16",
+    "confianza": "media",
+    "motivo": "Número no encontrado en el mapa; ubicación a nivel de calle",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": "uv-03",
+    "nombre_encontrado": "Ministro Zenteno, Población Carabineros, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4790839, Chile"
+   }
+  },
+  {
+   "id": "c026",
+   "categoria": "urbana_errores",
+   "uv_esperada": "uv-10",
+   "direccion": "av alemnia 0450 dpto 3",
+   "sistema": {
+    "uv_id": "uv-10",
+    "confianza": "media",
+    "motivo": "Número no encontrado en el mapa; ubicación a nivel de calle",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c027",
+   "categoria": "urbana_errores",
+   "uv_esperada": "uv-01",
+   "direccion": "m. montt 1150",
+   "sistema": {
+    "uv_id": "uv-01",
+    "confianza": "media",
+    "motivo": "Número no encontrado en el mapa; ubicación a nivel de calle",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": "uv-01",
+    "nombre_encontrado": "Manuel Montt, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4781158, Chile"
+   }
+  },
+  {
+   "id": "c028",
+   "categoria": "urbana_errores",
+   "uv_esperada": "uv-11",
+   "direccion": "av. p. neruda 1540",
+   "sistema": {
+    "uv_id": null,
+    "confianza": "baja",
+    "motivo": "No se encontró la calle en el mapa; requiere revisión",
+    "tipo_precision": "ninguna",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c029",
+   "categoria": "urbana_errores",
+   "uv_esperada": "uv-01",
+   "direccion": "prat 215 ofic 2",
+   "sistema": {
+    "uv_id": null,
+    "confianza": "baja",
+    "motivo": "No se pudo ubicar: solo referencias vagas o datos insuficientes",
+    "tipo_precision": "ninguna",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c030",
+   "categoria": "urbana_errores",
+   "uv_esperada": "uv-02",
+   "direccion": "avda caupolican 980 temuco",
+   "sistema": {
+    "uv_id": "uv-01",
+    "confianza": "media",
+    "motivo": "Número no encontrado en el mapa; ubicación a nivel de calle",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": "uv-02",
+    "nombre_encontrado": "Avenida Caupolicán, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4781158, Chile"
+   }
+  },
+  {
+   "id": "c031",
+   "categoria": "urbana_errores",
+   "uv_esperada": "uv-11",
+   "direccion": "hoschtetter 1320",
+   "sistema": {
+    "uv_id": "uv-11",
+    "confianza": "media",
+    "motivo": "Número no encontrado en el mapa; ubicación a nivel de calle",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c032",
+   "categoria": "urbana_errores",
+   "uv_esperada": "uv-15",
+   "direccion": "rudecindo ortega 2200 blk b",
+   "sistema": {
+    "uv_id": "uv-13",
+    "confianza": "media",
+    "motivo": "Número no encontrado en el mapa; ubicación a nivel de calle",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c033",
+   "categoria": "urbana_errores",
+   "uv_esperada": "uv-03",
+   "direccion": "aldunte 575 depto 12",
+   "sistema": {
+    "uv_id": "uv-03",
+    "confianza": "media",
+    "motivo": "Número no encontrado en el mapa; ubicación a nivel de calle",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c034",
+   "categoria": "urbana_errores",
+   "uv_esperada": "uv-01",
+   "direccion": "bulnes 480 2do piso",
+   "sistema": {
+    "uv_id": null,
+    "confianza": "baja",
+    "motivo": "No se pudo ubicar: solo referencias vagas o datos insuficientes",
+    "tipo_precision": "ninguna",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c035",
+   "categoria": "urbana_errores",
+   "uv_esperada": "uv-02",
+   "direccion": "lautaro 1250 local 4",
+   "sistema": {
+    "uv_id": null,
+    "confianza": "baja",
+    "motivo": "No se pudo ubicar: solo referencias vagas o datos insuficientes",
+    "tipo_precision": "ninguna",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c036",
+   "categoria": "urbana_errores",
+   "uv_esperada": "uv-01",
+   "direccion": "vicuna mackena 650",
+   "sistema": {
+    "uv_id": "uv-01",
+    "confianza": "alta",
+    "motivo": "Calle y número geocodificados dentro de la comuna",
+    "tipo_precision": "numero",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c037",
+   "categoria": "urbana_errores",
+   "uv_esperada": "uv-01",
+   "direccion": "portales 810 of 301",
+   "sistema": {
+    "uv_id": null,
+    "confianza": "baja",
+    "motivo": "No se pudo ubicar: solo referencias vagas o datos insuficientes",
+    "tipo_precision": "ninguna",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c038",
+   "categoria": "urbana_errores",
+   "uv_esperada": "uv-03",
+   "direccion": "av balmaseda 1480",
+   "sistema": {
+    "uv_id": "uv-03",
+    "confianza": "media",
+    "motivo": "Número no encontrado en el mapa; ubicación a nivel de calle",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c039",
+   "categoria": "urbana_errores",
+   "uv_esperada": "uv-01",
+   "direccion": "rodriguez 925 dpto 5b",
+   "sistema": {
+    "uv_id": "uv-01",
+    "confianza": "media",
+    "motivo": "Número no encontrado en el mapa; ubicación a nivel de calle",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c040",
+   "categoria": "urbana_errores",
+   "uv_esperada": "uv-01",
+   "direccion": "las eras 745",
+   "sistema": {
+    "uv_id": "uv-01",
+    "confianza": "alta",
+    "motivo": "Calle y número geocodificados dentro de la comuna",
+    "tipo_precision": "numero",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c041",
+   "categoria": "urbana_errores",
+   "uv_esperada": "uv-01",
+   "direccion": "a. varas 1030 casa 2",
+   "sistema": {
+    "uv_id": null,
+    "confianza": "baja",
+    "motivo": "No se encontró la calle en el mapa; requiere revisión",
+    "tipo_precision": "ninguna",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c042",
+   "categoria": "urbana_errores",
+   "uv_esperada": "uv-03",
+   "direccion": "claro solar n° 880",
+   "sistema": {
+    "uv_id": null,
+    "confianza": "baja",
+    "motivo": "No se pudo ubicar: solo referencias vagas o datos insuficientes",
+    "tipo_precision": "ninguna",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": "uv-01",
+    "nombre_encontrado": "Claro Solar, Población Carabineros, Centro, Temuco, Provincia de Cautín, Región de la Araucanía, 4791250, Chile"
+   }
+  },
+  {
+   "id": "c043",
+   "categoria": "urbana_errores",
+   "uv_esperada": "uv-01",
+   "direccion": "gral mackenna 610",
+   "sistema": {
+    "uv_id": "uv-01",
+    "confianza": "media",
+    "motivo": "Número no encontrado en el mapa; ubicación a nivel de calle",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c044",
+   "categoria": "urbana_errores",
+   "uv_esperada": "uv-23",
+   "direccion": "av javiera carera 1320 block 7",
+   "sistema": {
+    "uv_id": "uv-23",
+    "confianza": "media",
+    "motivo": "Número no encontrado en el mapa; ubicación a nivel de calle",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c045",
+   "categoria": "urbana_errores",
+   "uv_esperada": "uv-12",
+   "direccion": "san martin 1180 dpto 404",
+   "sistema": {
+    "uv_id": null,
+    "confianza": "baja",
+    "motivo": "No se encontró la calle en el mapa; requiere revisión",
+    "tipo_precision": "ninguna",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c046",
+   "categoria": "urbana_errores",
+   "uv_esperada": "uv-21",
+   "direccion": "av pedro de valdivia 2350 casa 3",
+   "sistema": {
+    "uv_id": "uv-21",
+    "confianza": "media",
+    "motivo": "Número no encontrado en el mapa; ubicación a nivel de calle",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c047",
+   "categoria": "urbana_errores",
+   "uv_esperada": "uv-26",
+   "direccion": "avda. luis duran 1950",
+   "sistema": {
+    "uv_id": "uv-26",
+    "confianza": "media",
+    "motivo": "Número no encontrado en el mapa; ubicación a nivel de calle",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c048",
+   "categoria": "urbana_errores",
+   "uv_esperada": "uv-22",
+   "direccion": "gabriela mistral 1440 depto. 23",
+   "sistema": {
+    "uv_id": "uv-22",
+    "confianza": "media",
+    "motivo": "Número no encontrado en el mapa; ubicación a nivel de calle",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c049",
+   "categoria": "urbana_errores",
+   "uv_esperada": "uv-16",
+   "direccion": "andres vello 1290",
+   "sistema": {
+    "uv_id": "uv-01",
+    "confianza": "media",
+    "motivo": "Número no encontrado en el mapa; ubicación a nivel de calle",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c050",
+   "categoria": "urbana_errores",
+   "uv_esperada": "uv-16",
+   "direccion": "zenteno 540, temuco, 2° piso",
+   "sistema": {
+    "uv_id": null,
+    "confianza": "baja",
+    "motivo": "No se pudo ubicar: solo referencias vagas o datos insuficientes",
+    "tipo_precision": "ninguna",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c051",
+   "categoria": "poblacion_villa",
+   "uv_esperada": "uv-27",
+   "direccion": "villa los alerces, pasaje 3, casa 12",
+   "sistema": {
+    "uv_id": "uv-27",
+    "confianza": "alta",
+    "motivo": "Coincidencia exacta en el diccionario con UV única; se priorizó el lugar nombrado sobre la calle sin número",
+    "tipo_precision": "diccionario",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c052",
+   "categoria": "poblacion_villa",
+   "uv_esperada": "uv-16",
+   "direccion": "pje los aromos 123 pob sta rosa",
+   "sistema": {
+    "uv_id": "uv-16",
+    "confianza": "alta",
+    "motivo": "Coincidencia exacta en el diccionario con UV única; se priorizó el lugar nombrado sobre la calle sin número",
+    "tipo_precision": "diccionario",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c053",
+   "categoria": "poblacion_villa",
+   "uv_esperada": "uv-20",
+   "direccion": "pob lanin, pasaje 7 casa 4",
+   "sistema": {
+    "uv_id": "uv-20",
+    "confianza": "alta",
+    "motivo": "Coincidencia exacta en el diccionario con UV única; se priorizó el lugar nombrado sobre la calle sin número",
+    "tipo_precision": "diccionario",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c054",
+   "categoria": "poblacion_villa",
+   "uv_esperada": "uv-24",
+   "direccion": "villa esperanza block 3 dpto 21",
+   "sistema": {
+    "uv_id": "uv-24",
+    "confianza": "alta",
+    "motivo": "Coincidencia exacta en el diccionario con unidad vecinal única",
+    "tipo_precision": "diccionario",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c055",
+   "categoria": "poblacion_villa",
+   "uv_esperada": "uv-20",
+   "direccion": "la pedro, pasaje las rosas casa 8",
+   "sistema": {
+    "uv_id": null,
+    "confianza": "baja",
+    "motivo": "Pasaje con número no encontrado en el mapa y sin lugar que lo confirme; requiere revisión",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c056",
+   "categoria": "poblacion_villa",
+   "uv_esperada": "uv-24",
+   "direccion": "pob el salar sitio 14",
+   "sistema": {
+    "uv_id": "uv-24",
+    "confianza": "alta",
+    "motivo": "Coincidencia exacta en el diccionario con unidad vecinal única",
+    "tipo_precision": "diccionario",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c057",
+   "categoria": "poblacion_villa",
+   "uv_esperada": "uv-12",
+   "direccion": "villa portal de la frontera casa 33",
+   "sistema": {
+    "uv_id": "uv-12",
+    "confianza": "alta",
+    "motivo": "Coincidencia exacta en el diccionario con unidad vecinal única",
+    "tipo_precision": "diccionario",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c058",
+   "categoria": "poblacion_villa",
+   "uv_esperada": "uv-26",
+   "direccion": "lomas del carmen pasaje 2 casa 9",
+   "sistema": {
+    "uv_id": null,
+    "confianza": "baja",
+    "motivo": "Pasaje con número no encontrado en el mapa y sin lugar que lo confirme; requiere revisión",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c059",
+   "categoria": "poblacion_villa",
+   "uv_esperada": "uv-05",
+   "direccion": "población amanecer, pasaje 12, casa 5",
+   "sistema": {
+    "uv_id": "uv-05",
+    "confianza": "alta",
+    "motivo": "Coincidencia exacta en el diccionario con UV única; se priorizó el lugar nombrado sobre la calle sin número",
+    "tipo_precision": "diccionario",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c060",
+   "categoria": "poblacion_villa",
+   "uv_esperada": "uv-04",
+   "direccion": "pob. las quilas casa 44",
+   "sistema": {
+    "uv_id": "uv-04",
+    "confianza": "alta",
+    "motivo": "Coincidencia exacta en el diccionario con unidad vecinal única",
+    "tipo_precision": "diccionario",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c061",
+   "categoria": "poblacion_villa",
+   "uv_esperada": "uv-15",
+   "direccion": "pueblo nuevo, pasaje los robles 8",
+   "sistema": {
+    "uv_id": null,
+    "confianza": "baja",
+    "motivo": "Pasaje con número no encontrado en el mapa y sin lugar que lo confirme; requiere revisión",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c062",
+   "categoria": "poblacion_villa",
+   "uv_esperada": "uv-30",
+   "direccion": "villa altos de labranza, casa 17",
+   "sistema": {
+    "uv_id": "uv-30",
+    "confianza": "alta",
+    "motivo": "Coincidencia exacta en el diccionario con unidad vecinal única",
+    "tipo_precision": "diccionario",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": "uv-28",
+    "nombre_encontrado": "Villa Jorge Teillier, Villa Las Islas, Labranza, Temuco, Provincia de Cautín, Región de la Araucanía, Chile"
+   }
+  },
+  {
+   "id": "c063",
+   "categoria": "poblacion_villa",
+   "uv_esperada": "uv-28",
+   "direccion": "villa el bosque pje 2 casa 6",
+   "sistema": {
+    "uv_id": "uv-28",
+    "confianza": "alta",
+    "motivo": "Coincidencia exacta en el diccionario con UV única; se priorizó el lugar nombrado sobre la calle sin número",
+    "tipo_precision": "diccionario",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c064",
+   "categoria": "poblacion_villa",
+   "uv_esperada": "uv-31",
+   "direccion": "brisas de labranza casa 21",
+   "sistema": {
+    "uv_id": null,
+    "confianza": "baja",
+    "motivo": "No se pudo ubicar: solo referencias vagas o datos insuficientes",
+    "tipo_precision": "ninguna",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": "uv-31",
+    "nombre_encontrado": "Brisas de Labranza, Villa Las Islas, Labranza, Temuco, Provincia de Cautín, Región de la Araucanía, Chile"
+   }
+  },
+  {
+   "id": "c065",
+   "categoria": "poblacion_villa",
+   "uv_esperada": "uv-25",
+   "direccion": "villa padre hurtado block 5 dpto 12",
+   "sistema": {
+    "uv_id": "uv-25",
+    "confianza": "alta",
+    "motivo": "Coincidencia exacta en el diccionario con unidad vecinal única",
+    "tipo_precision": "diccionario",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c066",
+   "categoria": "poblacion_villa",
+   "uv_esperada": "uv-30",
+   "direccion": "villa santa maria de labranza pasaje 4 casa 2",
+   "sistema": {
+    "uv_id": null,
+    "confianza": "baja",
+    "motivo": "Calle sin número y lugar nombrado desconocido: posible ubicación errónea",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c067",
+   "categoria": "poblacion_villa",
+   "uv_esperada": "uv-16",
+   "direccion": "pob. sta. rosita pasaje 9",
+   "sistema": {
+    "uv_id": null,
+    "confianza": "baja",
+    "motivo": "No se encontró la calle en el mapa; requiere revisión",
+    "tipo_precision": "ninguna",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c068",
+   "categoria": "poblacion_villa",
+   "uv_esperada": "uv-27",
+   "direccion": "villa alerse casa 3",
+   "sistema": {
+    "uv_id": null,
+    "confianza": "baja",
+    "motivo": "El lugar nombrado no está en el diccionario; requiere revisión",
+    "tipo_precision": "ninguna",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c069",
+   "categoria": "poblacion_villa",
+   "uv_esperada": "uv-20",
+   "direccion": "pob lanín norte, casa 31",
+   "sistema": {
+    "uv_id": null,
+    "confianza": "baja",
+    "motivo": "Coincidencia parcial en el diccionario; requiere confirmación",
+    "tipo_precision": "diccionario",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c070",
+   "categoria": "poblacion_villa",
+   "uv_esperada": "uv-24",
+   "direccion": "villa la esperanza 2, pasaje 1 casa 10",
+   "sistema": {
+    "uv_id": null,
+    "confianza": "baja",
+    "motivo": "Calle sin número y lugar nombrado desconocido: posible ubicación errónea",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c071",
+   "categoria": "poblacion_villa",
+   "uv_esperada": "uv-04",
+   "direccion": "las quilitas, pasaje 3",
+   "sistema": {
+    "uv_id": null,
+    "confianza": "baja",
+    "motivo": "Pasaje sin número resuelto ni lugar que lo confirme: hay pasajes con el mismo nombre en varias unidades vecinales; requiere revisión",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c072",
+   "categoria": "poblacion_villa",
+   "uv_esperada": "uv-12",
+   "direccion": "el portal casa 12",
+   "sistema": {
+    "uv_id": null,
+    "confianza": "baja",
+    "motivo": "No se pudo ubicar: solo referencias vagas o datos insuficientes",
+    "tipo_precision": "ninguna",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": "uv-30",
+    "nombre_encontrado": "El Portal, Los Castaños, Villa Padre Hurtado, Labranza, Temuco, Provincia de Cautín, Región de la Araucanía, Chile"
+   }
+  },
+  {
+   "id": "c073",
+   "categoria": "poblacion_villa",
+   "uv_esperada": "uv-26",
+   "direccion": "sector lomas del carmen pasaje 5",
+   "sistema": {
+    "uv_id": "uv-26",
+    "confianza": "alta",
+    "motivo": "Coincidencia exacta en el diccionario con UV única; se priorizó el lugar nombrado sobre la calle sin número",
+    "tipo_precision": "diccionario",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c074",
+   "categoria": "poblacion_villa",
+   "uv_esperada": "uv-24",
+   "direccion": "villa los tres aromos pasaje 6 casa 4",
+   "sistema": {
+    "uv_id": "uv-24",
+    "confianza": "alta",
+    "motivo": "Coincidencia exacta en el diccionario con UV única; se priorizó el lugar nombrado sobre la calle sin número",
+    "tipo_precision": "diccionario",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c075",
+   "categoria": "poblacion_villa",
+   "uv_esperada": "uv-20",
+   "direccion": "poblacion pedro de valdivia, block 2 dpto 31",
+   "sistema": {
+    "uv_id": "uv-20",
+    "confianza": "alta",
+    "motivo": "Coincidencia exacta en el diccionario con unidad vecinal única",
+    "tipo_precision": "diccionario",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c076",
+   "categoria": "rural_referencia",
+   "uv_esperada": "uv-34",
+   "direccion": "camino a boyeco km 5, frente a la escuela",
+   "sistema": {
+    "uv_id": null,
+    "confianza": "baja",
+    "motivo": "El lugar abarca más de una unidad vecinal; requiere revisión",
+    "tipo_precision": "diccionario",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c077",
+   "categoria": "rural_referencia",
+   "uv_esperada": "uv-33",
+   "direccion": "comunidad juan quelen, al lado de la sede",
+   "sistema": {
+    "uv_id": "uv-33",
+    "confianza": "alta",
+    "motivo": "Coincidencia exacta en el diccionario con unidad vecinal única",
+    "tipo_precision": "diccionario",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c078",
+   "categoria": "rural_referencia",
+   "uv_esperada": "uv-17",
+   "direccion": "frente al consultorio santa rosa",
+   "sistema": {
+    "uv_id": null,
+    "confianza": "baja",
+    "motivo": "No se pudo ubicar: solo referencias vagas o datos insuficientes",
+    "tipo_precision": "ninguna",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c079",
+   "categoria": "rural_referencia",
+   "uv_esperada": "uv-34",
+   "direccion": "sector conoco, al lado de la posta",
+   "sistema": {
+    "uv_id": null,
+    "confianza": "baja",
+    "motivo": "Coincidencia parcial en el diccionario; requiere confirmación",
+    "tipo_precision": "diccionario",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c080",
+   "categoria": "rural_referencia",
+   "uv_esperada": "uv-33",
+   "direccion": "escuela tromen alto, camino a tromen",
+   "sistema": {
+    "uv_id": "uv-33",
+    "confianza": "media",
+    "motivo": "Solo calle sin número: ubicación aproximada",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": "uv-33",
+    "nombre_encontrado": "Escuela Tromén Alto G-518, Camino Cinco Laureles - Tromén Norte, Comunidad Víctor Lepileo, Temuco, Provincia de Cautín, Región de la Araucanía, 4800567, Chile"
+   }
+  },
+  {
+   "id": "c081",
+   "categoria": "rural_referencia",
+   "uv_esperada": "uv-33",
+   "direccion": "comunidad manuel curilef lote 4",
+   "sistema": {
+    "uv_id": "uv-33",
+    "confianza": "alta",
+    "motivo": "Coincidencia exacta en el diccionario con unidad vecinal única",
+    "tipo_precision": "diccionario",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": "uv-33",
+    "nombre_encontrado": "Comunidad Manuel Curilef, Temuco, Provincia de Cautín, Región de la Araucanía, 4800567, Chile"
+   }
+  },
+  {
+   "id": "c082",
+   "categoria": "rural_referencia",
+   "uv_esperada": "uv-27",
+   "direccion": "comunidad hueche huenulaf, parcela 9",
+   "sistema": {
+    "uv_id": "uv-27",
+    "confianza": "alta",
+    "motivo": "Coincidencia exacta en el diccionario con unidad vecinal única",
+    "tipo_precision": "diccionario",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": "uv-27",
+    "nombre_encontrado": "Comunidad José Hueche Huenulaf, Labranza, Temuco, Provincia de Cautín, Región de la Araucanía, 4800567, Chile"
+   }
+  },
+  {
+   "id": "c083",
+   "categoria": "rural_referencia",
+   "uv_esperada": "uv-33",
+   "direccion": "al lado de la escuela tromen bajo",
+   "sistema": {
+    "uv_id": "uv-33",
+    "confianza": "alta",
+    "motivo": "Coincidencia exacta en el diccionario con unidad vecinal única",
+    "tipo_precision": "diccionario",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c084",
+   "categoria": "rural_referencia",
+   "uv_esperada": "uv-35",
+   "direccion": "frente a la posta de collimallin",
+   "sistema": {
+    "uv_id": "uv-35",
+    "confianza": "alta",
+    "motivo": "Coincidencia exacta en el diccionario con unidad vecinal única",
+    "tipo_precision": "diccionario",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c085",
+   "categoria": "rural_referencia",
+   "uv_esperada": "uv-33",
+   "direccion": "camino a mollulco, cerca de la escuela",
+   "sistema": {
+    "uv_id": null,
+    "confianza": "baja",
+    "motivo": "No se encontró la calle en el mapa; requiere revisión",
+    "tipo_precision": "ninguna",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c086",
+   "categoria": "rural_referencia",
+   "uv_esperada": "uv-36",
+   "direccion": "sector monte verde, detrás de la escuela",
+   "sistema": {
+    "uv_id": "uv-36",
+    "confianza": "alta",
+    "motivo": "Coincidencia exacta en el diccionario con unidad vecinal única",
+    "tipo_precision": "diccionario",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c087",
+   "categoria": "rural_referencia",
+   "uv_esperada": "uv-27",
+   "direccion": "sector botrolhue, frente a la escuela",
+   "sistema": {
+    "uv_id": null,
+    "confianza": "baja",
+    "motivo": "El lugar abarca más de una unidad vecinal; requiere revisión",
+    "tipo_precision": "diccionario",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c088",
+   "categoria": "rural_referencia",
+   "uv_esperada": "uv-29",
+   "direccion": "frente al cesfam labranza",
+   "sistema": {
+    "uv_id": null,
+    "confianza": "baja",
+    "motivo": "No se pudo ubicar: solo referencias vagas o datos insuficientes",
+    "tipo_precision": "ninguna",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c089",
+   "categoria": "rural_referencia",
+   "uv_esperada": "uv-03",
+   "direccion": "frente a la feria pinto",
+   "sistema": {
+    "uv_id": "uv-03",
+    "confianza": "alta",
+    "motivo": "Coincidencia exacta en el diccionario con unidad vecinal única",
+    "tipo_precision": "diccionario",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c090",
+   "categoria": "rural_referencia",
+   "uv_esperada": "uv-14",
+   "direccion": "cerca del liceo pueblo nuevo",
+   "sistema": {
+    "uv_id": "uv-14",
+    "confianza": "alta",
+    "motivo": "Coincidencia exacta en el diccionario con unidad vecinal única",
+    "tipo_precision": "diccionario",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c091",
+   "categoria": "rural_referencia",
+   "uv_esperada": "uv-34",
+   "direccion": "camino boyeco km 7 parcela 3",
+   "sistema": {
+    "uv_id": "uv-34",
+    "confianza": "alta",
+    "motivo": "Coincidencia exacta en el diccionario con unidad vecinal única",
+    "tipo_precision": "diccionario",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c092",
+   "categoria": "rural_referencia",
+   "uv_esperada": "uv-34",
+   "direccion": "frente a la escuelita de boyeco",
+   "sistema": {
+    "uv_id": null,
+    "confianza": "baja",
+    "motivo": "No se pudo ubicar: solo referencias vagas o datos insuficientes",
+    "tipo_precision": "ninguna",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c093",
+   "categoria": "rural_referencia",
+   "uv_esperada": "uv-34",
+   "direccion": "posta konoko, camino a conoco",
+   "sistema": {
+    "uv_id": null,
+    "confianza": "baja",
+    "motivo": "No se encontró la calle en el mapa; requiere revisión",
+    "tipo_precision": "ninguna",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c094",
+   "categoria": "rural_referencia",
+   "uv_esperada": "uv-33",
+   "direccion": "comunidad curilej, camino a tromen",
+   "sistema": {
+    "uv_id": null,
+    "confianza": "baja",
+    "motivo": "Calle sin número y lugar nombrado desconocido: posible ubicación errónea",
+    "tipo_precision": "calle",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c095",
+   "categoria": "rural_referencia",
+   "uv_esperada": "uv-33",
+   "direccion": "sector tromen alto, al lado del canal",
+   "sistema": {
+    "uv_id": null,
+    "confianza": "baja",
+    "motivo": "El lugar abarca más de una unidad vecinal; requiere revisión",
+    "tipo_precision": "diccionario",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c096",
+   "categoria": "rural_referencia",
+   "uv_esperada": "uv-33",
+   "direccion": "escuela trañi trañi, camino a labranza",
+   "sistema": {
+    "uv_id": null,
+    "confianza": "baja",
+    "motivo": "No se encontró la calle en el mapa; requiere revisión",
+    "tipo_precision": "ninguna",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": "uv-33",
+    "nombre_encontrado": "Escuela intercultural trañi trañi, Camino Trañi Trañi, Comunidad Juan Cayupán, Labranza, Temuco, Provincia de Cautín, Región de la Araucanía, 4800567, Chile"
+   }
+  },
+  {
+   "id": "c097",
+   "categoria": "rural_referencia",
+   "uv_esperada": "uv-21",
+   "direccion": "al lado del consultorio",
+   "sistema": {
+    "uv_id": null,
+    "confianza": "baja",
+    "motivo": "No se pudo ubicar: solo referencias vagas o datos insuficientes",
+    "tipo_precision": "ninguna",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c098",
+   "categoria": "rural_referencia",
+   "uv_esperada": "uv-34",
+   "direccion": "parcela 22 camino viejo a boyeco",
+   "sistema": {
+    "uv_id": null,
+    "confianza": "baja",
+    "motivo": "No se encontró la calle en el mapa; requiere revisión",
+    "tipo_precision": "ninguna",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c099",
+   "categoria": "rural_referencia",
+   "uv_esperada": "uv-34",
+   "direccion": "frente a la escuela de boyeco, sitio 2",
+   "sistema": {
+    "uv_id": null,
+    "confianza": "baja",
+    "motivo": "Coincidencia parcial en el diccionario; requiere confirmación",
+    "tipo_precision": "diccionario",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  },
+  {
+   "id": "c100",
+   "categoria": "rural_referencia",
+   "uv_esperada": "uv-01",
+   "direccion": "frente a la plaza anibal pinto",
+   "sistema": {
+    "uv_id": "uv-01",
+    "confianza": "alta",
+    "motivo": "Coincidencia exacta en el diccionario con unidad vecinal única",
+    "tipo_precision": "diccionario",
+    "fuente": "heuristico"
+   },
+   "generico": {
+    "uv_id": null,
+    "nombre_encontrado": null
+   }
+  }
+ ]
+}

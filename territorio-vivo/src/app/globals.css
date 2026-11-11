@@ -1,0 +1,81 @@
+@import "tailwindcss";
+
+@theme {
+  --color-tv-fondo: #f2f5f1;
+  --color-tv-superficie: #ffffff;
+  --color-tv-tinta: #14211b;
+  --color-tv-tinta-suave: #5b6b62;
+  --color-tv-borde: #d9e0da;
+  --color-tv-araucaria: #1f6f4a;
+  --color-tv-cautin: #2460a8;
+  --color-tv-alta: #1f8a4c;
+  --color-tv-media: #c8780a;
+  --color-tv-baja: #c2362b;
+  --color-tv-aviso: #f5c544;
+  --color-tv-sin-dato: #e6ece7;
+}
+
+@theme inline {
+  --font-sans: var(--font-public-sans);
+}
+
+:root {
+  --tv-alto-banner: 1.75rem;
+  --tv-alto-pestanas: 4rem;
+}
+
+html {
+  background: var(--color-tv-fondo);
+}
+
+body {
+  font-family: var(--font-sans), "Public Sans", system-ui, sans-serif;
+  color: var(--color-tv-tinta);
+  font-size: 15px;
+  line-height: 1.47;
+  -webkit-font-smoothing: antialiased;
+}
+
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Foco visible y consistente */
+:where(button, a, input, select, [tabindex]):focus-visible {
+  outline: 2px solid var(--color-tv-araucaria);
+  outline-offset: 2px;
+}
+
+/* Mapa: controles de maplibre alineados con el sistema */
+.maplibregl-ctrl-group {
+  border: 1px solid var(--color-tv-borde);
+  border-radius: 10px;
+  box-shadow: none;
+}
+.maplibregl-ctrl-group button + button {
+  border-top-color: var(--color-tv-borde);
+}
+.maplibregl-ctrl-attrib {
+  font-size: 10px;
+  color: var(--color-tv-tinta-suave);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+  }
+}
+
+/* Tooltip de UV en los mapas */
+.tv-tooltip .maplibregl-popup-content {
+  font: 600 13px var(--font-sans, var(--font-public-sans)), system-ui, sans-serif;
+  padding: 6px 10px;
+  border: 1px solid var(--color-tv-borde);
+  border-radius: 8px;
+  box-shadow: none;
+  color: var(--color-tv-tinta);
+}
+.tv-tooltip .maplibregl-popup-tip {
+  display: none;
+}

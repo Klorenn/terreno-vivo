@@ -1,0 +1,18 @@
+# Herramientas locales de desarrollo asistido
+.atl/
+.claude/
+.playwright-mcp/
+
+# Dependencias y artefactos
+node_modules/
+.next/
+out/
+coverage/
+*.tsbuildinfo
+
+# Entorno
+.env*
+.DS_Store
+
+# Repo anidado de create-next-app, conservado como respaldo (1 commit de plantilla)
+territorio-vivo/.git-plantilla-respaldo/
